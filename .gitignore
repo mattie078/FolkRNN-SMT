@@ -1,0 +1,5 @@
+.idea/
+*.pyc
+*.pkl
+data/
+*.egg-info
