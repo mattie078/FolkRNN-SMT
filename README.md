@@ -22,7 +22,7 @@ cd folk-rnn
 
 Then to generate using one of the pretrained models:
 ~~~~
-python sample_rnn.py --terminal metadata/folkrnn_v2.pkl
+python sample_rnn.py metadata/folkrnn_v2.pkl --rng_seed 1 --temperature 20.0
 ~~~~
 
 To train a new model:
