@@ -1,5 +1,0 @@
-X:0
-3
-/2>
-d' :| =F _C =C 3/4 | c _e' G, 8 ^D =e ^C, _e' =F, _B, 8 5 ^c (4 f ^G a _E =g =A ^F _C _e' ^a z G, 9 G, K:Cdor ^c' /2< ^f f' |: =C, _B 3 g' |: (3 2> ^c' ^C, 8 |2 e' =a K:Cmix _B, C, f _C b' f ^A, =f z c' [ =B, C, g' =D =D M:3/4 | =F e 3/4 f' F, ^F M:12/8 f' 3/4 D a E, ^c F 6 _A =B, 3 K:Cmin ^A, < g' K:Cmix d' M:12/8 9 b ^F 2 g' 6 =A, e G, ^g =C =D e f =c M:6/8 M:6/8 /4 _A, 2> ^c' =e =e _a ^A z ^G, a' 2< (2 C, ^c =F, ^c' 5 < 12 | ^C /2< ^G, =D =c 2< =f _B _d _A, ^G, =A, _G ^c K:Cmin _g _a /2< =B <s> ^c a' _c e' 6 A _B, ^c' _G C ] K:Cmin (5 ^f C, 16 ^G, /2< 5/2 |1 =b B, =E, _e f' =b D M:3/4 =B K:Cmaj c e |1 =c /2> A, D, e =A, < 6 =B, =B, ^G, D, K:Cmaj B, G ] g e e 16 ^c =A 2< 2> _d' =e /8 A ^c' 4 :| 2> 12 3/4 7/2 <s> ^F a' g' 7 g 5 (2 ^f' ] =A, C,
-
