@@ -27,7 +27,7 @@ temperature = args.temperature
 ntunes = args.ntunes
 seed = args.seed
 
-with open(metadata_path) as f:
+with open(metadata_path, "rb") as f:
     metadata = pickle.load(f)
 
 if not os.path.isdir('samples'):
