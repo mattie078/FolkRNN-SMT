@@ -12,6 +12,6 @@ batch_size = 32
 max_epoch = 5
 grad_clipping = 5
 validation_fraction = 0.05
-validate_every = 1000  # iterations
+validate_every = 750 # iterations
 
-save_every = 10  # epochs
+save_every = 1  # epochs
