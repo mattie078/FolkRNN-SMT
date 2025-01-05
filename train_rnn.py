@@ -14,6 +14,9 @@ from lasagne.layers import *
 from data_iter import DataIterator
 
 print theano.config.floatX
+
+print theano.config.device 
+
 #theano.config.warn_float64 = 'raise'
 
 if len(sys.argv) < 3:
