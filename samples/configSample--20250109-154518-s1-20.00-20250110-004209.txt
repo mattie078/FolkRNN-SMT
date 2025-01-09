@@ -1,0 +1,5 @@
+X:0
+G
+11
+[M:8/16] =a 4 26 < 116 =G, _d G 99 (3 [K:GMaj] =e c' G [M:7/8] =F D 48 ^a | _f [K:GMaj] ^A [K:AMaj] =f 8 76 [L:1/4] G =B, [M:2/4] _f | [M:5/2] [M:6/2] =A, 18 /2 18 [K:FMaj] [M:19/16] 22 [K:Ebclef=bass] ] 53 51 =D =A, 39 [M:1/2] _E, 33 =b 66 4 [M:13/8] 91 21 [K:F#] _f [K:F#] =c 125 43 34 e [M:13/8] ^C =G =F ^B, [K:Cclef=bass] 8 a 116 18 12 76 [M:2/1] 18 116 B, ^A [M:14/2] /8 43 ^F 29 [K:Bbclef=bass] [K:Ebclef=bass] [M:9/4] C 24 ^C 67 [M:8/16] 2 134 ^G, 76 85 ] ^F [K:EMaj] a _f ^g _e =F D, 91 _D _b _b ^G ^d' [M:7/4] =A, =e =e 58 [M:3/8] _d [K:BMaj] 9 [M:7/4] 57 [M:13/8] ^a [M:7/8] =A, [M:5/8] [K:EbMaj] ^B, 7 [M:3/8] 19 [L:1/16] =G _G [M:7/4] [M:9/8] 21 b 11 [M:7/8] =f'
+
