@@ -4,10 +4,7 @@ import os
 import sys
 import time
 import importlib
-if sys.version_info < (3,0):
-    import cPickle as pickle
-else:
-    import pickle
+import cPickle as pickle
 
 from folk_rnn import Folk_RNN
 import argparse
