@@ -1,0 +1,5 @@
+X:0
+=G,
+M:4/4
+d' ^^F =A _B G, K:DMaj 7 <s> =G, K:GMaj _a ^F =g z =G, 2 =F < M:3/4 ^d ^^F M:6/4 ^F a
+

@@ -229,7 +229,7 @@ for epoch in xrange(start_epoch, config.max_epoch):
         print 'setting learning rate to %.7f' % new_learning_rate
 
     if (epoch + 1) % config.save_every == 0:
-        with open(metadata_target_path, 'w') as f:
+        with open(metadata_target_path, 'wb') as f:
             pickle.dump({
                 'configuration': config_name,
                 'experiment_id': experiment_id,
