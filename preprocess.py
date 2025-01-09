@@ -1,7 +1,7 @@
 import re
 
 # Open the file containing the dataset
-input_file_path = "DutchFolkTunes/dataset.txt"
+input_file_path = "DutchFolkTunes/OriginalDataset.txt"
 output_file_path = "processed_songs.txt"
 
 # Read the dataset from the file
