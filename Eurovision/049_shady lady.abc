@@ -1,0 +1,168 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\049_shady lady.midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%MIDI program 0
+zE EE EE zF| \
+z^D zD DD zE| \
+zC CC CC B,C-| \
+C3B, z4|
+z2 EE EE EF| \
+z2 ^DD DD DE| \
+zC CC CC CE-| \
+E3C z4|
+zE EE EE zF| \
+z^D zD DD zE| \
+zC CC CC B,C-| \
+C3B, z4|
+z2 EE EE EF| \
+z2 ^DD DD DE| \
+zF FF FF GA-| \
+A3G2F3|
+E2<F2 E2<F2| \
+EF FA2G FE| \
+A2<B2 A2<B2| \
+EF FA2G FE|
+E2<F2 E2<F2| \
+EF FA2G FE| \
+B3A3 F2| \
+c4<B4|
+A2<B2 AB BA| \
+c2 FA2B3| \
+A2<B2 AB BA| \
+c2 FA2F3|
+E2<F2 E2<F2| \
+EF FA2G FE| \
+B3A3 F2| \
+c3B3 c2|
+zE EE EE EE| \
+EE EF4-F| \
+zE EE EE EE| \
+EE EF4-F|
+zE EE EE EE| \
+EE EF4-F| \
+zE EE EE EE| \
+cB Ac4-c|
+V:2
+%%MIDI program 0
+[cAF]8| \
+[^dcAF]8| \
+[cAF]8| \
+[cAF]8|
+[cAF]8| \
+[^dcAF]8| \
+[cAF]8| \
+[cAF]8|
+[cAF]8| \
+[^dcAF]8| \
+[cAF]8| \
+[cAF]8|
+[cAF]8| \
+[^dcAF]8| \
+[cAF]8| \
+[cAF]8|
+[f^dB]4 [AF=D]4| \
+[cAF]8| \
+[f^dB]4 [AF=D]4| \
+[cAF]8|
+[f^dB]4 [AF=D]4| \
+[cAF]8| \
+[BAFD]8| \
+[BG=FC]8|
+[f^dB]4 [AF=D]4| \
+[cAF]8| \
+[f^dB]4 [AF=D]4| \
+[cAF]8|
+[f^dB]4 [AF=D]4| \
+[cAF]8| \
+[BAFD]8| \
+[BG=FC]8|
+[ecAF]8| \
+[ecAF]8| \
+[ecAF]8| \
+[ecAF]8|
+[ecAF]8| \
+[ecAF]8| \
+[ecAF]8| \
+[ecAF]8|
+V:3
+%%MIDI program 0
+F,,8| \
+F,,8| \
+F,,8| \
+F,,8|
+F,,8| \
+F,,8| \
+F,,8| \
+F,,8|
+F,,8| \
+F,,8| \
+F,,8| \
+F,,8|
+F,,8| \
+F,,8| \
+F,,8| \
+F,,8|
+B,,4 D,,4| \
+F,,8| \
+B,,4 D,,4| \
+F,,8|
+B,,4 D,,4| \
+F,,8| \
+D,8| \
+C,8|
+B,,4 D,,4| \
+F,,8| \
+B,,4 D,,4| \
+F,,8|
+B,,4 D,,4| \
+F,,8| \
+D,8| \
+C,8|
+F,,8| \
+F,,8| \
+F,,8| \
+F,,8|
+F,,8| \
+F,,8| \
+F,,8| \
+F,,8|
+V:4
+%%MIDI program 0
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+C8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+G8|
+

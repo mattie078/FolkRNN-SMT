@@ -1,0 +1,104 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\073_dancing in the rain .midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%MIDI program 0
+C2 z2 C/2DECG,/2-| \
+G,2 z3/2G,/2 C/2DEC/2G/2F/2-| \
+F/2EFEFEC3/2G/2F/2-| \
+FE<FE/2FE/2C/2CC/2D|
+C2 z3/2G,/2 C/2C/2D/2ECG,/2-| \
+G,2 z3/2G,DEGF/2-| \
+F/2EFEFE/2C/2C2F/2-| \
+F/2EFEFEC3/2E|
+E2 G2 d2 B3/2c/2-| \
+c4 z4| \
+E2 G2 d2 B3/2c/2-| \
+c4 z2 C/2DE/2-|
+E/2GFECG,3/2 C/2DE/2-| \
+E/2GFEC2-C/2 C/2DE/2-| \
+E2 G2 d2 B3/2c/2-| \
+c4 z4|
+C/2D/2E EC/2DDED/2C| \
+A,c<cc<cc/2c2-c/2| \
+C/2D/2E EC/2DDED/2C| \
+A,c<cc<cc/2cde/2|
+z8| \
+zc<cc/2c2dc3/2| \
+z3/2dc3/2 z3/2dc3/2-| \
+c4- c3/2d/2 e2|
+V:2
+%%MIDI program 0
+[GEC]8| \
+[DB,G,]8| \
+[GECA,]8| \
+[edcAF]8|
+[GEC]8| \
+[DB,G,]8| \
+[GECA,]8| \
+[edcAF]8|
+[GEC]4 [DCG,]4| \
+[ECA,]4 [cAF]4| \
+[GEC]4 [DCG,]4| \
+[cAFD]4 [cAF]4|
+[GEC]4 [DCG,]4| \
+[ECA,]4 [cAF]4| \
+[GEC]4 [DCG,]4| \
+[cAFD]4 [cAF]4|
+[GEC]4 [DCG,]4| \
+[cAFD]4 [cAF]4| \
+[GEC]4 [DCG,]4| \
+[cAFD]4 [cAF]4|
+[GEDCA,]4 [GECA,F,]4| \
+[GEDC]8| \
+[GEDCA,]8| \
+[GECA,F,]8|
+V:3
+%%MIDI program 0
+C,8| \
+B,,8| \
+A,,8| \
+F,,8|
+C,8| \
+B,,8| \
+A,,8| \
+F,,8|
+C,4 G,,4| \
+A,,4 F,,4| \
+C,4 G,,4| \
+D,,4 F,,4|
+C,4 G,,4| \
+A,,4 F,,4| \
+C,4 G,,4| \
+D,,4 F,,4|
+C,4 G,,4| \
+D,,4 F,,4| \
+C,4 G,,4| \
+D,,4 F,,4|
+C,4 C,4| \
+C,8| \
+C,8| \
+C,8|
+V:4
+%%MIDI program 0
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+C8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+G8|
+

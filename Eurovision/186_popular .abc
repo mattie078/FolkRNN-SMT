@@ -1,0 +1,198 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\186_popular .midi
+M: 4/4
+L: 1/8
+Q:1/4=170
+K:C major
+V:1
+%%MIDI program 0
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+c2 c2 cd cB| \
+G2 G2 G2 z2| \
+F2 F2 F2 zG|
+E2 D2 C4| \
+c2 c2 cd cB| \
+G2 G2 G2 z2| \
+F2 F2 F2 zG|
+E2 D2 C4| \
+E2 D2 C2 zE| \
+F2 z2 A2 z2| \
+=d4 ze =fe|
+=d2 dd ze =fe| \
+=d2 dd ze =fd| \
+a4 e4| \
+=f2 e=d ze fe|
+=d2 dd ze =fe| \
+=d2 dd ze =fd| \
+a4 e4| \
+=f2 e=d z4|
+z=d dd<dd e=f| \
+=f8| \
+z=g gg<gg ag| \
+e4 ze =fe|
+=d2 dd ze =fe| \
+=d2 dd ze =fd| \
+a4 e4| \
+=f2 e=d z4|
+z=f e=d zf ed| \
+z=f e=d zd zd| \
+z=f e=d zf ed| \
+z=f e=d zd zd|
+z=f e=d zf ed| \
+z=f e=d zd zd| \
+z=f e=d zf ed| \
+z=f e=d zd zd|
+z=f e=d zf ed| \
+z=f e=d zd zd| \
+z=f e=d zf =ga-|a8|
+V:2
+%%MIDI program 0
+z8| \
+[GEC]8| \
+[BGE]8| \
+[c^AF]8|
+[GEC]8| \
+[GEC]8| \
+[BGE]8| \
+[c^AF]8|
+[GEC]8| \
+[GEC]8| \
+[BGE]8| \
+[c^AF]8|
+[GEC]8| \
+[ECA,]8| \
+[CA,F,]8| \
+z8|
+[A=F=D]8| \
+[A=F=D]8| \
+[=CA,=F,]4 [ECA,]4| \
+[A=F=D]8|
+[A=F=D]8| \
+[A=F=D]8| \
+[=CA,=F,]4 [ECA,]4| \
+[A=F=D]8|
+[=F=D^A,]8| \
+[=CA,=F,]8| \
+[=D^A,=G,]8| \
+[E=DA,]8|
+[A=F=D]8| \
+[A=F=D]8| \
+[=CA,=F,]4 [ECA,]4| \
+[A=F=D]8|
+[A=F=D]8| \
+[=cA=F]8| \
+[=dB=G]8| \
+[ecA]8|
+[A=F=D]3[d-B-=G-]4[dBG]| \
+[ecA]8| \
+[A=F=D]3[d-B-=G-]4[dBG]| \
+[ecA]8|
+[A=F=D]8| \
+[=cA=F]8| \
+[=dB=G]8| \
+[ecA]8|
+V:3
+%%MIDI program 0
+z8| \
+C,8| \
+E,8| \
+F,8|
+C,8| \
+C,8| \
+E,8| \
+F,8|
+C,8| \
+C,8| \
+E,8| \
+F,8|
+C,8| \
+A,,8| \
+F,,8| \
+z8|
+=D,,8| \
+=D,,8| \
+=F,,4 A,,4| \
+=D,,8|
+=D,,8| \
+=D,,8| \
+=F,,4 A,,4| \
+=D,,8|
+^A,,8| \
+=F,,8| \
+=G,,8| \
+A,,8|
+=D,,8| \
+=D,,8| \
+=F,,4 A,,4| \
+=D,,8|
+=D,,8| \
+=F,,8| \
+=G,,8| \
+A,,8|
+=D,,4<=G,,4| \
+A,,8| \
+=D,,4<=G,,4| \
+A,,8|
+=D,,8| \
+=F,,8| \
+=G,,8| \
+A,,8|
+V:4
+%%MIDI program 0
+z8| \
+A,8| \
+z8| \
+z8|
+z8| \
+E8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+C8|
+V:5
+%%MIDI program 0
+z4 zd ed| \
+c2 cc2d ed| \
+c2 cc2d ec| \
+g4 d4|
+e2 dc4-c| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+G8|
+

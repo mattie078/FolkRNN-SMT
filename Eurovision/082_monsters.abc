@@ -1,0 +1,175 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\082_monsters.midi
+M: 4/4
+L: 1/8
+Q:1/4=160
+K:C major
+V:1
+%%MIDI program 0
+c2 c2 c2 z2| \
+z3C FG CE-| \
+EF z6| \
+z8|
+c2 c2 c2 z2| \
+zC CC FG CE-| \
+EF z6| \
+z6 CD|
+EE EE DD DD| \
+CC CC B,B, B,B,| \
+=A,F E6| \
+z4 G2 FE|
+C2 C2 E2 G2| \
+c2 c2 c2 BG-| \
+G6 F2| \
+z4 FG FE|
+C2 C2 E2 G2| \
+c2 c2 c2 BG-| \
+G6 F2| \
+z4 FG FE|
+C3/2C3/2D3/2D3/2 E2| \
+A,3/2A,3/2D3/2D3/2 E2| \
+G,8| \
+z4 FG FE|
+C2 C2 E2 G2| \
+de e2 e2 GG-| \
+G6 F2| \
+z4 B/2GF/2 z/2G/2C|
+z8| \
+z8| \
+z3E B/2G/2z3| \
+B/2G/2z3 B/2GF/2 z/2G/2C|
+V:2
+%%clef bass
+%%MIDI program 0
+[GEC]8| \
+[ECA,]8| \
+[GEC=A,F,]8| \
+[GEC=A,F,]8|
+[GEC]8| \
+[ECA,]8| \
+[GEC=A,F,]8| \
+[GEC=A,F,]8|
+[GEC]8| \
+[ECA,]8| \
+[GEC=A,F,]8| \
+[GEC=A,F,]8|
+[GEC]8| \
+[ECA,]8| \
+[BGE]8| \
+[FDB,]8|
+[GEC]8| \
+[ECA,]8| \
+[BGE]8| \
+[FDB,]8|
+[GEC]8| \
+[ECA,]8| \
+[BGE]8| \
+[FDB,]8|
+[GEC]8| \
+[ECA,]8| \
+[BGE]8| \
+[FDB,]8|
+[GEC]8| \
+[ECA,]8| \
+[BGE]8| \
+[FDB,]8|
+V:3
+%%MIDI program 0
+C,8| \
+A,,8| \
+F,,8| \
+F,,8|
+C,8| \
+A,,8| \
+F,,8| \
+F,,8|
+C,8| \
+A,,8| \
+F,,8| \
+F,,8|
+C,8| \
+A,,8| \
+E,,8| \
+B,,,8|
+C,8| \
+A,,8| \
+E,,8| \
+B,,,8|
+C,8| \
+A,,8| \
+E,,8| \
+B,,,8|
+C,8| \
+A,,8| \
+E,,8| \
+B,,,8|
+C,8| \
+A,,8| \
+E,,8| \
+B,,,8|
+V:4
+%%MIDI program 0
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+C8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+C4- CE3/2G3/2| \
+c3/2c3/2c zc3/2B3/2| \
+G3/2G3/2G zG3/2B3/2| \
+D3/2D3/2D zD3/2E3/2|
+V:5
+%%MIDI program 0
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+D8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+B,8|
+

@@ -1,0 +1,148 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\002_fuego.midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%MIDI program 0
+z2 D/2E/2E z3/2D/2 D/2E/2E| \
+z3z/2B,/2 EE/2E/2 B,B,| \
+z2 D/2E/2E z2 D/2E/2E| \
+z6 DB,|
+z3/2D/2 D/2F/2E z3/2D/2 D/2F/2E| \
+z2 z/2B,/2B,/2B,/2 EE/2E/2 B,B,| \
+z3/2B,/2 D/2E/2E z2 D/2E/2E| \
+z8|
+zE/2F/2 F/2F/2E/2D/2 EE EB,| \
+zE/2F/2 F/2F/2E/2D/2 E2 z2| \
+z/2B,/2D/2F/2 F/2E/2E/2D/2 EE EB,-| \
+B,D2E3 FA|
+B3/2B/2 zF A2 F/2E/2D| \
+E2 zD G/2G/2z/2G/2 GF| \
+z3D AF/2AF/2E| \
+AF/2AF/2E B,2 FA|
+B3/2B/2 zF A2 F/2E/2D| \
+E2 zD G/2G/2z/2G/2 GF| \
+z3D AF/2AF/2E| \
+AF/2AF/2E zF B,2|
+z8| \
+z4 zF B,D| \
+z6 zD| \
+AF/2AF/2E AF/2AF/2E|
+z8| \
+z4 zF B,D|
+V:2
+%%MIDI program 0
+[FDB,]3[A-F-D-]4[AFD]| \
+[ECA,]3[B-G-E-]4[BGE]| \
+[FDB,]3[A-F-D-]4[AFD]| \
+[ECA,]3[B-G-E-]4[BGE]|
+[FDB,]3[A-F-D-]4[AFD]| \
+[ECA,]3[B-G-E-]4[BGE]| \
+[FDB,]3[A-F-D-]4[AFD]| \
+[ECA,]3[B-G-E-]4[BGE]|
+[FDB,]3[A-F-D-]4[AFD]| \
+[ECA,]3[B-G-E-]4[BGE]| \
+[FDB,]3[A-F-D-]4[AFD]| \
+[ECA,]3[B-G-E-]4[BGE]|
+[FDB,]3[A-F-D-]4[AFD]| \
+[ECA,]3[B-G-E-]4[BGE]| \
+[FDB,]3[A-F-D-]4[AFD]| \
+[ECA,]3[B-G-E-]4[BGE]|
+[FDB,]3[A-F-D-]4[AFD]| \
+[ECA,]3[B-G-E-]4[BGE]| \
+[FDB,]3[A-F-D-]4[AFD]| \
+[ECA,]3[B-G-E-]4[BGE]|
+[FDB,]3[A-F-D-]4[AFD]| \
+[ECA,]3[B-G-E-]4[BGE]| \
+[FDB,]3[A-F-D-]4[AFD]| \
+[ECA,]3[B-G-E-]4[BGE]|
+[FDB,]3[A-F-D-]4[AFD]| \
+[ECA,]3[B-G-E-]4[BGE]| \
+[FDB,]3[A-F-D-]4[AFD]| \
+[ECA,]3[B-G-E-]4[BGE]|
+V:3
+%%MIDI program 0
+B,,4<D,4| \
+A,,4<E,,4| \
+B,,4<D,4| \
+A,,4<E,,4|
+B,,4<D,4| \
+A,,4<E,,4| \
+B,,4<D,4| \
+A,,4<E,,4|
+B,,4<D,4| \
+A,,4<E,,4| \
+B,,4<D,4| \
+A,,4<E,,4|
+B,,4<D,4| \
+A,,4<E,,4| \
+B,,4<D,4| \
+A,,4<E,,4|
+B,,4<D,4| \
+A,,4<E,,4| \
+B,,4<D,4| \
+A,,4<E,,4|
+B,,4<D,4| \
+A,,4<E,,4| \
+B,,4<D,4| \
+A,,4<E,,4|
+B,,4<D,4| \
+A,,4<E,,4| \
+B,,4<D,4| \
+A,,4<E,,4|
+V:4
+%%MIDI program 0
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+D8| \
+z8| \
+z8| \
+z8|
+C8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+B,8|
+V:5
+%%MIDI program 0
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+B,3/2D/2 F/2D<ED/2F/2D<ED/2| \
+E/2F/2E/2D/2 F/2D<ED/2E D/2B,A,/2| \
+B,3/2D/2 F/2D<ED/2F/2D<ED/2| \
+E/2F/2E/2D/2 F/2D<ED/2E D/2B,A,/2|
+B,3/2D/2 F/2D<ED/2F/2D<ED/2| \
+E/2F/2E/2D/2 F/2D<ED/2E D/2B,A,/2| \
+B,3/2D/2 F/2D<ED/2F/2D<ED/2| \
+E/2F/2E/2D/2 F/2D<ED/2E D/2B,A,/2|
+

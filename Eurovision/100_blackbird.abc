@@ -1,0 +1,144 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\100_blackbird.midi
+M: 4/4
+L: 1/8
+Q:1/4=150
+K:C major
+V:1
+%%MIDI program 0
+z2 DC2D CD| \
+B,3A, A,4| \
+z2 D2 CD B,A,-| \
+A,A, A,6|
+z2 D2 CD CD| \
+B,3A, A,4| \
+z2 D2 CD B,A,-| \
+A,A, A,6|
+d3c/2B/2 A3G| \
+FA AF F4| \
+zd2c/2B/2 A3G| \
+FA2A3 D2|
+zd2c/2B/2 A3G| \
+FA AA F2 E2| \
+z2 A2<F2 E2| \
+D4 z4|
+z2 A2<F2 E2| \
+D4 
+V:2
+%%MIDI program 0
+[DB,G,]4 [FDB,]4| \
+[AFD]8| \
+[DB,G,]4 [FDB,]4| \
+[AFD]8|
+[DB,G,]4 [FDB,]4| \
+[AFD]8| \
+[DB,G,]4 [FDB,]4| \
+[AFD]8|
+[dBAG]8| \
+[AFD]8| \
+[dBAG]8| \
+[AFD]8|
+[dBAG]8| \
+[AFDB,]8| \
+[EDCA,]8| \
+[DB,G,]4 [FDB,]4|
+[EDCA,]8| \
+[AFD]8| \
+[AFD]8| \
+[DB,G,]4 [GEC]4|
+[ECF,]4 [AFD]4| \
+[DB,G,]4 [GEC]4| \
+[ECF,]4 [FDB,]4| \
+[DB,G,]4 [ECA,]4|
+[FECB,]4 [FDB,]4| \
+[ECA,]8| \
+[dBGE]8| \
+[ECA,]8|
+[AFD]8| \
+[AFD]8|
+V:3
+%%MIDI program 0
+B,,4 B,,4| \
+D,,8| \
+B,,4 B,,4| \
+D,,8|
+B,,4 B,,4| \
+D,,8| \
+B,,4 B,,4| \
+D,,8|
+G,,8| \
+D,,8| \
+G,,8| \
+D,,8|
+G,,8| \
+B,,8| \
+A,,8| \
+B,,4 B,,4|
+A,,8| \
+D,,8| \
+D,,8| \
+G,,4 G,,4|
+F,,4 D,,4| \
+G,,4 G,,4| \
+F,,4 B,,,4| \
+G,,4 A,,4|
+B,,4 B,,4| \
+A,,8| \
+A,,8| \
+A,,8|
+D,8| \
+D,8|
+V:4
+%%MIDI program 0
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+C8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+G8|
+V:5
+%%MIDI program 0
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+B4 c4|
+c4 d4| \
+B4 c4| \
+c4 d4| \
+B4 c4|
+c4 d4| \
+c2 A6-| \
+A4 G2 F2| \
+E8|
+D8-|D8|
+

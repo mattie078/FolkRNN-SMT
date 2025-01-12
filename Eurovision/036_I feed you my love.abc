@@ -1,0 +1,144 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\036_I feed you my love.midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%MIDI program 0
+z6 DE/2B,/2-| \
+B,2 z4 DE/2B,/2-| \
+B,F2E3 DE/2B,/2-| \
+B,F3 z3B,|
+FE B,2<E2 DE/2B,/2-| \
+B,F3 z4| \
+B,F2E3 DE/2B,/2-| \
+B,2 z6|
+z6 DC/2B,/2-| \
+B,2 z4 zB,| \
+B,F2E3 DE/2B,/2-| \
+B,F3 z3B,|
+FE B,2<E2 DE/2B,/2-| \
+B,F3 z4| \
+B,F2E3 DE/2B,/2-| \
+B,2 z3B, DE/2B,/2-|
+B,2 zF FB2B-| \
+B2 z6| \
+z4 FB2c-| \
+c2 AA FE3|
+z4 z/2F/2B BA/2B/2-| \
+BB3 z4| \
+z6 B2| \
+B3A3 F2|
+EF6-F-| \
+F4 z4| \
+zB, B,B, B,B,2B,| \
+B,2 B,B,4-B,|
+z2 B,B, B,B,2B,| \
+B,2 B,B,3 z2| \
+zA, A,A, A,A,2A,| \
+A,2 A,A,4-A,|
+zB, B,B, B,B, B,B,| \
+B,2 
+V:2
+%%MIDI program 0
+z8| \
+[FDB,]8| \
+[FDB,]8| \
+[ECA,]8|
+[ECA,]8| \
+[FDB,G,]8| \
+[FDB,G,]8| \
+[BE]8|
+[BE]8| \
+[FDB,]8| \
+[FDB,]8| \
+[ECA,]8|
+[ECA,]8| \
+[FDB,G,]8| \
+[FDB,G,]8| \
+[BE]8|
+[BE]8| \
+[FDB,]8| \
+[FDB,]8| \
+[ECA,]8|
+[ECA,]8| \
+[FDB,G,]8| \
+[FDB,G,]8| \
+[BE]8|
+[BE]8| \
+[BE]8| \
+[FDB,]8| \
+[FDB,]8|
+[FDB,]8| \
+[FDB,]8| \
+[ECA,]8| \
+[ECA,]8|
+[FDB,]8| \
+[FDB,]8|
+V:3
+%%MIDI program 0
+z8| \
+B,,8| \
+B,,8| \
+A,,8|
+A,,8| \
+G,,8| \
+G,,8| \
+E,,8|
+E,,8| \
+B,,8| \
+B,,8| \
+A,,8|
+A,,8| \
+G,,8| \
+G,,8| \
+E,,8|
+E,,8| \
+B,,8| \
+B,,8| \
+A,,8|
+A,,8| \
+G,,8| \
+G,,8| \
+E,,8|
+E,,8| \
+E,,8| \
+B,,8| \
+B,,8|
+B,,8| \
+B,,8| \
+A,,8| \
+A,,8|
+B,,8| \
+B,,8|
+V:4
+%%MIDI program 0
+z8| \
+E8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+C8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+G8|
+

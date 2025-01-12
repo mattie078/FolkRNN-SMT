@@ -1,0 +1,128 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\001_euphoria .midi
+M: 4/4
+L: 1/8
+Q:1/4=160
+K:C major
+V:1
+%%MIDI program 0
+B8| \
+zB Bc dc Bd| \
+c3/2F3/2B4-B| \
+z6 zA|
+B8| \
+zB Bc dc Bd| \
+e3/2f3/2f4-f| \
+z6 g2|
+a6 bb-| \
+b3e ab c'd'| \
+c'3e3 f2-| \
+f3e ab c'd'|
+c'3a3 b2-| \
+b4- be ab| \
+a3/2a3/2a3/2a3/2 a3/2b/2-| \
+ba4A AB|
+c8| \
+z3A ed cd| \
+c2 AA4-A| \
+z6 A2|
+B2 cB4-B| \
+z3A ed cd| \
+c2 Ae4-e| \
+f3-f/2g3/2a3/2a3/2|
+a6 bb| \
+z8| \
+z8| \
+z6 ag|
+a6 bb| \
+z4 ze ab| \
+a3/2a3/2a3/2a3/2 a3/2b/2-| \
+bc'4-c' 
+V:2
+%%MIDI program 0
+[FDB,]8| \
+[FDB,]8| \
+[ECA,]4 [D-B,-=G,-]4| \
+[DB,=G,]8|
+[FDB,]8| \
+[FDB,]8| \
+[ECA,]4 [A-F-D-]4| \
+[AFD]8|
+[CA,F,]8| \
+[B,G,E,]8| \
+[ECA,]6 [c-A-F-D-]2| \
+[cAFD]8|
+[cAF]6 [B-G-E-]2| \
+[BGE]8| \
+[ecA]6 [BGE]2| \
+[cAFD]8|
+[cAF]8| \
+[GEC]8| \
+[cAFD]8| \
+[cAFD]8|
+[AFDB,]8| \
+[BGEC]8| \
+[cAFD]8| \
+[cAFD]8|
+[cAF]8| \
+[cGF]8| \
+[cBF]8| \
+[cAF]8|
+[AFD]8| \
+[GEC]8| \
+[ECA,]6 [BGE]2| \
+[AFD]8|
+V:3
+%%MIDI program 0
+B,,8| \
+B,,8| \
+A,,4 =G,,4-| \
+=G,,8|
+B,,8| \
+B,,8| \
+A,,4 D,4-| \
+D,8|
+F,8| \
+E,8| \
+A,,6 D,2-| \
+D,8|
+F,6 E,2-| \
+E,8| \
+A,6 E,2| \
+D,8|
+F,8| \
+C,8| \
+D,8| \
+D,8|
+B,,8| \
+C,8| \
+D,8| \
+D,8|
+F,8| \
+F,8| \
+F,8| \
+F,8|
+D,8| \
+C,8| \
+A,,6 E,,2| \
+D,,8|
+V:4
+%%MIDI program 0
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+C8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+G8|
+

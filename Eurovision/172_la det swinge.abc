@@ -1,0 +1,144 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\172_la det swinge.midi
+M: 4/4
+L: 1/8
+Q:1/4=160
+K:C major
+V:1
+%%MIDI program 0
+z4 zC B,A,-| \
+A,2 C2<F2 AB,-| \
+B,2 C2<E2 GF-| \
+FC6-C|
+z4 zC B,A,-| \
+A,2 C2<F2 AB,-| \
+B,2 C2<E2 GF-| \
+F8|
+z8| \
+A,2 C2<F2 AB,-| \
+B,2 C2<E2 GF-| \
+FA6-A|
+z4 zG AB-| \
+B2 DD2D2D-| \
+DE2F3 AG-| \
+G8|
+z4 zF GA| \
+AA AA AF zD| \
+z4 zE FG| \
+zG GG GF zA|
+zF zC z3F| \
+z3A4B| \
+z4 zE FG| \
+zG GG FE zF|
+z8| \
+D2 F2<B2 BB-| \
+B2 B2<B2 cB-| \
+BA6-A|
+z8| \
+=B,2 D2<G2 DA-| \
+A2 G2<G2 DG-| \
+G8-|
+G6 DG-|G8|
+V:2
+%%MIDI program 0
+z8| \
+[CA,F,]8| \
+[FDB,G,]4 [BGEC]4| \
+[CA,F,]4 [cAFD]4|
+[FDB,G,]4 [BGEC]4| \
+[CA,F,]8| \
+[FDB,G,]4 [BGEC]4| \
+[CA,F,]4 [cAFD]4|
+[FDB,G,]4 [BGEC]4| \
+[CA,F,]8| \
+[FDB,G,]4 [BGEC]4| \
+[AFD]8|
+[cAF]8| \
+[FDB,]8| \
+[FD=B,G,]8| \
+[BGFC]8|
+[BGEC]8| \
+[cAF]8| \
+[FDB,]8| \
+[BGEC]8|
+[cAF]8| \
+[cAF]8| \
+[FDB,]8| \
+[BGEC]8|
+[cAF]8| \
+[FDB,]8| \
+[F_DB,]8| \
+[cAF]8|
+[cA_GD]8| \
+[fd=BG]8| \
+[fd=BG]8| \
+[BGFC]8|
+[BGFC]8| \
+[BGEC]8| \
+[BGEC]8|
+V:3
+%%MIDI program 0
+z8| \
+F,,8| \
+G,,,4 C,,4| \
+F,,4 D,,4|
+G,,4 C,4| \
+F,,8| \
+G,,,4 C,,4| \
+F,,4 D,,4|
+G,,4 C,4| \
+F,,8| \
+G,,,4 C,,4| \
+D,,8|
+C,4 F,,4| \
+B,,8| \
+G,,8| \
+C,8|
+C,8| \
+F,8| \
+B,,8| \
+C,8|
+F,8| \
+F,8| \
+B,,8| \
+C,8|
+F,8| \
+B,,8| \
+_D,8| \
+C,8|
+D,8| \
+G,,8| \
+G,,8| \
+C,8|
+C,8| \
+C,8| \
+C,8|
+V:4
+%%MIDI program 0
+z8| \
+E8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+C8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+G8|
+

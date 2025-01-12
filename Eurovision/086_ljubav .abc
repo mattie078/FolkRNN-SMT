@@ -1,0 +1,200 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\086_ljubav .midi
+M: 4/4
+L: 1/8
+Q:1/4=160
+K:C major
+V:1
+%%MIDI program 0
+c4<A4| \
+c3A2G GF| \
+A4<G4| \
+A4<G4|
+c4<A4| \
+c3A2G2F| \
+A3G4G| \
+A2 BG4-G|
+ (3c4e4f4| \
+c3e3 f2| \
+A3G4G| \
+A2 BG4-G|
+ (3c4e4f4| \
+ (3c4b4a4| \
+d8-| \
+d4 z2 de|
+f2 f2 f2 zf| \
+ff fg2f fe| \
+f2 f2 f2 zf| \
+ff fg2a fe|
+f2 f2 f2 zf| \
+ff fg2a3| \
+a8| \
+c'8|
+c'8-| \
+c'4 c'3/2b3/2a| \
+g4<a4| \
+fg ab c'b ag|
+f3c'3 f2| \
+e3 (3c'2d'2d'2c'| \
+d'2 c'a4-a| \
+c'8|
+c'8-| \
+c'4 c'3/2b3/2a| \
+g4<a4| \
+fg ab c'b ag|
+f3c'3 f2| \
+e3 (3c'2d'2d'2c'| \
+d'8| \
+c'8|
+zf ff ff ff| \
+ff f (3f2f2e2d| \
+zf ff ff ff| \
+ff f (3f2f2g2a|
+zf ff ff ff| \
+ff f (3f2f2e2d| \
+zg gg gg gg| \
+gg 
+V:2
+%%MIDI program 0
+[cFDB,]3[A-F-D-B,-]4[AFDB,]| \
+[cFDB,]3[A-F-D-B,-]4[AFDB,]| \
+[ADB,G,]3[D-B,-G,-]4[DB,G,]| \
+[ADB,G,]3[D-B,-G,-]4[DB,G,]|
+[cFDB,]3[A-F-D-B,-]4[AFDB,]| \
+[cFDB,]3[A-F-D-B,-]4[AFDB,]| \
+[ADB,G,]3[D-B,-G,-]4[DB,G,]| \
+[ADB,G,]3[D-B,-G,-]4[DB,G,]|
+[cFDB,]3[A-F-D-B,-]4[AFDB,]| \
+[cFDB,]3[A-F-D-B,-]4[AFDB,]| \
+[ADB,G,]3[D-B,-G,-]4[DB,G,]| \
+[ADB,G,]3[D-B,-G,-]4[DB,G,]|
+[cFDB,]3[A-F-D-B,-]4[AFDB,]| \
+[cFDB,]3[A-F-D-B,-]4[AFDB,]| \
+[ADB,G,]3[D-B,-G,-]4[DB,G,]| \
+[ADB,G,]3[D-B,-G,-]4[DB,G,]|
+[AFDB,]6 [F-D-B,-G,-]2| \
+[FDB,G,]8| \
+[AFD]6 [C-A,-F,-]2| \
+[CA,F,]8|
+[AFDB,]6 [F-D-B,-G,-]2| \
+[FDB,G,]8| \
+[AFD]8| \
+[cAF]8|
+[cAFDB,]8| \
+[FDB,G,]8| \
+[AFD]8| \
+[GEC]8|
+[cAF]8| \
+[GEC]8| \
+[AFD]8| \
+[GEC]8|
+[cAFDB,]8| \
+[FDB,G,]8| \
+[AFD]8| \
+[GEC]8|
+[cAF]8| \
+[GEC]8| \
+[AFD]8| \
+[GEC]8|
+[FDB,]8| \
+[FDB,]8| \
+[AFD]8| \
+[AFD]8|
+[FDB,]8| \
+[FDB,]8| \
+[GEC]8| \
+[GEC]8|
+V:3
+%%MIDI program 0
+B,,8| \
+B,,8| \
+G,,8| \
+G,,8|
+B,,8| \
+B,,8| \
+G,,8| \
+G,,8|
+B,,8| \
+B,,8| \
+G,,8| \
+G,,8|
+B,,8| \
+B,,8| \
+G,,8| \
+G,,8|
+B,,6 G,,2-| \
+G,,8| \
+D,6 F,,2-| \
+F,,8|
+B,,6 G,,2-| \
+G,,8| \
+D,,8| \
+F,,8|
+B,,8| \
+G,,8| \
+D,,8| \
+C,,8|
+F,,8| \
+C,,8| \
+D,,8| \
+C,,8|
+B,,8| \
+G,,8| \
+D,,8| \
+C,,8|
+F,,8| \
+C,,8| \
+D,,8| \
+C,,8|
+B,,,8| \
+B,,,8| \
+D,,8| \
+D,,8|
+B,,,8| \
+B,,,8| \
+C,,8| \
+C,,8|
+V:4
+%%MIDI program 0
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+D8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+C8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+G8|
+

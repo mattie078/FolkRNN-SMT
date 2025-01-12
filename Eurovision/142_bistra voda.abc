@@ -1,0 +1,147 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\142_bistra voda.midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%MIDI program 0
+z8| \
+z8| \
+z8| \
+F3/2G3/2A cf ga|
+a3/2g/2 g<f fe<ec| \
+d/2c/2B3 zD/2D<dd/2| \
+c/2B/2A2G/2A/2 B<A G3/2F/2| \
+F3/2G3/2A cf ga|
+a3/2g/2 g<f fe<ec| \
+d/2c/2B3 z3/2F<dd/2| \
+c/2d/2c3 cB BA| \
+z8|
+z8| \
+A4 B3A/2B/2| \
+c3-c/2D/2 de f<d| \
+c3d/2c/2 B3c/2B/2|
+A3-A/2A/2 BA G<F| \
+A4 B3A/2B/2| \
+c3-c/2D/2 de f<d| \
+c3d/2c/2 B3c/2B/2|
+A8|
+V:2
+%%MIDI program 0
+[cAF]4 [fdB]4| \
+[fdB]4 [cAF]4| \
+[AFD]4 [G=FC]4| \
+[cAF]8|
+[cAF]4 [ec^AF]4| \
+[fdB]4 [fdB]4| \
+[cAF]4 [G=FC]4| \
+[cAF]8|
+[cAF]4 [ec^AF]4| \
+[fdB]4 [fdB]4| \
+[gfc]8| \
+[g=fc]8|
+[g=fc]8| \
+[ecA]4 [BGE]4| \
+[ecA]4 [fdB]4| \
+[ecA]4 [BGE]4|
+[ecA]4 [g=fc]4| \
+[cAF]4 [BGE]4| \
+[ecA]4 [fdB]4| \
+[ecA]4 [BGE]4|
+[ecA]8| \
+[cAF]4 [fdB]4| \
+[fdB]4 [ecA]4| \
+[AFD]4 [G=FC]4|
+[cAF]8| \
+[cAF]4 [fdB]4| \
+[fdB]4 [ecA]4| \
+[AFD]4 [G=FC]4|
+[cAF]8|
+V:3
+%%MIDI program 0
+F,,8| \
+F,,8| \
+F,,8| \
+F,,8|
+F,,4 ^A,,4| \
+B,,8| \
+C,4 C,4| \
+F,,8|
+F,,8| \
+B,,8| \
+C,8| \
+C,8|
+C,8| \
+A,,4 E,,4| \
+A,,4 B,,4| \
+A,,4 E,,4|
+A,,4 C,4| \
+F,4 E,4| \
+A,,4 B,,4| \
+A,,4 E,,4|
+A,,8| \
+F,,4 B,,4| \
+B,,4 A,,4| \
+D,4 C,4|
+F,8| \
+F,,4 B,,4| \
+B,,4 A,,4| \
+D,4 C,4|
+F,8|
+V:4
+%%MIDI program 0
+A8| \
+z8| \
+z8| \
+E8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+C8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+B,8|
+V:5
+%%MIDI program 0
+c/2c/2c/2c/2 fc B4| \
+B/2B/2B/2B/2 fB A4| \
+d/2c/2B/2A/2 GF =F2 d/2c/2G| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+c/2c/2c/2c/2 fc B4| \
+B/2B/2B/2B/2 fB A4| \
+d/2c/2B/2A/2 GF =F2 d/2c/2G|
+A3-A/2F/2 F/2G/2A/2B/2 c/2d/2e/2d/2| \
+c/2c/2c/2c/2 ff/2g/2 d4| \
+B/2B/2B/2B/2 ff/2g/2 c4| \
+d/2c/2B/2A/2 GF =F2 d/2c/2G|
+F4 
+

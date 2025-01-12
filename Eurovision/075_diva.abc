@@ -1,0 +1,137 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\075_diva.midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%MIDI program 0
+%%MIDI program 0
+B,2 GG4-G| \
+z2 B,2<C2 B,B,-| \
+B,2 A,A,4-A,| \
+z8|
+A,2 FF4-F| \
+z2 A,2<B,2 A,A,-| \
+A,G, A,G,4-G,| \
+z8|
+B,2 GG4-G| \
+z2 B,2<C2 B,A,-| \
+A,2 FF4-F| \
+z8|
+A,2 FF4-F| \
+z2 F2<G2 FF-| \
+F2 EE4-E| \
+z4 zG, A,B,|
+C3C2F, C2| \
+C2 B,2 zB, CD| \
+E3E2A, E2| \
+E2 D2 z2 EF|
+G4 z4| \
+G4- GF E2| \
+F8-| \
+F8|
+GF GF2E3| \
+GF GF2E3| \
+F2 E^D2F3-| \
+F4 z4|
+AG AG2F3| \
+AG AG2F3| \
+G2 FE2G3-|G8|
+V:2
+%%MIDI program 0
+%%MIDI program 0
+[B-G-E-]8| \
+[BGE]8| \
+[ECA,]8| \
+[F^DB,]8|
+[ECA,]8| \
+[F^DB,]8| \
+[BGE]8| \
+[FEB,]4 [F^DB,]4|
+[B-G-E-]8| \
+[BGE]8| \
+[ECA,]8| \
+[F^DB,]8|
+[ECA,]8| \
+[F^DB,]8| \
+[B-G-E-]8| \
+[BGE]8|
+[ECA,]8| \
+[DB,G,]8| \
+[GEC]8| \
+[DB,G,]8|
+[GEC]8| \
+[ECA,]8| \
+[FEB,]8| \
+[F^DB,]8|
+[B-G-E-]8| \
+[BGE]8| \
+[ECA,]8| \
+[F^DB,]8|
+[E-C-A,-]8| \
+[ECA,]8| \
+[B-G-E-]8|[BGE]8|
+V:3
+%%MIDI program 0
+%%MIDI program 0
+E,,8-| \
+E,,8| \
+A,,8| \
+B,,8|
+A,,8| \
+B,,8| \
+E,,8| \
+B,,4 B,,4|
+E,,8-| \
+E,,8| \
+A,,8| \
+B,,8|
+A,,8| \
+B,,8| \
+E,,8-| \
+E,,8|
+A,,8| \
+G,,8| \
+C,8| \
+G,,8|
+C,4 B,,4| \
+A,,4 G,,4| \
+B,,8| \
+B,,8|
+E,,8-| \
+E,,8| \
+A,,8| \
+B,,8|
+A,,8-| \
+A,,8| \
+E,,8-|E,,8|
+V:4
+%%MIDI program 0
+%%MIDI program 0
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+D8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+C8|
+

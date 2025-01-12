@@ -1,0 +1,31 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\051_vuelve comingo.midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%clef bass
+%%MIDI program 0
+[E-B,-G,-E,-E,-]2 [GE-B,-G,-E,-E,-][GE-B,-G,-E,-E,-] [GE-B,-G,-E,-E,-][GE-B,-G,-E,-E,-] [GE-B,-G,-E,-E,-][^F-EB,G,E,E,]| \
+[^FA,-F,-D,-D,-]3[E-A,F,D,D,] [E-E^CA,A,]4| \
+[EB,-G,-E,-E,-]2 [GB,-G,-E,-E,-][GB,-G,-E,-E,-] [GB,-G,-E,-E,-][GB,-G,-E,-E,-] [GB,-G,-E,-E,-][A-B,G,E,E,]| \
+[AA,-^F,-D,-D,-][AA,-F,-D,-D,-] [AA,-F,-D,-D,-][AA,F,D,D,] [F-^D-DB,-B,-][F-D-DB,-B,-]2[FE-DB,B,]|
+[EB,-G,-E,-E,-][B,-G,-E,-E,-] [GB,-G,-E,-E,-][GB,-G,-E,-E,-] [GB,-G,-E,-E,-][GB,-G,-E,-E,-] [GB,-G,-E,-E,-][^F-B,G,E,E,]| \
+[^FA,-F,-D,-D,-]3[E-A,F,D,D,] [EE^CA,A,]4| \
+[B,-G,-E,-E,-]2 [GB,-G,-E,-E,-][GB,-G,-E,-E,-] [GB,-G,-E,-E,-][GB,-G,-E,-E,-] [BB,-G,-E,-E,-][A-B,G,E,E,]| \
+[AA,-^F,-D,-D,-][AA,-F,-D,-D,-] [AA,-F,-D,-D,-][AA,F,D,D,] [F-^D-DB,-B,-][F-D-DB,-B,-]2[FE-DB,B,]|
+[EB,-G,-E,-E,-]2 [B,-G,-E,-E,-]4 [EB,-G,-E,-E,-][B-B,G,E,E,]| \
+[BD-A,-^F,-D,-D,-][AD-A,-F,-D,-D,-]2[D-A,-F,-D,-D,-]2[GD-A,-F,-D,-D,-]2[FDA,F,D,D,]| \
+[E-E-^C-A,-A,-]6 [E-EC-A,-A,-][EECA,A,]| \
+[BE-C-A,-A,-]2 [AE-C-A,-A,-]3[AE-C-A,-A,-]2[GECA,A,]|
+[B-B,G,E,E,]8| \
+[B^F^DB,B,]8| \
+[EC-B,G,E,E,]4 [^FCA,F,D,D,]4| \
+[G-GE-C-C,-][G-^FE-C-C,-] [GEECC,][F-D-DB,-B,-]3 [FDB,B,B,]2|
+[EB,G,E,E,]4 [^FA,F,D,D,]4| \
+[GG,-E,-C,-C,-][AG,-E,-C,-C,-] [BG,E,C,C,][A-^F-^DB,-B,-] [AF-=D-B,-B,-][GF-D-B,-B,-] [FFDB,B,]2| \
+[EB,G,E,E,]4 [^FA,F,D,D,]4| \
+[G-GE-C-C,-][G-^FE-C-C,-] [G-E-EC-C,-][GED-CC,] [F-D-DB,-B,-]2 [FDB,B,B,]2|
+[EB,-G,-E,-E,-][^FB,-G,-E,-E,-] [GB,-G,-E,-E,-][F-B,G,E,E,] [FA,-F,-D,-D,-][EA,-F,-D,-D,-] [DA,F,D,D,][E-E-^C-A,-A,-]|[EE^CA,A,]8|
+

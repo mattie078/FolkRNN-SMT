@@ -1,0 +1,51 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\065_ai cherche - rename.midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%clef treble
+%%MIDI program 0
+z6 z/2^G,3/2| \
+[^A-^F-=FE-^D-D,-]3/2[A-^F-E-D-DD,-][A-F-E-D-DD,-][A-F-E-D-DD,-]3/2[A-F-=FE-D-D,-] [A-^F-E-D-DD,-][AFED^CD,]| \
+[^A-^F-^D-^CD,-]3/2[A-F-D-DD,-][A-F-D-DD,-][A-F-D-DD,-]/2 [A-F-D-DD,-][A-F-=FD-D,-] [A-^F-D-DD,-][AFDCD,]| \
+[f-^c-^A-CA,-]3/2[f-c-A-^DA,-][f-c-A-DA,-][f-c-A-DA,-]/2 [f-c-A-DA,-][f-c-A-FA,-] [f-c-A-DA,-][fcACA,]|
+[f-^c-^A-CA,-]2 [f-c-A-A,-][f-c-A-A,-A,] [f-c-A-FA,-]3/2[f-c-A-C-A,-]2[fcACA,]/2| \
+[^G-F-^C-C,-]3/2[G-F-^DC-C,-][G-F-DC-C,-][G-F-DC-C,-]/2 [G-F-DC-C,-][G-F-FC-C,-] [G-F-DC-C,-][GFCCC,]| \
+[^G-F-^C-CC,-]3/2[G-F-^DC-C,-][G-F-DC-C,-][G-F-DC-C,-]/2 [G-F-DC-C,-][G-F-FC-C,-] [G-F-DC-C,-][GFC=C^C,]| \
+[^d-c-^G-CG,-]3/2[d-c-G-DG,-][d-c-G-DG,-][d-c-G-DG,-]/2 [d-c-G-DG,-][d-c-G-FG,-] [d-c-G-DG,-][dcGDG,]|
+[^d-c-^G-DG,-]2 [d-c-G-G,-]4 [dcGFG,]2| \
+[^A-^F-^D-DD,-]4 [AFDD,]4| \
+[^A-^F-^D-^CD,-][A-F-D-DD,-] [A-F-D-DD,-][A-F-D-DD,-] [A-F-D-DD,-][A-F-D-DD,-] [AF=FDD,]2| \
+[f-^c-^A-^DA,-]4 [fcAA,]4|
+[f-^c-^A-CA,-][f-c-A-^DA,-] [f-c-A-DA,-][f-c-A-DA,-] [f-c-A-DA,-][f-c-A-DA,-] [fcAFA,]2| \
+[^G-F-^D^C-C,-][G-F-C-CC,-]3 [GFCC,]4| \
+[^G-F-^C-CC,-][G-F-^DC-C,-] [G-F-DC-C,-][G-F-DC-C,-] [G-F-DC-C,-][G-F-DC-C,-] [GFCC,]2| \
+[^d-c-^G-^CG,-][d-=c-G-DG,-] [d-c-G-DG,-][d-c-G-DG,-] [d-c-G-^CG,-][d-=c-G-DG,-] [d-c-G-DG,-][dcGD-G,]|
+[^d-c-^G-DG,-][d-c-G-^CG,-] [d-=c-G-^CG,-]2 [d-=c-G-^A,G,-]2 [dcGG,]2| \
+[^A-A^F-^D-C-D,-][^cA-F-D-=C-D,-] [A-AF-D-C-D,-][A-^GF-D-C-D,-] [A-F-=FD-C-D,-]2 [A^FDCD,]2| \
+[^A-^F-^D-^CD,-][A-F-D-DD,-] [A-F-D-DD,-][A-F-D-CD,-] [A-F-D-DD,-][A-F-D-CD,-] [AF=FDD,]2| \
+[f-^c-^A-^DA,-]4 [fcAA,]4|
+[f-^c-^A-CA,-][f-c-A-^DA,-] [f-c-A-DA,-][f-c-A-CA,-] [f-c-A-DA,-][f-c-A-CA,-] [fcAFA,]2| \
+[^A^G-F-^C-C,-][cG-F-C-C,-] [AG-F-C-C,-][G-GF-C-C,-] [G-F-FC-C,-]2 [GFCC,]2| \
+[^G-F-^C-CC,-][G-F-^DC-C,-] [G-F-DC-C,-][G-F-C-CC,-] [G-F-DC-C,-][G-F-C-CC,-] [GFFCC,]2| \
+[^d-c-^G-CG,-]4 [dcGG,]4|
+[^dc^GG,]8| \
+[^A-A^F-^D-D,-][^cA-F-D-D,-] [A-AF-D-D,-][A-^GF-D-D,-] [A-F-=FD-D,-]2 [A^FDD,]2| \
+[^A-^F-^D-^CD,-][A-F-D-DD,-] [A-F-D-DD,-][A-F-D-CD,-] [A-F-D-DD,-][A-F-D-CD,-] [AF=FDD,]2| \
+[f-^c-^A-^DA,-]2 [fcAA,]6|
+[f-^c-^A-CA,-][f-c-A-^DA,-] [f-c-A-DA,-][f-c-A-CA,-] [f-c-A-DA,-][f-c-A-CA,-] [fcAFA,]2| \
+[^A^G-F-^C-C,-][cG-F-C-C,-] [AG-F-C-C,-][G-GF-C-C,-] [G-F-FC-C,-]2 [GFCC,]2| \
+[^G-F-^C-CC,-][G-F-^DC-C,-] [G-F-DC-C,-][G-F-C-CC,-] [G-F-DC-C,-][G-F-C-CC,-] [GFFCC,]2| \
+[^d-c-^G-CG,-]4 [dcGG,]4|
+[^d-c-^G-G,-]6 [d-c-G-G,-][dcG^A,G,]| \
+[^A-G-^F-^D-^CD,-]3/2[A-G-F-D-=CD,-]/2 [A-G-F-D-A,D,-][A-G-F-D-CD,-] [A-G-F-D-^CD,-]2 [A-G-F-D-A,D,-][AGFD=CD,]| \
+[f-^c-^A-CA,-]3/2[f-c-A-=CA,-]/2 [f-^c-A-A,-A,][f-c-A-=CA,-] [f-^c-A-CA,-]2 [f-c-A-A,-][fcAA,A,]| \
+[^G-F-^D^C-C,-][G-F-C-CC,-] [G-F-C-CC,-][G-F-C-=C^C,-]/2[G-F-C-=C^C,-]3/2[G-F-C-^A,C,-]/2[G-F-C-A,C,-]3/2[GFCG,C,]|
+[^d-c-^G-DG,-][d-c-G-^CG,-] [d-=c-G-^CG,-][d-=c-G-CG,-]/2[d-c-G-CG,-]3/2[d-c-G-^A,G,-]/2[d-c-G-A,G,-]3/2[dcGG,G,]| \
+[^c-^A-^F-A,F,-]3/2[c-A-F-=CF,-]/2 [^c-A-F-A,F,-][c-A-F-^G,F,-] [c-A-F-F,-=F,]2 [cA^FF,]2| \
+[^c-^A-^F-F,-]6 [cAF^G,F,]2| \
+[^d-c-^G-^A,G,-]4 [dcGCG,]4|
+[^d-c-^G-^CG,-]4 [dc=cGG,]4|
+

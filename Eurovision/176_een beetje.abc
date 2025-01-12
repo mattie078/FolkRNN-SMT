@@ -1,0 +1,153 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\176_een beetje.midi
+M: 4/4
+L: 1/8
+Q:1/4=150
+K:C major
+V:1
+%%MIDI program 0
+z6 zG| \
+B2 BB c2 c2| \
+dd cB c2 cG| \
+B2 B2 c2 c2|
+dd cB A2 AA| \
+ (3A2c2e2 g2 fA/2B/2| \
+=B2 d2 f2 ee/2f/2| \
+g2 e2 e3d/2e/2|
+f2 cc2<c2B| \
+ee z4 zB| \
+ef ge de fd| \
+cc z4 zB|
+ef ge de fd| \
+cc z4 zd| \
+ec BA G2 F2| \
+B4 cz3|
+c4 dz2g| \
+ee z4 zB| \
+ef ge de fd| \
+cc z4 zB|
+ef ge de fd| \
+cc z4 zd| \
+ec BA G2 B2| \
+e6 e2|
+f6 e2| \
+c6 e2| \
+fe fe fe cB| \
+c6 e2|
+g6 f2| \
+d6- df| \
+gf gf gf Bc| \
+ed zc3 zg|
+ee z4 zB| \
+ef ge de fd| \
+cc z4 zB| \
+ef ge de fd|
+cc z4 zc| \
+aa gg ff ee| \
+dd cc =BB _BB| \
+=A4 g4|
+z4 g4| \
+e8|
+V:2
+%%MIDI program 0
+z8| \
+[BGE]4 [cBGE]4| \
+[dBGE]4 [cB_GE]4| \
+[BGE]4 [cGE]4|
+[dBGE]4 [=e_dB_G]4| \
+[ecAF]4 [afdB]4| \
+[fd=BG]4 [_BGEC]4| \
+[BGEC]4 [ec=AF]4|
+[ECA,F,]4 [AFDB,]4| \
+[cBGE]8| \
+[ecAF]4 [AFDB,]4| \
+[cBGE]8|
+[cBGE]4 [fdBG]4| \
+[BG=EC]8| \
+[ecAF]4 [AFDB,]4| \
+[fdBG]4 [BG=EC]4|
+[ecAF]4 [AFDB,]4| \
+[cBGE]8| \
+[ecAF]4 [AFDB,]4| \
+[cBGE]8|
+[cBGE]4 [fdBG]4| \
+[BG=EC]8| \
+[ecAF]4 [AFDB,]4| \
+[BGE]8|
+[AF_DB,]4 [dBGE]4| \
+[GECA,]4 [FECA,]4| \
+[AF_DB,]4 [dBGE]4| \
+[GECA,]4 [FECA,]4|
+[BGEC]4 [EC=A,F,]4| \
+[=AFDB,]4 [GFDB,]4| \
+[BGEC]4 [ec=AF]4| \
+[AFDB,]4 [ecAF]2 [AFDB,]2|
+[cBGE]8| \
+[ecAF]4 [AFDB,]4| \
+[cBGE]8| \
+[cBGE]4 [fdBG]4|
+[BG=EC]8| \
+[ECA,F,]8| \
+[AFDB,]8| \
+[GEC=A,F,]8|
+[AFDB,]8| \
+[CB,G,E,]8| \
+[CB,G,E,]4 [gAFDB,]4|
+V:3
+%%MIDI program 0
+z8| \
+E,,8| \
+E,,8| \
+E,,8|
+E,,4 _G,,4| \
+F,,4 B,,4| \
+G,,4 C,4| \
+F,,4 F,,4|
+B,,4 B,,4| \
+E,8| \
+F,4 B,,4| \
+E,8|
+E,4 G,,4| \
+C,8| \
+F,4 B,4| \
+G,,4 C,4|
+F,4 B,4| \
+E,8| \
+F,4 B,,4| \
+E,8|
+E,4 G,,4| \
+C,8| \
+F,4 B,4| \
+E,8|
+B,,4 E,4| \
+A,,4 A,,4| \
+B,,4 E,4| \
+A,,4 A,,4|
+C,4 F,4| \
+B,,4 B,,4| \
+C,4 F,4| \
+B,,4 F,,2 B,,2|
+E,8| \
+F,4 B,4| \
+E,8| \
+E,4 G,4|
+C,8| \
+F,8| \
+B,,8| \
+F,,8|
+B,,8| \
+E,8| \
+E,4 B,,4|
+V:4
+%%MIDI program 0
+z8| \
+E8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+C8|
+

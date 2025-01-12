@@ -1,0 +1,28 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\074_Neka mi ne svane.midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%clef treble
+%%MIDI program 0
+[fA-^G-F-^C-C,-]2 [^dA-G-F-C-C,-]2 [cA-G-F-C-C,-]2 [^A=A-G-F-C-C,-]/2[A-G-GF-C-C,-]/2[AG-^F=F-C-C,-]| \
+[^G-F-F^C-C,-]2 [G-F-^DC-C,-]2 [G-F-C-CC,-]2 [G-F-C-C,-]/2[G-F-DC-C,-]/2[G-F-FC-C,-]/2[GFFCC,]/2| \
+[^F-=FE-^D-C-C,-][^F-E-D-DC-C,-] [F-E-D-C-C,-][F-E-D-DC-C,-]/2[FE-D=DCC,]/2 [c-A-=F-E-^DF,-][c-A-F-E-F,-]3/2[c-A-F-E-CF,-]/2[c-A-F-E-CF,-]/2[cAFEDF,]/2| \
+[f-^c-^A-^DA,-][f-c-A-CA,-] [f-c-A-A,-][f-c-A-CA,-]/2[f-c-A-=CA,-]/2 [f-^c-A-CA,-][f-c-A-A,-]3/2[f-c-A-A,-A,]/2[f-c-A-DA,-]/2[fcAFA,]/2|
+[^F-=F^D-C-C,-][^F-D-DC-C,-] [F-D-C-C,-]/2[F-D-DC-C,-]/2[F-D-=DC-C,-]/2[F^D-DCC,]/2 [c-A-=F-DF,-]2 [c-A-F-F,-][c-A-F-^CF,-]/2[=cAFDF,]/2| \
+[f-^c-^A-FA,-]3[f-c-A-FA,-]/2[f-c-A-^DA,-]/2 [f-c-A-FA,-]3/2[f-c-A-CA,-]/2 [f-c-A-DA,-][fcAFA,]| \
+[^A-^F-F^D-D,-]2 [AF=FDD,]2 [d-c-^G-DG,-]2 [d-c-G-G,-]3/2[dcGDG,]/2| \
+[^GFF^CC,]2 [=cAF^DF,]2 [e-^c-^A-=G-CE,-]2 [e-c-A-G-E,-][e-c-A-G-CE,-]/2[ecAGDE,]/2|
+[f-^d-c-^C=C-]/2[f-d-c-C-C]3/2 [f-d-c-C-]3/2[fdcCC]/2 [c-A-F-^CF,-]/2[=c-A-F-CF,-]3/2 [c-A-F-^CF,-]/2[=c-A-F-CF,-]/2[c-A-F-^A,F,-]/2[c=AFA,F,]/2| \
+[f-^c-^A-A,-A,]4 [f-c-A-A,-][f-c-A-A,-^G,] [f-c-A-CA,-][fcA^DA,]| \
+[^GFF^C=C-^C,]2 [^d-=c-G-DC-G,-]3/2[dcG^C-=C-G,]/2 [G-F-^C-C=C-^C,-][G-F-C-C=C-^C,-]/2[G-F-DC-=C-^C,-]/2 [G-F-FC-=C-^C,-]/2[G-F-C-C=C-^C,-]/2[G-F-DC-=C-^C,-]/2[GFFC=C^C,]/2| \
+[^A^FF^DD,]2 [=f-=d-A-FA,-]3/2[fdA^D-A,]/2 [A-^F-D-DD,-]2 [AFDD,]2|
+[^d-c-^G-GG,-]2 [d-c-^AG-G,-]2 [d-c-G-GG,-][d-c-G-DG,-]/2[d-c-G-FG,-]/2 [d-c-G-^FG,-]/2[d-c-G-DG,-]/2[d-c-G-=FG,-]/2[dcGGG,]/2| \
+[^GFF^CC,]4 [^d-=c-G-G,-][d-c-G-G,-G,] [d-c-G-^CG,-][d=cGDG,]| \
+[^GFF^CC,]2 [^d-=c-G-DG,-]3/2[dcG^C-G,]/2 [G-F-C-CC,-][G-F-C-CC,-]/2[G-F-DC-C,-]/2 [G-F-FC-C,-]/2[G-F-C-CC,-]/2[G-F-DC-C,-]/2[GFFCC,]/2| \
+[^A^FF^DD,]2 [=f-=d-A-FA,-]3/2[fdA^D-A,]/2 [A-^F-D-DD,-]2 [AFDD,]2|
+[^d-c-^G-GG,-]2 [d-c-^AG-G,-]2 [d-c-G-GG,-][d-c-G-DG,-]/2[d-c-G-FG,-]/2 [d-c-G-DG,-]/2[d-c-G-^CG,-]/2[d-=c-G-A,G,-]/2[dcG^CG,]/2| \
+[^G-F-^C-CC,-]2 [GFCC,]6|
+

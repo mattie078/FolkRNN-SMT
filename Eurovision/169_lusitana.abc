@@ -1,0 +1,84 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\169_lusitana.midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%MIDI program 0
+D3/2F4-F/2  (3DED| \
+CC<DB,4-B,| \
+D3/2F4-F/2  (3DED| \
+CC/2D/2 B,6|
+G3/2B,4-B,/2 G2| \
+ (3=AGF F/2G/2z/2E3-E/2D/2E/2| \
+FC<CF/2FE3/2 D/2E/2F| \
+zC3 =D4|
+F2 zF/2F/2 FF/2F/2 z/2=AA/2-| \
+=A/2B3/2 zF/2F/2 FF<FB/2A/2-| \
+=A/2=G3/2 zG/2F/2 GF/2GA3/2-| \
+=A2- A/2=G/2F/2E3B3/2|
+=A2 zF/2E/2 FE<Bc| \
+=A2 zF/2E/2 FF/2E/2 FB/2A/2-| \
+=A/2=G3/2 zG/2F/2 GF/2GAA/2-| \
+=A2- A/2=G/2F/2E2-E/2 zE/2E/2|
+=DB,<DF/2=A3-A/2F/2E/2| \
+=DB,<DF/2B4-B/2| \
+=AF/2[E=D]/2 zB,/2B,/2 =GA/2FE3/2| \
+=D/2B,/2E/2D2-D/2 
+V:2
+%%MIDI program 0
+[F^DB,]4 [DB,=G,]4| \
+[DB,G,]4 [ec=AF]4| \
+[FDB,]4 [DB,=G,]4| \
+[DB,G,]4 [ec=AF]2 [AFDB,]2|
+[BGE]4 [GE=C]4| \
+[GEC]4 [BGE]4| \
+[cAF]4 [BGE]4| \
+[cBF]4 [=dAF]4|
+[=AF=D]8| \
+[=AF=DB,]8| \
+[=dB=GE]8| \
+[f=dB=G]4 [gec=A]4|
+[=AF=D]8| \
+[=AF=DB,]8| \
+[=dB=GE]8| \
+[f=dB=G]4 [gec=A]2 [ec^AF]2|
+[F=DB,]4 [FDB,]4| \
+[F=DB,G,]4 [DB,G,E,]4| \
+[B,=G,E,]2 [C=A,F,]2 [=DB,G,]2 [DB,G,]2| \
+[=AF=D]4 [cBF]2 [c^AF]2|
+V:3
+%%MIDI program 0
+B,,,4 =G,,4| \
+G,,4 F,,4| \
+B,,,4 =G,,4| \
+G,,4 F,,2 B,,2|
+E,,4 =C,,4| \
+C,4 B,,4| \
+A,,4 G,,4| \
+F,,4 F,,4|
+=D,,6 C,,2| \
+B,,,8| \
+E,,8| \
+=A,,4 A,,4|
+=D,,6 C,,2| \
+B,,,8| \
+E,,8| \
+=A,,4 A,,2 ^A,,2|
+B,,4 =A,,4| \
+G,,4 E,,4| \
+E,,2 F,,2 =G,,2 =A,,2| \
+=D,,4 F,,2 F,,2|
+V:4
+%%MIDI program 0
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+C8|
+

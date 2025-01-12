@@ -1,0 +1,88 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\183_vivo cantando.midi
+M: 4/4
+L: 1/8
+Q:1/4=150
+K:C major
+V:1
+%%MIDI program 0
+c2 cc2A2G| \
+F4<c4| \
+ee e2 e=d cB| \
+c8|
+c2 cc2A2G| \
+F4<A4| \
+=B2 _B3A  (3=B_BA| \
+F8|
+GG2G GA2B| \
+c2 c4 c/2c/2=d/2e/2| \
+e2<=d2 d2  (3dcB| \
+c8|
+=Ac f=e fe fe| \
+f=e =dc2G3| \
+f=e =dc2G3| \
+f=e =dc2=A3|
+=Ac f=e fe fe| \
+f=e fg2=d3| \
+g=a ba2g2f| \
+=e=d ef4-f|
+V:2
+%%MIDI program 0
+[cAF]8| \
+[cAF]8| \
+[ecA]4 [f=dB]4| \
+[g=ec]8|
+[cAF]8| \
+[cAFD]8| \
+[=BAFD]8| \
+[cAF]8|
+[BGE]8| \
+[ecA]8| \
+[f=dB]8| \
+[g=ec]8|
+[c=AF]8| \
+[c=AF]4 [G=EC]4| \
+[G=EC]8| \
+[G=EC]4 [c=AF]4|
+[c=AF]8| \
+[c=AF]4 [f=dB]4| \
+[f=dB]4 [c=AF]4| \
+[G=EC]4 [c=AF]4|
+V:3
+%%MIDI program 0
+F,,8| \
+F,,8| \
+A,,4 B,,4| \
+C,8|
+F,8| \
+D,8| \
+D,8| \
+F,8|
+E,8| \
+A,8| \
+B,8| \
+C8|
+F,8| \
+F,4 C,4| \
+C,8| \
+C,4 F,4|
+F,8| \
+F,4 B,4| \
+B,4 F,4| \
+C,4 F,4|
+V:4
+%%MIDI program 0
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+C8|
+

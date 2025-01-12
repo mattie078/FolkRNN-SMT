@@ -1,0 +1,206 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\085_marija magdalena.midi
+M: 4/4
+L: 1/8
+Q:1/4=160
+K:C major
+V:1
+%%MIDI program 0
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z3G gf ed|
+f3e3 z2| \
+z4 f2<e2| \
+d3e dc =c^c| \
+c2 zG gf ed|
+f3e3 z2| \
+z4 f2<e2| \
+d3e dc =c^c| \
+c2 zg2G g2|
+=g2 z6| \
+z2 f2 G2 f2| \
+e2 z6| \
+ce ee e4|
+d=g gg g4| \
+ag6-g| \
+z4 zg ag| \
+zg2e d2 c2|
+c2 d2 b2 a2| \
+g8| \
+z2 dd df2f| \
+e3/2c6-c/2|
+c3/2d3/2e b2 a2| \
+g8| \
+zg ag2<g2e| \
+c4<c4|
+c3/2d3/2e b2 a2| \
+g8-|g8|
+V:2
+%%clef bass
+%%MIDI program 0
+[GEC]8| \
+[GEC]8| \
+[D=CG,]8| \
+[D=CG,]8|
+[GEC]8| \
+[GEC]8| \
+[D=CG,]8| \
+[D=CG,]8|
+[ECA,]8| \
+[cAF]8| \
+[D=CG,]8| \
+[GEC]8|
+[ECA,]8| \
+[CA,F,]8| \
+[D=CG,]8| \
+[GEC]8|
+[c^A=GD]8| \
+[FD=CG,]8| \
+[ECA,]8| \
+[CA,F,]8|
+[c^A=GD]8| \
+[FD=CG,]8| \
+[FD=CG,]8| \
+[GEC]8|
+[ECA,]8| \
+[BGE]8| \
+[FD=CG,]8| \
+[GEC]8|
+[ECA,]8| \
+[BGE]8| \
+[FD=CG,]8| \
+[GEC]8|
+[ECA,]8| \
+[BGE]8| \
+[D=CG,]8| \
+[GEC]8|
+[GEC]8| \
+[D=CG,]8| \
+[D=CG,]8|
+V:3
+%%MIDI program 0
+C,,8| \
+C,,8| \
+G,,8| \
+G,,8|
+C,8| \
+C,8| \
+G,,8| \
+G,,8|
+A,,8| \
+F,,8| \
+G,,8| \
+C,8|
+A,,8| \
+F,,8| \
+G,,8| \
+C,8|
+D,8| \
+G,,8| \
+A,,8| \
+F,,8|
+D,,8| \
+G,,8| \
+G,,8| \
+C,8|
+A,,8| \
+E,,8| \
+G,,8| \
+C,8|
+A,,8| \
+E,,8| \
+G,,8| \
+C,8|
+A,,8| \
+E,,8| \
+G,,8| \
+C,8|
+C,8| \
+G,,8| \
+G,,8|
+V:4
+%%clef treble
+%%MIDI program 0
+A,8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+C8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+C4 D4|
+E/2G,/2C/2E/2 F/2G,/2D/2F/2 G/2C/2E/2G/2 A/2C/2G/2A/2| \
+G3f/2e/2 dF/2E/2 DF,/2E,/2|
+V:5
+%%clef treble
+%%MIDI program 0
+C4 D4| \
+E2 F2 G2 A2| \
+G3f/2e/2 dF/2E/2 DF,/2E,/2| \
+D,2 z6|
+C3/2 (3G,2C2D2G,3/2D| \
+E/2G,/2C/2E/2 F/2G,/2D/2F/2 G/2C/2E/2G/2 A/2C/2G/2A/2| \
+G3f/2e/2 dF/2E/2 DF,/2E,/2| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+D8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+B,8|
+

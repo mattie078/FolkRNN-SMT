@@ -1,0 +1,45 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\160_Hallelujah.midi
+M: 4/4
+L: 1/8
+Q:1/4=260
+K:C major
+V:1
+%%clef treble
+%%MIDI program 0
+[^dcA-^GG,]4 [dcAGD,]4| \
+[^dc^GG,]4 [dcGD,]4| \
+[^dc^GG,]4 [dcGD,]4| \
+[^dc^GG,]4 [d-c-G-CD,-]2 [dcGDD,]2|
+[^dc^GFC-G,]4 [dcGD-CD,]4| \
+[^d-c-^G-DG,-]2 [dcGG,]2 [d-c-G-FD,-]2 [d-c-G-G,D,-][dcGC-D,]| \
+[^dc^GC-G,]4 [dcGCD,]4| \
+[^dc^GG,]4 [d-c-G-FD,-]2 [dcGGD,]2|
+[GG^DCC,]4 [GDDCG,]4| \
+[c-^G-F-F,-]2 [c-G-GF-F,-][cG=G-FF,] [c-^G-=GF-C,-][c-^G-F-FC,-] [c-G-F-CC,-][cGF^D-C,]| \
+[^A^F^D-DD,]4 [A-F-D-DA,,-]2 [AFDA,,]2| \
+[^A^F^D^G,]4 [A-F-D-^CA,]2 [AFDD=C]2|
+[^G-F-F^C-C,-]2 [G-GF-C-C,-][G-GFCC,] [G-GF-C-G,,-]2 [G-GFCG,,]2| \
+[e-^c-^A-^G^F-F,,-]2 [e-c-A-F-G,F,,-][ecAFG,-F,,] [e-c-A-F-G,C,-]2 [e-c-A-F-C,-][ecAF=C^C,]| \
+[^d-c-^G-CG,-]2 [d-c-G-DG,-][dcGD-G,] [=g-d-c-DG,-][g-d-c-DG,-] [g-d-c-CG,-][gdc^A-G,]| \
+[c-^A^G-F-F,-]2 [c-G-GF-F,-][cG-GFF,] [c-G-GF-C,-]2 [c-G-F-FC,-][cG=GFC,]|
+[^g-f-^c-^A-GA,-]2 [g-f-c-A-GA,-][gfcAG-A,] [g-f-c-A-GF,-]2 [g-f-c-A-GF,-][gfcAG-F,]| \
+[^g-f-^c-^A-GA,-]2 [g-f-c-A-FA,-][gfcAC-A,] [f-c-A-CF,-]2 [fcA=CF,]2| \
+[^AG^DA,-D,]4 [AGDA,A,]4| \
+[^c-B-G-^D-D,-]4 [c-B-G-D-=CD,-]2 [^cBGDDD,]2|
+[^dc^GFG,]4 [dcGD-D,]4| \
+[^d-c-^G-DG,-]2 [dcGG,]2 [d-c-G-FD,-]2 [d-c-G-G,D,-][dcGC-D,]| \
+[^dc^GC-G,]4 [dcGCD,]4| \
+[^dc^GG,]4 [d-c-G-FD,-]2 [dcGGD,]2|
+[GG^DCC,]4 [GDDCG,]4| \
+[c-^G-F-F,-]2 [c-G-GF-F,-][cG=G-FF,] [c-^G-=GF-C,-][c-^G-F-FC,-] [c-G-F-CC,-][cGF^D-C,]| \
+[^GF^D-^C^A,A,,]4 [G-F-DC-A,-=C,-]2 [GF^CA,=C,]2| \
+[^c^AG^DD,]4 [c-A-G-D-CD,-]2 [cAGDDD,]2|
+[B^GFF^CC,]4 [BGGFCG,,]4| \
+[B-^G-F-D-D,-]2 [B-G-GF-D-D,-][B-G-GF-D-D,-] [B-G-F-D-D,-][B-^AG-F-D-D,-] [BGGFDD,]2| \
+[^dcc^GD,]4 [=geccE,]4| \
+[c-^G-F-F,-]2 [c-cG-F-F,-][c^AGFF,] [c-G-F-C,-][c-G-GF-C,-] [cGFFC,]2|
+[c^G-F-^C-^A,-A,,-]2 [cG-F-C-A,-A,,-][A-GFCA,A,,] [AGFCA,C,]4| \
+[^c-^A-G-^D-D,-]2 [cAAGDD,]2 [c-A-^G=G-D-A,,-]2 [cAGGDA,,]2| \
+[^dc^G-GG,,]4 [dcGGD,]4|
+

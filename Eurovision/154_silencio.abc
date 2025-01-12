@@ -1,0 +1,130 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\154_silencio.midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%MIDI program 0
+z6 zD| \
+DD2D DB, CD| \
+ED4-D DD| \
+DD DD2D ED|
+B,8| \
+B,2 EF2G3| \
+CE2F2G3| \
+zB G2 G2 G2|
+A2 FD4D| \
+DD2D DB, CD| \
+ED4-D DD| \
+DD DD2D ED|
+B,8| \
+B,2 EF2G3| \
+B2 GE2G3| \
+G2<D2 D2 D2|
+z3D E2 G2| \
+G8| \
+z6 zG,| \
+B,D D2 D2 CB,|
+CD CD4D| \
+ED ED E2 E2| \
+EF F4- FF| \
+GE GE2<G2E|
+GA A2 G2 A2| \
+B2 G2 D4| \
+z6 zG| \
+G2  (3GGG G2  (3GGG|
+G2  (3FFF F3F| \
+F2  (3EEE E2  (3EEE| \
+E2  (3DDD D2 
+V:2
+%%MIDI program 0
+z8| \
+[DB,G,]8| \
+[GEC]8| \
+[AFD]8|
+[dBG]8| \
+[BGE]8| \
+[GEC]8| \
+[dBG]8|
+[AFD]8| \
+[DB,G,]8| \
+[GEC]8| \
+[AFD]8|
+[dBG]8| \
+[BGE]8| \
+[GEC]8| \
+[dBG]8|
+[AFD]8| \
+[DB,G,]8| \
+[GEC]8| \
+[DB,G,]8|
+[GEC]8| \
+[BGE]8| \
+[FEB,]8| \
+[BGE]8|
+[GEC]4 [G^DC]4| \
+[D-B,-G,-]8| \
+[DB,G,]8| \
+[GEC]8|
+[AFD]8| \
+[GEC]8| \
+[dBG]8| \
+[dBG]4 [GEC]2 [AFD]2|
+V:3
+%%MIDI program 0
+z8| \
+G,,8| \
+G,,8| \
+D,,8|
+G,,4 F,,4| \
+E,,8| \
+C,8| \
+D,8|
+D,8| \
+G,,8| \
+G,,8| \
+D,,8|
+G,,4 F,,4| \
+E,,8| \
+C,8| \
+D,8|
+D,8| \
+G,,8| \
+G,,8| \
+G,,8|
+G,,8| \
+E,,8| \
+B,,8| \
+E,,8|
+C,,4 C,,4| \
+D,,8-| \
+D,,8| \
+C,,8|
+D,,8| \
+C,,8| \
+G,,8| \
+D,,8|
+V:4
+%%MIDI program 0
+z8| \
+E8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+C8|
+

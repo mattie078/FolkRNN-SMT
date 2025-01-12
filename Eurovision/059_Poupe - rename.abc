@@ -1,0 +1,37 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\059_Poupe - rename.midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%clef treble
+%%MIDI program 0
+[A-^G=G-^D-C-C,-][cA-G-D-C-C,-] [A-^G=G-D-C-C,-][cA-G-D-C-C,-] [A-G-GD-C-C,-][cA-G-D-C-C,-] [A-G-FD-C-C,-][cAGDCC,]| \
+[G-^D-DC-C,-][cG-D-C-C,-] [G-D-^C=C-C,-][cG-D-C-C,-] [G-D-C-CC,-][cG-D-C-C,-] [G-D-^C=C-C,-][cGDCC,]| \
+[G-^D-C-CC,-][cG-D-C-C,-] [G-D-^C=C-C,-][cG-D-C-C,-] [G-D-C-CC,-][cG-D-C-C,-] [G-D-^C=C-C,-][cGDCC,]| \
+[G-^D-C-C,-][cG-D-C-C,-] [^AG-D-C-C,-][cG-D-C-C,-] [^G=G-D-C-C,-][cG-D-C-C,-] [G-GD-C-C,-][cGDCC,]|
+[c-^G-GF-C-F,-]2 [c-G-GF-C-F,-]2 [c-G-=GF-C-F,-]2 [c^GFFCF,]2| \
+[c-^G-F-^DF,-]2 [c-G-F-^CF,-]2 [=c-G-F-CF,-]2 [cGFCF,]2| \
+[^G-F-F^C-C,-]2 [G-F-FC-C,-]2 [G-F-^DC-C,-][G-F-C-G,C,-] [G-F-C-^A,C,-][GFC=C-^C,]| \
+[^d-c-^G-CG,-]4 [dcGG,]4|
+[^c-^A-^F-A,F,-]2 [c-A-F-A,F,-][c-A-F-=CF,-] [^c-A-F-CF,-]2 [c-A-F-=CF,-][^cAFA,F,]| \
+[c-^G-F-CF,-][c-G-F-FF,-]2[c-G-GF-F,-]2[c-G-F-FF,-] [c-G-=GF-F,-][c^GGFF,]| \
+[d-B-G-GG,-]2 [d-B-G-GG,-]2 [d-B-G-DG,-][dBGDG,]2[G-E-C-C-C,-]| \
+[G-E-C-CC,-]2 [GECC,]6|
+[c-^G-GF-F,-]2 [c-G-GF-F,-]2 [c-G-=GF-F,-]2 [c^GFFF,]2| \
+[c-^G-F-^DF,-]2 [c-G-F-^CF,-]2 [=c-G-F-CF,-]2 [cGFCF,]2| \
+[^G-F-F^C-C,-]2 [G-F-FC-C,-]2 [G-F-^DC-C,-][G-F-C-G,C,-] [G-F-C-^A,C,-][GFC=C-^C,]| \
+[^d-c-^G-CG,-]4 [dcGG,]4|
+[^c-^A-^F-A,F,-]2 [c-A-F-A,F,-][c-A-F-=CF,-] [^c-A-F-CF,-]2 [c-A-F-=CF,-][^cAFA,F,]| \
+[c-^G-F-CF,-][c-G-F-FF,-]2[c-G-GF-F,-]2[c-G-F-FF,-] [c-G-=GF-F,-][c^GGFF,]| \
+[d-B-G-GG,-]2 [dBGGG,]2 [G-E-EC-C,-][GEECC,]2[c-^G-F-F-F,-]| \
+[c-^G-F-FF,-]2 [cGFF,]6|
+[^d-c-^G-D=D-G,-]2 [^d-c-G-D=D-G,-]2 [^d-c-G-D=D-G,-]2 [^dcGD=DG,]2| \
+[^G-F-F^C-C,-][GFFCC,]2[=c-G-F-CF,-]4[cGF^A,F,]| \
+[c-^G-F-G,F,-][c-G-F-G,F,-] [c-G-F-G,F,-][cGFG,F,] [=G-E-C-CC,-][GECCC,]2[c-^G-F-F-F,-]| \
+[c-^G-F-FF,-]2 [cGFF,]6|
+[^d-c-^G-DG,-]2 [d-c-G-DG,-]2 [d-c-G-DG,-]2 [dcGDG,]2| \
+[^G-F-F^C-C,-][GFFCC,]2[=c-G-F-CF,-]4[cGFCF,]| \
+[c-^G-F-G,F,-][c-G-F-G,F,-] [c-G-F-G,F,-][cGFG,F,] [=G-E-C-CC,-][GECCC,]2[c-^G-F-F-F,-]|[c-^G-F-FF,-]2 [cGFF,]6|
+

@@ -1,0 +1,127 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\194_why me .midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%MIDI program 0
+F/2FF/2 FF<GF/2EF3/2| \
+ED6-D/2A,/2| \
+F/2FF/2 FF<FF/2GA3/2| \
+F3/2E6F/2|
+GG2G/2G/2 A/2A/2F2-F/2F/2| \
+EE ED/2D4-D/2| \
+F/2FF/2 FF<GF/2EF3/2| \
+ED6-D/2A,/2|
+F/2FF/2 FF<FF/2GA3/2| \
+F3/2E6F/2| \
+GG2G/2G/2 A/2A/2F2-F/2F/2| \
+F3/2EDD/2 D4-|
+D4 zB,/2GF3/2| \
+FE4-E BA-| \
+A4 z3z/2G/2| \
+G/2GGG/2A BA/2BA3/2|
+B<A B/2A3/2 z3z/2G/2| \
+GG/2GG/2A BA/2BAG/2| \
+G/2GGG/2B A/2F3D/2| \
+G3/2FE/2F/2E/2 F<E BA|
+A4 z3z/2G/2| \
+G/2GGG/2G/2GFEF3/2| \
+F/2E/2D6-D| \
+z8|
+z3/2F/2 F/2F/2F/2AA<AA/2F/2D/2-| \
+DD/2D4D/2 D<E| \
+F3/2F/2 F/2F/2F/2F/2 AA/2AA3/2| \
+EE/2D/2 E/2D4-DF/2|
+F/2E6-E3/2|
+V:2
+%%MIDI program 0
+[AFD]8| \
+[DB,A,G,]8| \
+[AFD]8| \
+[ECB,A,]8|
+[BGE]4 [AFED]4| \
+[ECB,A,]4 [DB,A,G,]4| \
+[AFED]8| \
+[FDB,A,G,]8|
+[AFED]8| \
+[ECB,A,]8| \
+[BGE]4 [AFED]4| \
+[ECB,A,]4 [DB,A,G,]4|
+[DB,A,G,]8| \
+[GEDB,A,]8| \
+[AFED]8| \
+[DB,A,G,]4 [EDB,A,]2 [ECA,]2|
+[AFED]8| \
+[DB,A,G,]4 [EDB,A,]2 [ECA,]2| \
+[BGE]4 [AFD]4| \
+[BGED=C]4 [GEDB,A,]4|
+[AFED]8| \
+[DB,A,G,]4 [GEDB,A,]4| \
+[AFED]8| \
+[AFED]8|
+[FDB,]4 [ECA,]4| \
+[DB,G,]6 [DB,G,]/2[ECA,]3/2| \
+[FDB,]4 [ECA,]4| \
+[DB,A,G,]8|
+[AEDB,A,]8|
+V:3
+%%MIDI program 0
+D,8| \
+G,,8| \
+D,,8| \
+A,,8|
+E,4 D,4| \
+A,,4 G,,4| \
+D,,8| \
+G,,8|
+D,,8| \
+A,,8| \
+E,4 D,4| \
+A,,4 G,,4|
+G,,8| \
+A,,8| \
+D,,4 F,,4| \
+G,,4 A,,2 A,,2|
+D,,4 F,,4| \
+G,,4 A,,2 A,,2| \
+E,4 D,4| \
+=C,4 A,,4|
+D,,4 F,,4| \
+G,,4 A,,4| \
+D,8| \
+D,8|
+B,,4 B,,4| \
+B,,6 G,,<A,,| \
+B,,4 B,,4| \
+G,,8|
+A,,8|
+V:4
+%%MIDI program 0
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+C8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+G8|
+

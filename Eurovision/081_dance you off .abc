@@ -1,0 +1,138 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\081_dance you off .midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%MIDI program 0
+zf ec ed cB-| \
+BB BA BA FB-| \
+Bc z6| \
+z8|
+zf cc ed cB-| \
+BB BA BA FB-| \
+Bc z6| \
+z4 zF FA|
+B2 B2 B2 B3/2c/2| \
+z4 zF FA| \
+B2 B2 B2 B3/2c/2| \
+z4 z3/2A/2 c/2ed/2-|
+d/2cAF/2E/2F3/2z c/2ed/2-| \
+d/2cAF/2E/2F3/2z c3/2c/2| \
+zA3 z2 c3/2c/2| \
+zG3 zE FA|
+B2 B2 B2 B3/2c/2| \
+z4 zF FA| \
+B2 B2 B2 B3/2c/2| \
+z4 z3/2A/2 c/2ed/2-|
+d/2cAF/2E/2F3/2z c/2ed/2-| \
+d/2cAF/2E/2F3/2z c3/2c/2| \
+zA3 z2 c3/2c/2| \
+zG3 z4|
+z6 z3/2B/2-| \
+B/2BBBBBBB/2B| \
+c4 z4| \
+c/2cccecAF/2c|
+B2 z4 z3/2e/2| \
+fe/2fgagfee/2-| \
+e/2d/2c3 z2 f2| \
+g/2f/2e/2f<gf/2 e4|
+V:2
+%%MIDI program 0
+[BGE]4 [ECA,]4| \
+[BGE]4 [ECA,]4| \
+[BGE]4 [ECA,]4| \
+[BGE]4 [ECA,]4|
+[cAFD]8| \
+[cAFD]8| \
+[AFDB,]8| \
+[BGEC]8|
+[BGE]4 [ECA,]4| \
+[BGE]4 [ECA,]4| \
+[BGE]4 [ECA,]4| \
+[BGE]4 [ECA,]4|
+[cAFD]8| \
+[cAFD]8| \
+[AFDB,]8| \
+[BGEC]8|
+[BGE]4 [ECA,]4| \
+[BGE]4 [ECA,]4| \
+[BGE]4 [ECA,]4| \
+[BGE]4 [ECA,]4|
+[cAFD]8| \
+[cAFD]8| \
+[AFDB,]8| \
+[BGEC]8|
+[BGE]4 [ECA,]4| \
+[BGE]4 [ECA,]4| \
+[BGE]4 [ECA,]4| \
+[BGE]4 [ECA,]4|
+[cAFD]8| \
+[cAFD]8| \
+[AFDB,]8| \
+[BGEC]8|
+[BGEC]8|
+V:3
+%%MIDI program 0
+F,,8| \
+F,,8| \
+A,,8| \
+A,,8|
+D,8| \
+D,8| \
+B,,8| \
+C,8|
+F,,8| \
+F,,8| \
+A,,8| \
+A,,8|
+D,8| \
+D,8| \
+B,,8| \
+C,8|
+F,,8| \
+F,,8| \
+A,,8| \
+A,,8|
+D,8| \
+D,8| \
+B,,8| \
+C,8|
+F,,8| \
+F,,8| \
+A,,8| \
+A,,8|
+D,8| \
+D,8| \
+B,,8| \
+C,8|
+C,8|
+V:4
+%%MIDI program 0
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+C8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+G8|
+

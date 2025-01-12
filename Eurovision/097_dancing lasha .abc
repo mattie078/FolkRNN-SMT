@@ -1,0 +1,165 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\097_dancing lasha .midi
+M: 4/4
+L: 1/8
+Q:1/4=160
+K:C major
+V:1
+%%MIDI program 0
+z8| \
+z8| \
+z8| \
+z8|
+EE EE EE G2| \
+EE EE z4| \
+EE EE EE G2| \
+z8|
+EE EE EE G2| \
+EE EE z4| \
+EE EE EE G2| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z6 zc|
+c2 BB z2 GF| \
+E4 z3c| \
+c2 BB z2 GF| \
+E4 z3B|
+B2 AA z2 F2| \
+D4 z3c| \
+c2 BB z4| \
+z6 zc|
+c2 BB z4| \
+G3/2F3/2E2<G2c| \
+c2 BB z4| \
+G3/2F3/2E2<G2B|
+B2 AA z3D/2D/2| \
+D3/2E3/2F2<D2c| \
+c2 BB 
+V:2
+%%MIDI program 0
+[BGE]8| \
+[BGE]8| \
+[BGE]8| \
+[AFD]4 [BGE]2 [cA=F]2|
+[BGE]8| \
+[BGE]8| \
+[BGE]8| \
+[F^DB,]4 [BGE]4|
+[BGE]8| \
+[BGE]8| \
+[BGE]8| \
+[AFD]4 [BGE]4|
+[BGE]8| \
+[BGE]8| \
+[BGE]8| \
+[AFD]4 [BGE]2 [cA=F]2|
+[BGE]8| \
+[BGE]8| \
+[BGE]8| \
+[AFD]4 [BGE]2 [cA=F]2|
+[cAF]2 [BGE]6| \
+[BGE]8| \
+[cAF]2 [BGE]6| \
+[BGE]8|
+[BGE]2 [AFD]6| \
+[FDB,]8| \
+[cAF]2 [BGE]6| \
+[BGE]8|
+[cAF]2 [BGE]6| \
+[BGE]8| \
+[cAF]2 [BGE]6| \
+[BGE]8|
+[BGE]2 [AFD]6| \
+[FDB,]8| \
+[cAF]2 [BGE]6| \
+[BGE]8|
+V:3
+%%MIDI program 0
+E,8| \
+E,8| \
+E,8| \
+D,4 E,2 =F,2|
+E,8| \
+E,8| \
+E,8| \
+B,,4 E,4|
+E,8| \
+E,8| \
+E,8| \
+D,4 E,4|
+E,8| \
+E,8| \
+E,8| \
+D,4 E,2 =F,2|
+E,8| \
+E,8| \
+E,8| \
+D,4 E,2 =F,2|
+E,8| \
+E,8| \
+E,8| \
+E,8|
+D,8| \
+B,,8| \
+E,8| \
+E,8|
+E,8| \
+E,8| \
+E,8| \
+E,8|
+D,8| \
+B,,8| \
+E,8| \
+E,8|
+V:4
+%%MIDI program 0
+A,8| \
+z8| \
+z8| \
+z8|
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+B,8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+C8|
+V:5
+%%MIDI program 0
+e2 B2 A/2B/2A/2G/2 Ee| \
+ze BB A/2B/2A/2G/2 E2| \
+e2 B2 A/2B/2A/2G/2 EF| \
+zF FG FE E2|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+e2 B2 A/2B/2A/2G/2 Ee| \
+ze BB A/2B/2A/2G/2 E2| \
+e2 B2 A/2B/2A/2G/2 EF| \
+zF FG FE E2|
+e2 B2 A/2B/2A/2G/2 Ee| \
+ze BB A/2B/2A/2G/2 E2| \
+e2 B2 A/2B/2A/2G/2 EF| \
+zF FG FE E2|
+

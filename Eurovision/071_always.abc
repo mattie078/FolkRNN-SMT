@@ -1,0 +1,167 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\071_always.midi
+M: 4/4
+L: 1/8
+Q:1/4=160
+K:C major
+V:1
+%%MIDI program 0
+z3G2=E3| \
+z3G2=E3| \
+z3A2G2=E| \
+E4 A4|
+z8| \
+E/2B,EFG2-G/2 z2| \
+E/2=B,EFG2-G/2 z2| \
+z8|
+z8| \
+z2 D/2DD3/2B, DB,| \
+D3/2D3/2D C4| \
+z2 D/2DD3/2B, DB,|
+D3/2E3/2D C4| \
+z2 F/2FF3/2F FF| \
+F3/2 (3G2F2E2D3/2C| \
+DC/2DE/2F4-F|
+D2 z2 =D2 F2| \
+E/2B,EFG2-G/2 z2| \
+E/2=B,EFG2-G/2 z2| \
+zA/2A/2 AG AG/2F2-F/2|
+B=B/2_BAB2-B/2 z2| \
+E/2B,EFG2-G/2 z2| \
+E/2=B,EFA3/2G z2| \
+zA/2A/2 AG AG/2F2-F/2|
+B=B/2_BAB2-B/2 
+V:2
+%%MIDI program 0
+[A=ED]8| \
+[=ED=A,]8| \
+[d=AG]8| \
+[ecA]8|
+[ecA]8| \
+[BGE]8| \
+[GE=B,]8| \
+[e=BA]8|
+[f=dB]8| \
+[fdB]8| \
+[dBG]4 [ecA]4| \
+[fdB]8|
+[dBG]4 [ecA]4| \
+[AFD]8| \
+[c=AF]8| \
+[fdB]8|
+[fdB]4 [f=dB]4| \
+[BGE]8| \
+[GE=B,]8| \
+[e=BA]8|
+[f=dB]8| \
+[BGE]8| \
+[GE=B,]8| \
+[afd]8|
+[f=dB]8| \
+[BGE]4 [GE=B,]4| \
+[E=B,A,]4 [AFD]4| \
+[BGE]4 [GE=B,]4|
+[GE=B,]2 [AFD]2 [_BGE]4| \
+[BGE]4 [GE=B,]4| \
+[E=B,A,]4 [AFD]4| \
+[BGE]4 [GE=B,]4|
+[GE=B,]2 [AFD]2 [_BGE]4|
+V:3
+%%MIDI program 0
+D,,8| \
+=A,,8| \
+G,,8| \
+A,,8|
+A,,8| \
+E,,8| \
+=B,,8| \
+A,,8|
+B,,8| \
+B,,8| \
+G,,4 A,,4| \
+B,,8|
+G,,4 A,,4| \
+D,8| \
+F,8| \
+B,,8|
+B,,4 B,,4| \
+E,8| \
+=B,,8| \
+A,,8|
+B,,8| \
+E,8| \
+=B,,8| \
+D,8|
+B,,8| \
+E,4 =B,,4| \
+A,,4 D,4| \
+E,4 =B,,4|
+=B,,2 D,2 E,4| \
+E,4 =B,,4| \
+A,,4 D,4| \
+E,4 =B,,4|
+=B,,2 D,2 E,4|
+V:4
+%%MIDI program 0
+A,8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+E8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+C8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+B,8|
+V:5
+%%MIDI program 0
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+A,A AG AG/2F/2 z2|
+B,=B,/2=D/2 z/2B,3/2 _B,2 z2| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z6 z/2E/2G/2A/2| \
+B/2B/2B/2G/2 A/2A/2A/2G/2 A/2A/2A/2G/2 EG| \
+AA/2A/2 EG A/2A/2A/2A/2 FE| \
+G3/2E<GE<GE/2 DE|
+z/2GE<GE/2 D/2E/2E/2D/2 E/2E/2G/2A/2| \
+B/2B/2B/2G/2 A/2A/2A/2G/2 A/2A/2A/2G/2 EG| \
+AA/2A/2 EG F/2G/2F/2G/2 FE| \
+G3/2E<GE<GE/2 DE|
+z/2GE<GE/2 DE E2|
+

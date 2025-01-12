@@ -1,0 +1,38 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\121_hi .midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%clef treble
+%%MIDI program 0
+z6 zC/2B,/2| \
+[e-c-A-A-EA,-A,]2 [e-c-A-A-CA,-][e-c-A-A-EA,-]3 [e-c-A-A-A,-A,]/2[e-c-A-A-DA,-]/2[e-c-A-A-EB,A,-]/2[ecAAFA,]/2| \
+[G-GE-C-CC,-]2 [G-E-EC-C,-][G-E-C-CC,-]3 [G-E-C-CC,-]/2[G-E-DC-C,-]/2[G-E-EC-C,-]/2[GFECC,]/2| \
+[A-A-^F-D-D-D,-]4 [AAFDDD,][BB^GEEE,]3|
+[e-c-A-A,-]8| \
+[e-c-A-A,-]4 [e-c-A-A,-][e-c-A-A,-A,] [e-c-A-CA,-][ecAEA,]| \
+[AFE-DDD,]2 [dBGE-G,]2 [e-c-A-E-A,-][e-c-A-E-A,-A,] [e-c-A-E-CA,-][ecAEEA,]| \
+[AFDDD,]2 [dBGG,]2 [e-c-A-A,-][e-c-A-A,-A,] [e-c-A-CA,-][e-c-A-EA,-]/2[ecAD-A,]/2|
+[A-F-D-DD,-]2 [A-F-D-D,-][AFDCD,] [d-B-G-B,G,-][d-B-G-CG,-] [d-B-G-B,G,-][dBGG,G,]| \
+[e-c-A-A,-A,]4 [e-c-A-A,-][e-c-A-A,-A,] [e-c-A-CA,-][ecAEA,]| \
+[AFDDD,]2 [dBGG,]2 [e-c-A-A,-][e-c-A-A,-A,] [e-c-A-CA,-][ecAEA,]| \
+[AFDDD,]2 [dBGG,]2 [e-c-A-A,-][e-c-A-A,-A,] [e-c-A-CA,-][e-c-A-EA,-]/2[ecAD-A,]/2|
+[A-F-D-DD,-]2 [A-F-D-D,-][AFDCD,] [d-B-G-B,G,-][d-B-G-CG,-] [d-B-G-B,G,-][dBGG,G,]| \
+[e-c-A-A,-A,-]3[e-c-A-A,-A,]/2[e-c-A-A,-]3/2[e-c-A-A,-A,] [e-c-A-CA,-][ecAEA,]| \
+[G-G-E-C-C,-]4 [G-GE-C-C,-][G-E-EC-C,-] [G-E-DC-C,-][GECCC,]| \
+[A-A^F-D-D,-]6 [AFDD,]2|
+[G-GE-C-C,-][G-GE-C-C,-] [G-GE-C-C,-][G-GE-C-C,-] [G-GE-C-C,-][G-E-EC-C,-] [G-E-DC-C,-][GECCC,]| \
+[B-^G-GE-E,-]3/2[B-AG-E-E,-]/2 [B-BGEE,]2 [cB-AFF,]2 [dBB=GG,]2| \
+[e-c-A-AC-A,-]2 [e-c-A-EC-A,-]2 [ecACCA,]4| \
+[G-GE-C-C,-][G-GE-C-C,-] [G-GE-C-C,-][G-E-EC-C,-] [GECCC,]4|
+[G-E-EC-C,-][G-E-C-CC,-] [G-E-EC-C,-][GGECC,] [c-A-AF-F,-]2 [cAAFF,]2| \
+[G-E-EC-C,-][G-E-C-CC,-] [G-E-EC-C,-][GGECC,] [c-A-AF-F,-]2 [cAAFF,]2| \
+[B-G-GE-E,-][B-G-E-EE,-] [B-G-E-DE,-][BGECE,] [e-c-A-A,-A,][e-c-A-A,-A,] [e-c-A-CA,-][ecAEA,]| \
+[e-c-A-AA,-]2 [e-c-A-EA,-]2 [ecACA,]4|
+[G-GE-C-C,-][G-GE-C-C,-] [G-GE-C-C,-][G-E-EC-C,-] [GECCC,]4| \
+[G-E-EC-C,-][G-E-C-CC,-] [G-E-EC-C,-][GGECC,] [c-A-AF-F,-]2 [cAAFF,]2| \
+[G-E-EC-C,-][G-E-C-CC,-] [G-E-EC-C,-][GGECC,] [c-A-AF-F,-]2 [cAAFF,]2| \
+[B-G-GE-E,-][B-G-E-EE,-] [B-G-E-DE,-][BGECE,] [e-c-A-A,-A,]2 [ecAA,]2|
+

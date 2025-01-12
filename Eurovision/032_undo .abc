@@ -1,0 +1,72 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\032_undo .midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%MIDI program 0
+ee e/2d/2e/2d/2 _BB e/2d/2e/2d/2| \
+_BB<Bd d4| \
+ee e/2d/2e/2d/2 _BB e/2d/2e/2d/2| \
+_BB<Bd d4|
+e3/2g2e<eg2-g/2| \
+d3/2_B3/2d4-d| \
+ee e/2d/2e/2d/2 _BB e/2d/2e/2d/2| \
+_BB<Bd d4|
+g/2_b/2f/2g/2 ee<=bb3| \
+g/2_b/2f/2g/2 df/2g/2 ab b2| \
+g/2_b/2f/2g/2 ee<=bb3/2d'/2b/2b/2-| \
+b/2_b2=b/2_b/2b2<a2g/2|
+g3/2e<ge/2 g/2a/2a2-a/2g/2| \
+_b3/2b<bb/2 b=b/2b2-b/2| \
+g/2_b/2f/2g/2 ee<=bb3-| \
+b_b3 
+V:2
+%%MIDI program 0
+[BGE]4 [GE=B,]4| \
+[d_BG]4 [FDB,]4| \
+[_BGE]4 [GE=B,]4| \
+[d_BG]4 [FDB,]4|
+[_BGE]4 [GE=B,]4| \
+[d_BG]4 [FDB,]4| \
+[_BGE]4 [GE=B,]4| \
+[d_BG]4 [AFD]4|
+[_BGE]4 [GE=B,]4| \
+[d_BG]4 [FDB,]4| \
+[_BGE]4 [GE=B,]4| \
+[d_BG]4 [AFD]4|
+[_BGE]4 [GE=B,]4| \
+[d_BG]4 [e=BA]4| \
+[_BGE]4 [GE=B,]4| \
+[d_BG]4 [FDB,]4|
+V:3
+%%MIDI program 0
+E,,4 B,,,4| \
+G,,4 _B,,4| \
+E,,4 B,,,4| \
+G,,4 _B,,4|
+E,,4 B,,,4| \
+G,,4 _B,,4| \
+E,,4 B,,,4| \
+G,,4 F,,4|
+E,,4 B,,,4| \
+G,,4 _B,,4| \
+E,,4 B,,,4| \
+G,,4 D,4|
+E,,4 B,,,4| \
+G,,4 A,,4| \
+E,,4 B,,,4| \
+G,,4 _B,,4|
+V:4
+%%MIDI program 0
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+B,8|
+

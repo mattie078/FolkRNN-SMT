@@ -1,0 +1,115 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\043_love shine a light.midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%MIDI program 0
+E2 EE/2F/2 z2 FE| \
+DD DC/2E/2 z2 ED| \
+C2 A2 G<E ED| \
+C2 A2 G/2E3/2 z2|
+c2 cB/2G/2 z4| \
+EE ED C2 ED| \
+C2 CD/2E/2 z2 CD| \
+EF ED C4|
+z6 EG| \
+c6 cB| \
+GG/2G/2 z/2E/2G/2E/2 z4| \
+c6 cB|
+GG/2G/2 z/2E/2G/2A/2 z4| \
+A3/2A3/2G GE zD| \
+EE ED C2 ED| \
+C2 CD/2E/2 z2 CD|
+EF ED C4|
+V:2
+%%MIDI program 0
+[GEC]4 [cAF]4| \
+[DB,G,]4 [ECA,]4| \
+[cAF]4 [GEC]4| \
+[cAF]4 [dBG]4|
+[ECA,]4 [cAF]4| \
+[dB^GE]4 [ecA]4| \
+[cAF]4 [GEC]4| \
+[DB,G,]4 [GEC]4|
+z8| \
+[GEC]4 [cAF]4| \
+[DB,G,]4 [ECA,]4| \
+[GEC]4 [cAF]4|
+[DB,G,]4 [ECA,]4| \
+[cAF]4 [GEC]4| \
+[dB^GE]4 [ECA,]4| \
+[cAF]4 [GEC]4|
+[DB,G,]4 [GEC]4| \
+[GEC]4 [cAF]4| \
+[DB,G,]4 [ECA,]4| \
+[CA,F,]4 [GEC]4|
+[DB,G,]4 [GEC]4|
+V:3
+%%MIDI program 0
+C,4 C,4| \
+G,,4 A,,4| \
+F,,4 C,4| \
+F,,4 G,,4|
+A,,4 F,,4| \
+E,,4 A,,4| \
+F,,4 C,4| \
+G,,4 C,4|
+z8| \
+C,8| \
+G,,4 A,,4| \
+C,8|
+G,,4 A,,4| \
+F,4 C,4| \
+E,4 A,4| \
+F,4 C,4|
+G,4 C,4| \
+C,4 C,4| \
+G,,4 A,,4| \
+F,,4 C,4|
+G,,4 C,4|
+V:4
+%%MIDI program 0
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+C8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+B,8|
+V:5
+%%MIDI program 0
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+E3/2 (3E2E2F2F3/2E| \
+D3/2 (3D2C2E2E3/2D| \
+C3/2 (3C2D2E2E3/2D|
+E3/2E3/2D C4|
+

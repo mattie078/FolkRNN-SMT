@@ -1,0 +1,205 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\078_just a little bit .midi
+M: 4/4
+L: 1/8
+Q:1/4=160
+K:C major
+V:1
+%%MIDI program 0
+z8| \
+z8| \
+z8| \
+z8|
+z2 AA A2 GF| \
+G/2FA2-A/2 zG GG/2F/2-| \
+F2 z3E EE/2D/2-| \
+D2 z6|
+z2 AA A2 GF| \
+GF/2A2-A/2 zB, DE/2F/2-| \
+F2 z3F2D| \
+D2 z6|
+z2 AA A2 GF| \
+G/2FA2-A/2 zB BF/2A/2-| \
+AB z3G GA-| \
+AF3/2E/2D z4|
+z2 AA A2 GF| \
+G3/2F3/2B Az3| \
+z2 ED<EE BB| \
+B3/2A3/2F A2 B2|
+F2 D2 DD/2D/2 z/2D/2D| \
+G2 D3/2B/2 B/2B/2B d2| \
+F2 D2 DD/2D/2 z/2D/2D| \
+F/2EEDFEED/2B,|
+F2 D2 DD/2D/2 z/2D/2D| \
+G2 D3/2B/2 B/2B/2B d2| \
+F2 D2 DD/2D/2 z/2D/2D| \
+F/2EEDFEED/2B,|
+z8| \
+z8| \
+z8| \
+z8|
+z3B B4| \
+z4 GG GG-| \
+GF D2 z4| \
+zG3 GG GG|
+F2 z3F GA-| \
+A2 z3d cB-| \
+BA2B z3D| \
+=E2 _EE2D2E|
+DE6A-| \
+A4 de df|
+V:2
+%%MIDI program 0
+[AFD]8| \
+[dBG]8| \
+[AFD]8| \
+[dBG]4 [ecA]4|
+[AFD]8| \
+[dBG]8| \
+[AFD]8| \
+[dBG]4 [ecA]4|
+[AFD]8| \
+[dBG]8| \
+[AFD]8| \
+[dBG]4 [ecA]4|
+[AFD]8| \
+[dBG]8| \
+[AFD]8| \
+[dBG]4 [ecA]4|
+[AFD]8| \
+[dBG]8| \
+[ecA]8| \
+[ecA]8|
+[AFD]8| \
+[dBG]8| \
+[AFD]8| \
+[dBG]4 [ecA]4|
+[AFD]8| \
+[dBG]8| \
+[AFD]8| \
+[dBG]4 [ecA]4|
+[AFD]8| \
+[dBG]8| \
+[AFD]8| \
+[dBG]4 [ecA]4|
+[AFD]8| \
+[dBGE]8| \
+[GED=B,]8| \
+[DB,G,]8|
+[AFD]8| \
+[dBGE]8| \
+[GED=B,]8| \
+[GED=B,]8|
+[EDA,]8| \
+[ECA,]8|
+V:3
+%%MIDI program 0
+D,8| \
+G,,8| \
+D,,8| \
+G,,4 A,,4|
+D,8| \
+G,,8| \
+D,,8| \
+G,,4 A,,4|
+D,8| \
+G,,8| \
+D,,8| \
+G,,4 A,,4|
+D,8| \
+G,,8| \
+D,,8| \
+G,,4 A,,4|
+D,8| \
+G,,8| \
+A,,8| \
+A,,8|
+D,8| \
+G,,8| \
+D,,8| \
+G,,4 A,,4|
+D,8| \
+G,,8| \
+D,,8| \
+G,,4 A,,4|
+D,8| \
+G,,8| \
+D,,8| \
+G,,4 A,,4|
+D,8| \
+E,8| \
+=B,,8| \
+G,,8|
+D,,8| \
+E,,8| \
+=B,,,8| \
+=B,,,8|
+A,,,8| \
+A,,,8|
+V:4
+%%MIDI program 0
+A,8| \
+z8| \
+z8| \
+z8|
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+C8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+B,8|
+V:5
+%%MIDI program 0
+DA GF GF/2GF/2G/2A/2| \
+DA GF GF/2A2-A/2| \
+DA GF GF/2GF/2G/2A/2| \
+DA GF GF/2E2-E/2|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+DA GF GF/2GF/2G/2A/2| \
+DA GF GF/2A2-A/2| \
+DA GF GF/2GF/2G/2A/2| \
+DA GF GF/2E2-E/2|
+G8|
+

@@ -1,0 +1,35 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\054_bones.midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%clef treble
+%%MIDI program 0
+[^c-A-^F-E-F,-]2 [c-A-F-E-B,F,-]/2[c-A-F-E-CF,-]/2[c-A-F-E-B,F,-]/2[c-A-F-E-A,F,-]/2 [c-A-F-E-B,F,-]/2[c-A-F-E-F,-]/2[c-A-F-EB,F,-]3| \
+[^c-A-^F-F,-]2 [c-A-F-A,F,-]/2[c-A-F-^G,F,-]/2[c-A-F-A,F,-]/2[c-A-F-CF,-]/2 [c-A-F-F,-F,]2 [cAFF,]2| \
+[A-^F-D-D,-]2 [A-F-D-B,D,-]/2[A-F-D-^CD,-]/2[A-F-D-B,D,-]/2[A-F-D-A,D,-]/2 [A-F-D-B,D,-]/2[A-F-D-D,-]/2[A-F-D-B,D,-] [A-F-D-D,-][A-F-D-F,D,-]/2[A-F-D-D,-]/2| \
+[A-^F-D-A,D,-]/2[A-F-D-F,D,-]3/2 [A-F-D-E,D,-]/2[A-F-D-F,D,-]3/2 [A-F-D-A,D,-]/2[A-F-D-F,D,-]3/2 [AFDD,]2|
+[^c-A-^F-F,-]2 [c-A-F-B,F,-]/2[c-A-F-CF,-]/2[c-A-F-B,F,-]/2[c-A-F-A,F,-]/2 [c-A-F-B,F,-]/2[c-A-F-F,-]/2[c-A-F-B,F,-]3| \
+[^c-A-^F-F,-]2 [c-A-F-A,F,-]/2[c-A-F-^G,F,-]/2[c-A-F-A,F,-]/2[c-A-F-CF,-]/2 [c-A-F-F,-F,]2 [cAFF,]2| \
+[A-^F-D-D,-]2 [A-F-D-B,D,-]/2[A-F-D-^CD,-]/2[A-F-D-B,D,-]/2[A-F-D-A,D,-]/2 [A-F-D-B,D,-]/2[A-F-D-D,-]/2[A-F-D-B,-D,-]2[A-F-D-B,-D,-]/2[A-F-D-B,F,D,-]/2| \
+[A-^F-D-A,D,-]/2[A-F-D-F,D,-]3/2 [A-F-D-E,D,-]/2[A-F-D-F,D,-]3/2 [A-F-D-B,D,-]/2[A-F-D-A,D,-]/2[A-F-D-F,D,-]2[A-F-FD-D,-]/2[A^GFDD,]/2|
+[^c-A-A^F-D-F,-]3[c-A-^GF-D-F,-]/2[c-A-AF-D-F,-]/2 [c-A-GF-D-F,-]3[c-A-F-FD-F,-]/2[c-A-GF-DF,-]/2| \
+[^c-A-^F-FF,-]3[c-A-F-EF,-]/2[c-A-F-FF,-]/2 [c-A-F-EF,-][c-A-F-CF,-] [c-A-F-CF,-][cAFEF,]| \
+[A-^F-FD-D,-]6 [^c-A-F-D-D,-]2| \
+[^c-A-^F-D-D,-]6 [c-A-F-D-D,-][c-A-F-FD-D,-]/2[cA^GFDD,]/2|
+[^c-A-A^F-F,-]3[c-A-^GF-F,-]/2[c-A-AF-F,-]/2 [c-A-GF-F,-]3[c-A-F-FF,-]/2[c-A-GF-F,-]/2| \
+[^c-A-^F-FF,-][c-A-F-EF,-] [c-A-F-CF,-][c-A-F-FF,-] [c-A-F-EF,-]2 [c-A-F-CF,-][cAFEF,]| \
+[A-^F-FD-D,-]6 [^c-A-F-D-D,-]2| \
+[^cA-^F-D-D,-]2 [A-F-D-D,-][A-F-D-^G,D,-]/2[A-F-D-A,D,-]/2 [A-F-D-B,D,-][A-F-D-B,D,-] [A-F-D-A,D,-][AFDG,D,]|
+[^c-A-^F-=C-F,-F,]2 [^c-A-F-C=C-F,-]2 [^c-A-F-D=C-F,-]2 [^c-A-F-C-=CF,-]2| \
+[^c-A-^F-CF,-]2 [c-A-F-F,-][c-A-F-^G,F,-] [c-A-F-B,F,-][c-A-F-B,F,-] [c-A-F-A,F,-][cAFG,F,]| \
+[A-^F-D-F,D,-]2 [A-F-D-^CD,-]2 [A-F-D-DD,-]2 [A-F-ED-D,-]3/2[A-F-D-DD,-]/2| \
+[A-^F-D-^CD,-]2 [A-F-D-D,-][A-F-D-A,D,-] [A-F-D-B,D,-][A-F-D-B,D,-] [A-F-D-A,D,-][AFD^G,D,]|
+[A^FDF,D,]4 [fdBB,]4| \
+[^c-A-^F-F,-]3[cAFB,F,] [B-^G-E-B,E,-][B-G-E-B,E,-] [B-G-E-A,E,-][BGEG,E,]| \
+[A-^F-D-DD,-]3/2[A-F-D-^C-D,-]2[AFDC-D,]/2 [f-d-B-CB,-]3/2[f-d-B-B,-]2[fdBB,]/2| \
+[^c-A-^F-F,-]3[cAFB,F,] [B-^G-E-B,E,-][B-G-E-B,E,-] [B-G-E-A,E,-][BGEG,E,]|
+[^c-A-^F-F,-F,]2 [cAFF,]6|
+

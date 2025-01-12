@@ -1,0 +1,108 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\037_il faut du temps.midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%MIDI program 0
+z6 GA-| \
+A/2B/2B3 zB/2B/2 Bc/2d/2| \
+d2 z3d/2d/2 de/2f/2| \
+g2 z3B/2B/2 gf/2e/2|
+f2 z4 dd-| \
+d/2e/2e3 z/2ee/2 ef/2g/2| \
+d2 z3d/2d/2 ff/2g/2| \
+c2 z2 z/2 (3gggg/2z/2a/2|
+a4 z/2 (3ddc'b/2z/2g/2| \
+g4 z/2 (3ddc'b/2z/2g/2| \
+g4 z/2 (3ddc'b/2z/2g/2| \
+a2 g2 z/2 (3gggg/2z/2a/2|
+a4 z/2 (3ddc'b/2z/2g/2| \
+g4 z/2 (3ddc'b/2z/2g/2| \
+g4 z/2 (3ggga/2z/2b/2| \
+c'4 z/2 (3bbba/2z/2a/2|
+a4 z4| \
+z4 z/2 (3gggg/2z/2^a/2| \
+a4 z/2 (3aaaa/2z/2g/2| \
+g4 z/2 (3gggg/2z/2a/2|
+a4 z/2 (3aaaa/2z/2g/2| \
+^a3/2=a/2 g2 z/2 (3^aaad'/2z/2c'/2| \
+c'4 z/2 (3aaaa/2z/2g/2| \
+g4 z/2 (3gggg/2z/2a/2|
+a4 z/2 (3aad'^c'/2z/2a/2|
+V:2
+%%MIDI program 0
+z8| \
+[dBG]8| \
+[AFED]8| \
+[GEDC]8|
+[fdB]8| \
+[GEDC]8| \
+[dBG]8| \
+[GECA,]8|
+[cAGD]8| \
+[dBG]4 [AGFD]4| \
+[BGFE]4 [AGFD]4| \
+[GEDC]4 [dBG]4|
+[GECA,]4 [cAGD]4| \
+[dBG]4 [AGFD]4| \
+[BGFE]4 [AGFD]4| \
+[GEDC]4 [dBG]4|
+[GECA,]4 [cAGD]4| \
+[d^AG]4 [AG^D]4| \
+[AFD]4 [A=FD]4| \
+[GEC]4 [G^DC]4|
+[AGD]8| \
+[d^AG]4 [AG^D]4| \
+[AFD]4 [A=FD]4| \
+[GEC]4 [G^DC]4|
+[AGD]4 [AFD]4|
+V:3
+%%MIDI program 0
+z8| \
+G,,8| \
+F,,8| \
+E,,8|
+B,,8| \
+C,8| \
+B,,8| \
+A,,8|
+D,8| \
+G,,4 F,,4| \
+E,,4 D,,4| \
+C,4 B,,4|
+A,,4 D,4| \
+G,,4 F,,4| \
+E,,4 D,,4| \
+C,4 B,,4|
+A,,4 D,4| \
+G,4 ^D,4| \
+D,4 D,4| \
+C,4 C,4|
+D,8| \
+G,4 ^D,4| \
+D,4 D,4| \
+C,4 C,4|
+D,8|
+V:4
+%%MIDI program 0
+z8| \
+E8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+C8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+G8|
+

@@ -1,0 +1,140 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\143_no no never.midi
+M: 4/4
+L: 1/8
+Q:1/4=180
+K:C major
+V:1
+%%MIDI program 0
+z2 F2 F2 F2| \
+FF FF FE DF| \
+E2 z4 zA,| \
+CD EF2E D2|
+z2 F2 F2 F2| \
+FE DB, DE FD-| \
+D2 z4 zA,/2B,/2| \
+DD2B,/2A,/2 DE2F-|
+F2 F2 F2 G2| \
+AG FD DE FF| \
+E2 z4 zA,| \
+CD EF2E D2|
+z2 F2 F2 F2| \
+FE DB, DE FD-| \
+D2 z4 zA,/2B,/2| \
+DD2B,/2A,/2 DE FD-|
+D2 F2 E2 DA,-| \
+A,2 F2 E2 DB,| \
+A,B,6-B,| \
+z3A,/2B,/2 EE ED-|
+D2 F2 E2 DA,-| \
+A,2 F2 G2 FF-| \
+FE6-E| \
+z8|
+z2 AF FE ED| \
+D2 DB, DE FE-| \
+E2 AE ED CC| \
+C2 C2 CD ED-|
+DD FE ED B,B,| \
+D2 DB, DE FD-| \
+DA, B,D2D3| \
+zA, B,E2D3|
+V:2
+%%MIDI program 0
+[AFD]8| \
+[AFD]8| \
+[ecA]8| \
+[ecA]8|
+[fdB]8| \
+[fdB]8| \
+[dBG]8| \
+[dBG]8|
+[AFD]8| \
+[AFD]8| \
+[ecA]8| \
+[ecA]8|
+[fdB]8| \
+[fdB]8| \
+[dBG]8| \
+[dBG]8|
+[BGE]8| \
+[AFD]8| \
+[dBG]8| \
+[dBG]8|
+[BGE]8| \
+[AFD]8| \
+[dBG]8| \
+[dBG]4 [dBG]2 [ecA]2|
+[AFD]8| \
+[AFD]8| \
+[ecA]8| \
+[ecA]4 [ecA]2 [ec^AF]2|
+[FDB,]8| \
+[FDB,]8| \
+[dBG]8| \
+[dBG]8|
+[dBG]8| \
+[dBG]8|
+V:3
+%%MIDI program 0
+D,,8| \
+D,,8| \
+A,,,8| \
+A,,,8|
+B,,8| \
+B,,8| \
+G,,8| \
+G,,8|
+D,,8| \
+D,,8| \
+A,,,8| \
+A,,,8|
+B,,8| \
+B,,8| \
+G,,8| \
+G,,4 G,,2 F,,2|
+E,,8| \
+F,,8| \
+G,,8| \
+G,,4 G,,2 F,,2|
+E,,8| \
+F,,8| \
+G,,8| \
+G,,4 G,,2 A,,2|
+D,,8| \
+D,,8| \
+A,,8| \
+A,,4 A,,2 ^A,,2|
+B,,8| \
+B,,4 B,,2 A,,2| \
+G,,8| \
+G,,8|
+G,,4 F,,4| \
+E,,4 F,,4|
+V:4
+%%MIDI program 0
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+D8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+C8|
+

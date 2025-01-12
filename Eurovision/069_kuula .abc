@@ -1,0 +1,102 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\069_kuula .midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%MIDI program 0
+G3F3 z3/2C/2| \
+GF/2GA3/2 G/2F3/2 z2| \
+G3F3 z3/2C/2| \
+GF/2GA3/2 G/2F3/2 z2|
+A3G3 z3/2D/2| \
+AG/2AB3/2 A/2G3/2 z2| \
+A6- AF/2G/2-| \
+G4 z4|
+f2 A2 z3z/2A/2| \
+ed/2ef3/2 e/2d3/2 z2| \
+e3A3 z3/2A/2| \
+ed/2dc<ed3/2 zc/2d/2-|
+d3F3 z2| \
+zD F/2GA3/2B2G-| \
+G8-| \
+G4 z4|
+d/2cdcdcdfe/2-| \
+ed/2edd/2 ed/2egf/2-| \
+fz/2e/2 fe<fa2g-| \
+g4 z2 f/2e/2d/2c/2|
+d/2cdcdcdfe/2-| \
+ec/2ec3/2 ec/2egg/2-|g8-|g4 
+V:2
+%%MIDI program 0
+[cAF]8| \
+[cAF]8| \
+[AFD]8| \
+[AFD]8|
+[dBG]4 [_gdB=G]4| \
+[fdBG]8| \
+[cAF]8| \
+[GEC]8|
+[AFED]8| \
+[AFED]8| \
+[EC=B,A,]8| \
+[EC=B,A,]8|
+[FDCB,]8| \
+[FDB,G,]8| \
+[cAF]8| \
+[GFDC]4 [GEC]4|
+[FDB,]8| \
+[GEC]8| \
+[AFD]8| \
+[GEC]8|
+[FDB,]8| \
+[cAF]8| \
+[GFC]8| \
+[GEC]8|
+V:3
+%%MIDI program 0
+F,,8| \
+F,,8| \
+D,,8| \
+D,,8|
+G,,4 G,,4| \
+G,,8| \
+C,8| \
+C,8|
+D,8| \
+D,8| \
+A,,8| \
+A,,8|
+B,,4 A,,4| \
+G,,8| \
+C,8| \
+C,4 C,4|
+B,,8| \
+B,,8| \
+D,8| \
+E,8|
+B,,8| \
+A,,8| \
+C,8| \
+C,8|
+V:4
+%%MIDI program 0
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+C8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+G8|
+

@@ -1,0 +1,75 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\190_si la vie.midi
+M: 4/4
+L: 1/8
+Q:1/4=150
+K:C major
+V:1
+%%MIDI program 0
+G6 E/2F/2G| \
+E6 C/2EG/2| \
+F4- FB, ^DF| \
+A2 GF/2G4-G/2|
+G/2F/2G4-G E/2F/2G| \
+E6 C/2EG/2| \
+F4- FB, ^DF| \
+A2 GF/2G2-G/2 AG|
+B6 A/2Bc/2| \
+A6 A/2Bc/2| \
+dc<cB<BA<AG/2A/2-| \
+A/2G4-G3/2 AG|
+B6 A/2Bc/2| \
+A6 A/2Bc/2| \
+dc<cB<BA<AB/2c/2-| \
+c/2B4-B/2B, BG|
+F3G/2E4-E/2|
+V:2
+%%MIDI program 0
+[BGE]8| \
+[GEC]8| \
+[F^DB,]8| \
+[BGE]8|
+[BGE]8| \
+[GEC]8| \
+[F^DB,]8| \
+[BGE]6 [AFD]2|
+[dBG]8| \
+[AFD]8| \
+[cA=F]8| \
+[GEC]6 [AFD]2|
+[dBG]8| \
+[AFD]8| \
+[cA=F]8| \
+[AF^DB,]8|
+[BGE]8|
+V:3
+%%MIDI program 0
+E,8| \
+C,8| \
+B,,8| \
+E,8|
+E,8| \
+C,8| \
+B,,8| \
+E,6 D,2|
+G,8| \
+D,8| \
+=F,8| \
+C,6 D,2|
+G,8| \
+D,8| \
+=F,8| \
+B,8|
+E,8|
+V:4
+%%MIDI program 0
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+C8|
+

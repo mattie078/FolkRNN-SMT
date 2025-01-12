@@ -1,0 +1,312 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\158_fangad av.midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%MIDI program 0
+z8| \
+z8| \
+z8| \
+z8|
+z4 DD2E-| \
+ED2C2B,3| \
+F8-| \
+F6- FF|
+G2 AB2A GF-| \
+F4 E2 D2| \
+D2 EC4-C| \
+z8|
+z4 DD2E-| \
+ED2B,2G3| \
+G3F4-F-| \
+F6- FF|
+G2 AB2A GF-| \
+F4 E2 D2| \
+E2 DC2B,2F-| \
+F8|
+z4 _GG2G-| \
+_G2 F2 E2 _D2| \
+F2 FF2E2E-| \
+E8|
+z4 _GG2G-| \
+_G2 F2 E2 _D2| \
+B2 BB2F2_A-| \
+_A2 B2 z_G AB-|
+B2 _A2 A2 F2| \
+_A3B4F-| \
+F2 EE4-E| \
+_GG2F2E2E-|
+E2 F_D4-D| \
+_DE2F2_A3| \
+_G4 F4| \
+_D4 E3B-|
+B2 _A2 A2 F2| \
+_A3B4F-| \
+F2 EE4-E| \
+_GG2F2E2E-|
+E2 F_D4-D| \
+_DE2F2_A3| \
+_G4 F4| \
+_D4 E3F-|
+F8| \
+z8| \
+z8| \
+z8|
+z6 _A2| \
+_A4 =B2 A2-| \
+_A2 _G6| \
+z6 =B,2|
+=E3E3 E2| \
+=E3E3 _G2-| \
+_G2 E6-| \
+E8|
+z6 _A2| \
+_A4 =B2 A2-| \
+_A2 _G6| \
+z2 E3_G3|
+_A8-| \
+_A8| \
+B2 BB2B2_A-| \
+_A2 B2 zF AB-|
+B2 _A2 A2 F2| \
+_A3B4c|
+V:2
+%%MIDI program 0
+[_AFEB,]8| \
+[EC_A,]3[BGE]4[F-D-B,-]| \
+[FDB,]8| \
+[EC_A,]3[BGE]4[F-D-B,-]|
+[FDB,]8| \
+[FDB,]8| \
+[cAFD]8| \
+[cAFD]8|
+[BGEC]8| \
+[FDB,]8| \
+[BGE]8| \
+[BGE]3[c-A-F-]4[cAF]|
+[FDB,]8| \
+[FDB,]8| \
+[cAFD]8| \
+[cAFD]8|
+[BGEC]8| \
+[FDB,]8| \
+[BGE]8| \
+[BGE]3[c-A-F-]4[cAF]|
+[_dB_G]8| \
+[_dB_G]8| \
+[_A-F-_D-]6 [AFD][E-C-A,-]| \
+[EC_A,]8|
+[_dB_GE]8| \
+[_dB_GE]8| \
+[_d-B-_G-]6 [dBG][e-c-_A-]| \
+[ec_A]8|
+[_AF_D]8| \
+[_dB_G]3[_A-F-D-]4[AFD]| \
+[ec_A]8| \
+[ec_A]8|
+[F_DB,]8| \
+[F_DB,]8| \
+[_dB_GE]4 [_AFD]4| \
+[_dB_G]4 [ec_A]3[A-F-D-]|
+[_AF_D]8| \
+[_dB_G]3[_A-F-D-]4[AFD]| \
+[ec_A]8| \
+[ec_A]8|
+[F_DB,]8| \
+[F_DB,]8| \
+[_dB_GE]4 [_AFD]4| \
+[_dB_G]4 [ec_A]3[A-F-E-B,-]|
+[_AFEB,]8| \
+[EC_A,]3[BGE]4[F-D-B,-]| \
+[FDB,]8| \
+[EC_A,]3[BGE]4[FDB,]|
+[=B_A=E]8| \
+[=B_A=E]8| \
+[_GE_D=B,]8| \
+[_GE=B,]8|
+[=B_A=E_D]8| \
+[=B_A=E_D]8| \
+[_GE=B,]8| \
+[_GE=B,]8|
+[=B_A=E]8| \
+[=B_A=E]8| \
+[_GE_D=B,]8| \
+[_GE=B,]8|
+[_AE_DA,]8| \
+[_AE_DA,]8| \
+[_AE_DA,]8| \
+[_AECA,]8|
+[_AF_D]8| \
+[_AF_D]8|
+V:3
+%%MIDI program 0
+B,,8| \
+B,,8| \
+B,,8| \
+B,,8|
+B,,8| \
+B,,8| \
+D,8| \
+D,8|
+C,8| \
+D,8| \
+F,8| \
+F,8|
+B,,8| \
+B,,8| \
+D,8| \
+D,8|
+C,8| \
+D,8| \
+E,8| \
+F,8|
+_G,,8| \
+_G,,8| \
+_A,,6- A,,A,,-| \
+_A,,8|
+E,,8| \
+E,,8| \
+_A,,8| \
+_A,,8|
+_D,8| \
+_D,8| \
+_A,,8| \
+_A,,8|
+B,,8| \
+_A,,8| \
+E,,4 F,,4| \
+_G,,4 _A,,3_D,-|
+_D,8| \
+_D,8| \
+_A,,8| \
+_A,,8|
+B,,8| \
+_A,,8| \
+E,,4 F,,4| \
+_G,,4 _A,,3B,,-|
+B,,8| \
+B,,8| \
+B,,8| \
+B,,8|
+=E,8| \
+=E,8| \
+E,8| \
+E,8|
+_D,8| \
+_D,8| \
+=B,,8| \
+=B,,8|
+=E,8| \
+=E,8| \
+E,8| \
+E,8|
+_A,,8| \
+_A,,8| \
+_A,,8| \
+_A,,8|
+_D,8| \
+_D,8|
+V:4
+%%MIDI program 0
+A,8| \
+z8| \
+z8| \
+z8|
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+D8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+C8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+B,8| \
+z8| \
+z8| \
+z8|
+G8|
+V:5
+%%MIDI program 0
+z2 B,2 F2 B2| \
+_A3G4F| \
+z2 B,2 F2 B2| \
+_A3G2F EF|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z2 B,2 F2 B2| \
+_A3G4F| \
+z2 B,2 F2 B2| \
+_A3G2F EF|
+

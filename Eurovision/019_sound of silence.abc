@@ -1,0 +1,106 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\019_sound of silence.midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%MIDI program 0
+zB, B,B,/2D2-D/2 A,A,| \
+z8| \
+zB, B,B,/2D2-D/2 A,A,| \
+z8|
+B,3/2A,<B,A,<B,D/2 A,A,| \
+B,3/2A,<B,A,<B,D/2 A,A,| \
+z3/2A,/2 B,/2B,DD3/2 A,/2A,/2A,| \
+z4 z3/2E/2 EE|
+A/2B/2A/2G/2 E2 A/2B/2A/2G/2 EE| \
+A/2B/2A/2G/2 EA4-A| \
+zG/2G/2 GG/2G/2 zG/2G/2 BB/2B/2-| \
+B/2A3-A/2 z3G/2G/2|
+dA/2A/2 AG/2A/2 B2 zG/2G/2| \
+dA/2A/2 AG/2A/2 B2 z2| \
+zG/2G/2 GG/2G/2 zG/2G/2 BB/2B/2-| \
+B/2A3-A/2 z3G/2G/2|
+dA/2A/2 AG/2A/2 B2 zG/2G/2| \
+dA/2A/2 AG/2A/2 B2 z2| \
+z2 E2 E2 F2| \
+GF ED2C B,A,|
+z2 E2 E2 A2| \
+GF ED2E DB,| \
+B,C B,C z4| \
+B,C B,C z2 d2|
+V:2
+%%MIDI program 0
+[BGE]4 [dBG]4| \
+[AFD]8| \
+[BGE]4 [dBG]4| \
+[AFD]8|
+[BGE]4 [dBG]4| \
+[AFD]8| \
+[BGE]4 [dBG]4| \
+[AFD]8|
+[ECA,]8| \
+[BGE]4 [AFD]4| \
+[GEC]6 [BGE]2| \
+[AFD]6 [FDB,]2|
+[GEC]6 [BGE]2| \
+[AFD]6 [FDB,]2| \
+[GEC]6 [BGE]2| \
+[AFD]6 [FDB,]2|
+[GEC]6 [BGE]2| \
+[AFD]8| \
+[ECA,]8| \
+[BGE]3[A-F-D-]4[AFD]|
+[ECA,]8| \
+[BGE]3[A-F-D-]4[AFD]| \
+[ECA,]8| \
+[BGE]3[A-F-D-]4[AFD]|
+V:3
+%%MIDI program 0
+E,,4 G,,4| \
+D,,8| \
+E,,4 G,,4| \
+D,,8|
+E,,4 G,,4| \
+D,,8| \
+E,,4 G,,4| \
+D,,8|
+A,,8| \
+E,,4 D,,4| \
+C,,6 E,,2| \
+D,,6 B,,,2|
+C,,6 E,,2| \
+D,,6 B,,,2| \
+C,,6 E,,2| \
+D,,6 B,,,2|
+C,,6 E,,2| \
+D,,8| \
+A,,8| \
+E,,4<D,,4|
+A,,8| \
+E,,4<D,,4| \
+A,,8| \
+E,,4<D,,4|
+V:4
+%%MIDI program 0
+E8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+C8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+G8|
+

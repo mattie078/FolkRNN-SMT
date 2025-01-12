@@ -1,0 +1,68 @@
+X: 1
+T: from C:\Users\hrooij7\Downloads\AI Song Contest dataset\AI Song Contest dataset\MIDI\003_are you sure .midi
+M: 4/4
+L: 1/8
+Q:1/4=120
+K:C major
+V:1
+%%MIDI program 0
+z6 E2| \
+A6 E2| \
+B6 E2| \
+A2 A2 B2 EA-|
+A6 E2| \
+A6 E2| \
+B6 E2| \
+A3A B2 E2|
+A8| \
+f2 d2<d2 e2| \
+f2 ff zg f2| \
+e2 cc zd3|
+e2 ee zf e2| \
+d2 BB z3c| \
+d2 dd ze d2| \
+c4 d4|
+c4 
+V:2
+%%MIDI program 0
+z8| \
+[ecA]8| \
+[dBGE]8| \
+[ecA]4 [dBGE]4|
+[ecA]8| \
+[ecA]8| \
+[dBGE]8| \
+[ecA]4 [dBGE]4|
+[ecA]8| \
+[fdB]8| \
+[fdB]8| \
+[ecA]8|
+[ecA]8| \
+[dBGE]8| \
+[dBGE]8| \
+[ecA]4 [afd]4|
+[ecA]8|
+V:3
+%%MIDI program 0
+z8| \
+A,,8| \
+E,,8| \
+A,,4 E,,4|
+A,,8| \
+A,,8| \
+E,,8| \
+A,,4 E,,4|
+A,,8| \
+B,,8| \
+B,,8| \
+A,,8|
+A,,8| \
+E,,8| \
+E,,8| \
+A,,4 A,,4|
+A,,8|
+V:4
+%%MIDI program 0
+z8| \
+E8|
+
