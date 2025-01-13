@@ -22323,10 +22323,6 @@ K:CMaj
 A 4 A 2 A 2 A 2 B 2 c 2 > B 2 A 2 G F E F G E F 4 E 4 z 2 B 2 c 2 d 4 c 2 B 4 A 4 z 2 A 2 A 2 A 2 A 2 B 2 c 2 > B 2 A 2 G F E F G E F 4 E 4 z 2 G 2 G 2 G 2 G 2 G 2 E F G A G 2 F E D 4 C 4 z 2 G 4 E 4 C 4 G 2 A 2 B 2 c 2 B 2 > A 2 G F E 4 z 2 D 2 E 2 > F 2 G 2 A 2 A 2 ^G 2 A 4 |
 
 M:4/2
-K:Cclef=bass
-D, 2 D, 2 F, 2 E, 2 D, 2 F, 2 > G, 2 A, 2 B, 4 A, 4 z 2 G, 2 A, 2 A, 2 C 2 > B, 2 A, 2 D 4 C 2 B, 4 A, 4 A, 2 B, 2 > A, 2 G, 2 F, 2 > E, 2 D, 2 E, 2 D, 4 C, 4 z 2 C, 2 F, 2 F, 2 G, 2 A, 2 A, 2 > G, 2 F, E, G, 2 E, 4 D, 4 D, 2 G, 4 F, 2 E, 4 z 2 E, 2 F, 2 F, 2 G, 2 A, 4 A, 2 C 4 A, 2 A, 2 > G, 2 F, E, A, 2 G, 4 F, 2 E, 4 D, 4 |
-
-M:4/2
 K:FMaj
 F 4 F 2 E 2 F 2 A 2 G 2 A 4 G F E 4 z 2 B 2 A 2 F 2 E D E F G G 2 < A 2 G 2 < F 2 E E D /2 E /2 F 4 F 4 F 2 E 2 F 2 A 2 G 2 A 4 G F E 4 z 2 B 2 A 2 F 2 E D E F G G 2 < A 2 G 2 < F 2 E E D /2 E /2 F 4  |: F 4 F 2 E 2 D 4 C 4 z 2 C 2 F 4 F 2 E 2 D 4 C 4 z 2 C 2 F 2 F 2 G 2 G 2 B 2 B 2 F G A B A 2 G F E 4 z 2 A 2 G 2 F 2 E D E F G F A /2 G /2 A /2 B /2 A G 2 < F 2 E E D /2 E /2 F 4 |
 
@@ -22365,14 +22361,6 @@ z 2 F 2 F 2 G 2 A 2 B 4 A 2 G 4 F 4 z 2 c 2 d 4 c 2 c 4 A 2 B 4 A 4 c 2 d 4 c 2 
 M:4/2
 K:CMaj
 z 2 A, 2 A, 2 C 2 B, 2 A, 2 E 4 E 4 z 2 E 2 C 2 > D 2 E 2 F 2 D 4 C 4 z 2 A, 2 A, 2 C 2 B, 2 A, 2 E 4 E 4 z 2 E 2 C 2 > D 2 E 2 F 2 D 4 C 4  |: z 2 C 2 C 2 E 2 D 2 C 2 B, 4 A, 4 z 2 E 2 D 4 B, 2 C 2 A, 4 G, 4 z 2  |: F 2 F 4 E 2 E 4 D 2 E 4 C 4 z 2 D 2 E 2 > D 2 C 2 D 2 B, 4 A, 4 |
-
-M:4/2
-K:Cclef=bass
-z 2 G, 2 G, 2 G, 2 A, 2 B, 2 C 4 C 4 z 2 B, 2 A, 4 G, 2 C 4 B, 2 C 4 z 2 C 2 B, 2 B, 2 C 2 C 2 D 4 D 4 z 2 C 2 B, 2 > C 2 D 2 C 2 A, 4 G, 4 z 2 G, 2 A, 2 A, 2 D 2 D 2 C 4 B, 4 A, 4 G, 4 F, 2 G, 2 E, 4 D, 4 z 2  |: D, 2 A, 4 A, 2 A, 2 B, 2 C 2 D 4 D 4 z 2 C 2 B, 2 > A, 2 G, 2 B, 2 A, 4 G, 4 |
-
-M:4/2
-K:Cclef=bass
-z 2 E, 2 G, 2 > G, 2 G, 2 G, 2 > G, 2 G, 4 < A, 4 G, 2 A, 4 z 2 A, 4 < C 4 C 2 B, 2 A, 4 G, 2 > F, 2 F, E, /2 D, /2 E, 4 z 2 E, 2 A, 2 A, 2 A, 2 A, 4 A, 2 G, 4 E, 4 C, 4 z 2 C, C, G, 4 > E, 4 F, 2 G, 2 A, 4 G, 4 C 2 B, 2 > A, 2 G, F, E, 4 |
 
 M:4/2
 K:FMaj
@@ -22451,18 +22439,6 @@ K:CMaj
 A 2 c 2 c 2 d 2 e 2 e 2 > d 2 e c d 4 z 4 e 2 c 2 c 2 B 2 A 2 A 2 > G 2 A F G 4 z 2 A 2 A 2 c 2 B 2 A 4 < A 4 G F E D E F G E A 4 G 2 F 4 E 4 A 2 c 2 c 2 d 2 e 2 e 2 > d 2 e c d 4 z 4 e 2 c 2 c 2 B 2 A 2 A 2 > G 2 A F G 4 z 2 A 2 A 2 c 2 B 2 A 4 < A 4 G F E D E F G E A 4 G 2 F 4 E 4  |: A 2 A 2 A 2 G 2 A 2 c 4 B A B 2 B 2 A 4 z 2 A A c 2 d 2 e 2 e 2 e f g f e 2 d c d 2 d 2 c 4 z 2 c 2 c 2 e 2 d 2 c 2 B 2 A 2 G 4 z 2 G 2 A 2 c 2 B 2 A 2 A 4 G F E D E F G E A 4 G 2 F 4 E 4 z 2 B 2 > c 2 d B c 2 B A G 4 z 2 e 2 e 2 e 2 c 4 e 2 d 2 c B A G A B c d e c d 2 B 4 A 4 |
 
 M:4/2
-K:Cclef=bass
-E, 4 G, 2 G, 2 A, 2 B, 2 C 2 C 4 B, A, B, 4 z 4 B, 2 D 4 C 2 B, 4 G, 2 C 4 B, A, G, 4 z 2 G, 2 C 2 C 2 B, 2 G, 2 A, 4 E, 4 z 4 B, 2 C 2 A, 4 G, 2 A, 4 G, 2 F, 4 E, 4 z 2 E, 2 E, 2 E, 2 A, 4 A, 2 G, 2 E, 4 C, 4 z 2 C, 2 G, 2 A, 2 B, 2 G, 2 C 4 B, 2 > A, 2 G, 4 A, B, C A, A, 2 G, F, E, 4 z 4 B, 2 C 2 A, 2 A, 2 G, 2 A, 4 G, 2 F, 4 E, 4 |
-
-M:4/2
-K:Cclef=bass
-z 2 D, 2 F, 2 F, 2 G, 2 A, 2 _B, 2 A, 2 F, 2 F, 2 G, 4 B, 4 z 2 A, 2 A, 2 A, 2 A, 4 G, 2 F, 2 E, 4 D, 4 z 2 A, 2 A, 2 A, 2 G, 2 F, 2 D, 4 C, 4 z 2 C, 2 D, 2 E, 2 F, 2 G, 4 F, 2 E, 4 D, 4 z 2 z 2  |: D, 2 F, 2 F, 2 G, 2 A, 4 A, 2 A, 4 G, 2 F, 2 > G, 2 A, F, 2 < G, 2 F, E, D, C, 4 z 2 z 2 G, G, G, 2 G, 2 F, 2 D, 2 E, 4 F, 2 > E, 2 D, C, D, 4 |
-
-M:4/2
-K:Cclef=bass
-E, 4 G, 2 G, A, B, G, 2 < C 2 B, A, 4 G, 2 A, 4 z 2 C 2 B, 2 A, 2 G, 2 F, 2 E, D, 2 < A, 2 A, G, 2 F, 4 E, 4 E, 4 G, 2 G, A, B, G, 2 < C 2 B, A, 4 G, 2 A, 4 z 2 C 2 B, 2 A, 2 G, 2 F, 2 E, D, 2 < A, 2 A, G, 2 F, 4 E, 4  |: B, 4 C 2 A, A, B, 4 z 2 G, 2 A, G, A, B, C 4 z 2 B, 2 C 2 D 2 E 2 D C B, A, D 4 C 2 A, 2 > G, 2 F, E, 2 < D, 2 E, F, G, A, 2 G, 2 F, 2 F, 2 E, 4 |
-
-M:4/2
 K:CMaj
 z 2 D 2 D 2 D 2 C 4 D 2 F 4 E D E 2 E 2 D 4 z 2 D 2 F 2 G A 2 A 2 A B c B A 2 G F G 2 A 2 F 4 z 4 C 2 F 2 F 2 G 2 A 4 G 2 F 4 E D E 2 E 2 D 4 z 4 C 2 F 2 F 2 G 2 A 4 G 2 F 4 E D E 2 E 2 D 4 |
 
@@ -22493,10 +22469,6 @@ G 4 B B B A G 2 F 2 G 2 A 2 B 2 G 2 c 2 > A 2 B 2 A 4 G 4 ^F 2 G 4 z 4 G 4 B B B
 M:3/2
 K:CMaj
 z 2 z 2 D 2 D 2 > D 2 D 2 A 4 A B 4 B 2 A 4 A 2 B 4 A 2 d 4 A 2 c 4 B 2 A 4 z 2  |: A G A B c 2 B 2 > c 2 d 2 c 2 > B 2 A 2 G 2 E 2 F 2 E 4 A 2 A 4 c 2 A 4 D 2 F 2 E 4 D 4 |
-
-M:4/2
-K:Fclef=bass
-z 2 G, 2 G, 2 G, 2 D 2 D 2 G 2 G 2 F 2 E D C 2 D 2 E F G E F 4 D 4 z 2 D 2 D 4 G 2 G 4 G 2 F 4 F 2 < D 2 C D C B, 4 B, 2 > C 2 D 2 F 4 D 2 G 4 F 2 D 2 > E 2 F E D 2 C B, A, 4 G, 4 z 2 G, 2 A, 2 B, 2 C 2 D 2 B, 2 A, 2 G, 4 z 2 D 2 D 4 G 4 F 4 D 2 F 2 E 4 D 4 D 2 D 2 C 2 C 2 G, 4 F, 4 B, 2 > A, 2 G, 2 > A, 2 B, C 2 < D 2 E F E D 4 C B, A, G, A, 4 G, 4 |
 
 M:4/2
 K:CMaj
@@ -22531,10 +22503,6 @@ K:CMaj
 z 2 G 2 G 2 G 2 C 4 D 2 E 2 F 2 E 2 > D 2 C B, A, 4 z 2 G, 2 C 2 C 2 D 2 E 4 A 2 G 2 E 4 D C D 4 C 4 z 2 G 2 G 2 G 2 C 4 D 2 E 2 F 2 E 2 > D 2 C B, A, 4 z 2 G, 2 C 2 C 2 D 2 E 4 A 2 G 2 E 4 D C D 4 C 4  |: z 2 C 2 G 2 F 2 D 2 C 2 D 2 F 2 E 4 D 4 z 2 A A 2 < G 2 G G 2 G 2 E D E F G 2 C 2 z 2 E 2 D 2 > C 2 B, A, C 2 A, 4 G, 4 E 2 > F 2 G 2 A 2 A 2 G 2 A G F E D 4 z 2 A 2 G 2 G 2 G 2 > F 2 E D F 2 E 2 D C D 4 C 4 |
 
 M:4/2
-K:Fclef=bass
-F, 4 F, 2 F, 2 A, 2 G, 2 C 4 C 4 z 2 C 2 G, 4 A, 2 C 4 B, 2 C 2 > B, 2 A, G, 2 < F, 2 E, E, D, C, 4 z 2 C 2 C 2 C 2 A, 2 B, 4 C 2 A, 4 F, 4 A, 4 G, 2 C 4 B, 2 G, 4 F, 4 |
-
-M:4/2
 K:CMaj
 z 2 A 2 A 2 A 2 c 2 B 2 B 2 B 2 A 4 z 2 A 2 d 2 > c 2 B 2 c 4 B 4 A 2 B 4 z 2 B 2 B 2 B 2 d 2 d 2 d 2 c 4 B 2 A G A B c 2 B 2 A 2 A 2 G 4 z 2 G 2 A 2 A 2 B 2 c 2 > d 2 e 2 d 2 > c 2 B 2 A 2 G 4 A 4 |
 
@@ -22558,10 +22526,6 @@ M:4/2
 K:CMaj
 z 2 C 2 C 2 C C D 2 E 2 E D /2 C /2 D D C 4 z 2 C 2 E 2 D 2 E 2 F 2 G 2 > F 2 E D F 2 E 4 z 2 C 2 E 2 E 2 F 2 G 2 > G 2 G 2 F 2 E 2 D 4 z 2 G 2 F 2 F 2 E 2 E 2 D 2 C 2 B, 2 G, 2 z 2  |: G, 2 C 2 > D 2 E F G 4 F 2 E 2 E 2 D 2 C 2 D 4 C 4 |
 
-M:3/2
-K:Cclef=bass
-z 2 D, 2 F, 4 G, 2 A, 4 G, 2 A, 4 B, 2 C 4 D 2 C 4 B, 2 A, 4 D, 2 F, 4 A, 4 G, 4 F, 2 E, 2 D, 2 E, 2 C, 4 C, 2 F, 4 A, 2 G, 4 F, 2 E, D, E, C, D, 4 |
-
 M:4/2
 K:FMaj
 z 2 F 2 E E E E F 2 F F G 4 z 2 G 2 A G F E F G A F G 4 z 2 B 2 B B B B A G F E F 2 A 2 G 2 F 2 F 2 E 2 F 4 z 2 A 2 A A A A A 2 A 2 G F G A G 2 F 2 E 2 E 2 F 2 F 2 C 4 z 2 F 2 E 2 E 2 F 2 F 2 C 4 z 2 F 2 E 2 E 2 F 2 F 2 G 4 G 2 G 2 A 2 > G 2 F G A F G 4 F 2 G 2 B 2 B 2 A 2 G 2 A G F E F 2 A A G 2 F 2 F 2 E 2 F 4 |
@@ -22569,10 +22533,6 @@ z 2 F 2 E E E E F 2 F F G 4 z 2 G 2 A G F E F G A F G 4 z 2 B 2 B B B B A G F E 
 M:4/2
 K:FMaj
 C 2 C C D 2 E 2 F 2 D 2 E 2 > D 2 C 2 C 2 A, 2 B, 2 A, 4 G, 4 C 2 C C D 2 E 2 F 2 D 2 E 2 > D 2 C 2 C 2 A, 2 B, 2 C 4 C 4 z 2 C 2 G 2 G 2 A 2 G 2 E 2 F 2 G 4 z 2 G 2 G 2 A 2 G 2 E 2 F 2 D 2 C 2 > C 2 C 2 B, 2 A, 2 B, 2 A, 4 G, 4 z 2  |: G, 2 C 2 C 2 D 2 E 2 F 2 D 2 C 2 > C 2 D 2 E 2 D 2 C 2 D 2 A, 2 G, 4 z 2 G, 2 A, 2 > G, 2 A, 2 B, 2 C 4 C 4 |
-
-M:4/2
-K:Cclef=bass
-E, 4 G, 4 F, 4 E, 4 F, 4 D, 4 D, 4 C, 4 z 2 C, 2 G, 4 G, 4 A, 4 > G, 4 F, 2 > E, 2 D, 4 E, 4 E, 4 G, 4 F, 4 E, 4 F, 4 D, 4 D, 4 C, 4 z 2 C, 2 G, 4 G, 4 A, 4 > G, 4 F, 2 > E, 2 D, 4 E, 4  |: z 2 E, 2 A, 4 G, 4 A, 4 C 4 B, 4 B, 4 A, 4 z 2 G, 2 C 4 A, 4 B, 4 C 4 A, 4 G, 4 z 2 G, 4 < E, 4 F, 4 < G, 4 F, 2 E, 2 > D, 2 E, 4 D, 4 z 2 D, 2 G, 4 A, 4 B, 4 z 4 D 4 C 4 B, 4 A, 4 B, 4 C 4 A, 4 G, 4 A, 4 G, 4 F, 4 E, 4 z 4 E, 4 D, 4 C, 4 F, 4 E, 4 D, 2 > C, 2 D, 4 C, 4 z 4 C 4 A, 4 B, 4 C 4 z 4 B, 4 A, 4 A, 4 G, 4 z 4 A, 4 E, 4 D, 4 A, 4 G, 4 F, 2 > E, 2 D, 4 E, 4 |
 
 M:4/2
 K:CMaj
@@ -22615,10 +22575,6 @@ K:FMaj
 z 2 c 2 c 2 c B A 2 A G F 2 E D C 4 z 2 F 2 F 2 F 2 F 2 G 2 A 2 G F E 4 F 2 > G 2 A 2 B 4 A 4 G 2 A 4 z 2 A 2 c 2 c B A 2 G 2 F 2 E D C 4 z 2 F 2 F 2 F F F G A G F E 4 F 2 F G A 2 G 4 F 4 E 2 F 4 |
 
 M:4/2
-K:Cclef=bass
-z 2 E, 2 G, 2 > A, 2 B, 2 > B, 2 C 2 > B, 2 A, 2 > A, 2 G, 2 > F, 2 E, 4 z 2 E, 2 G, 2 > A, 2 B, 2 > B, 2 C 2 > B, 2 A, 2 > A, 2 G, 2 > G, 2 E, 4 z 2 E, 2 E, 2 > E, 2 E, 2 > E, 2 A, 4 G, 2 > F, 2 D, 4 C, 4 z 2 C, 2 G, 2 > A, 2 B, 2 > B, 2 C 2 > B, 2 A, 2 > C 2 B, 2 > A, 2 G, 2 > F, 2 E, 2 > G, 2 F, 4 E, 4 |
-
-M:4/2
 K:FMaj
 D 4 F 2 G 2 F 2 B 4 A 2 B 4 z 2 B 2 A 2 G 2 c 4 B 2 A 4 G 4 F 2 G 4 z 4 D 4 F 2 G 2 F 2 B 4 A 2 B 4 z 2 B 2 A 2 G 2 c 4 B 2 A 4 G 4 F 2 G 4 z 4  |: A 2 A 2 A 2 A 2 G 4 F 4 E 2 F 4 z 2 F 2 G 2 B 2 > A 2 G F G 2 G 2 F 4 D 4 F 2 G 2 F 2 B 2 B 2 A 2 B 4 z 2 B 2 A 2 G 2 c 4 B 2 A 4 G 4 F 2 G 4 |
 
@@ -22637,10 +22593,6 @@ C 4 G, 2 G, 2 C 4 z 2 C 2 D 2 F 2 E 4 z 2 E 2 D 2 C 2 B, 2 D 4 C 4 B, 2 C 4 F 4 
 M:4/2
 K:CMaj
 z 2 C 2 C 2 > C 2 E 2 > E 2 G 2 > G 2 E 2 > E 2 A 2 > A 2 E 2 > F 2 G 4 G 4 | G 2 G 2 > G 2 G 2 > F 2 E 2 > E 2 D 2 > D 2 E 2 > C 2 B, 2 > B, 2 A, 2 > B, 2 C 2 > D 2 E 4 C 4 |
-
-M:4/2
-K:Cclef=bass
-z 2 D, 2 C, 2 > C, 2 D, 2 > D, 2 E, 4 E, 2 > E, 2 E, 3 /2 E, 2 < F, 2 F, E, 4 D, 4 | D, 4 A, 4 G, 2 > F, 2 E, 2 > E, 2 F, 4 E, 2 > E, 2 D, 2 > D, 2 E, E, A, 4 E, 4 G, 2 > G, 2 F, 2 > E, 2 D, 4 |
 
 M:4/2
 K:CMaj
@@ -31603,10 +31555,6 @@ K:FMaj
 G B 3 /2 c /2 | d > d _e | d c 3 /2 B /2 | A 3 | G B 3 /2 c /2 | d > d _e | d c 3 /2 c /2 | d 2 d | B A 3 /2 B /2 | G > ^F G | A B 3 /2 G /2 | ^F 3 | A A 3 /2 A /2 | B > c d | _e c 3 /2 B /2 | A 3 | G 3 |
 
 M:3/4
-K:Fclef=bass
-G, G, 3 /2 F, /2 | B, > B, _E, | B, ^F, 3 /2 G, /2 | D, 3 | D, G, 3 /2 F, /2 | B, > B, C | B, A, 3 /2 A, /2 | D, 2 D, | G, F, 3 /2 G, /2 | _E, > D, E, | C, D, 3 /2 _E, /2 | D, 3 | D, ^F, 3 /2 D, /2 | G, > F, B, | B, ^F, 3 /2 G, /2 | D, 3 | G, 3 |
-
-M:3/4
 K:BbMaj
 G A B | c B 3 /2 A /2 | B 2 G | B > B e | d c 3 /2 B /2 | B 3 | B > A G | G c 3 /2 c /2 | A 2 A | d > A B | A G 3 /2 G /2 | ^F 3 | G A B | c B 3 /2 A /2 | B 2 G | B > B e | d c 3 /2 B /2 | B 3 | B > A G | G c 3 /2 c /2 | A 2 A | d > A B | A G 3 /2 G /2 | ^F 3 | d > d =B | =B c 3 /2 c /2 | A 2 A | d > d c | B A 3 /2 G /2 | G 3 | d > d =B | =B c 3 /2 c /2 | A 2 A | d > d c | B A 3 /2 G /2 | G 3 | d > d =B | =B c 3 /2 c /2 | A 2 A | d > d c | B A 3 /2 G /2 | G 3 | d > d =B | =B c 3 /2 c /2 | A 2 A | d > d c | B A 3 /2 G /2 | G 3 |
 
@@ -38503,16 +38451,8 @@ K:GMaj
 B c | d 2 d 2 d g f e | e 2 d 2 z 2 e c | B 2 c A G 2 F 2 | G 6 | d B | A 2 > c 2 B G d B | B 2 A 2 z 2 d B | A 2 > c 2 B G d B | B 2 A 2 z 2 B c | d 2 d 2 d g f e | e 2 d 2 z 2 e c | B 2 c A G 2 F 2 | G 6 |
 
 M:2/4
-K:Gclef=bass
-z | G, 2 G, /2 E, /2 D, /2 C, /2 | G, 2 G, F, | G, > C, D, D, | G, 3 :| z | F, > D, G, B, /2 G, /2 | D D, z 2 | F, > D, G, B, /2 G, /2 | D D, z 2 | G, 2 G, /2 E, /2 D, /2 C, /2 | G, 2 G, F, | G, > C, D, D, | G, 3 |
-
-M:2/4
 K:DMaj
 A | d > f e 3 /2 c /2 | d 2 f 2 | e c /2 d /2 e A | B A z | A | B B /2 c /2 d c /2 B /2 | A > A B B /2 c /2 | d e c 3 /2 A /2 | B > c d 3 /2 e /2 | f > g a 3 /2 g /2 | f e /2 d /2 A c | d 2 |
-
-M:2/4
-K:Dclef=bass
-F, | D, 2 A, 2 | D 2 D, 2 | A, 2 C, 2 | D, D, z :| z | G, 2 G, 2 | F, 2 G, 2 | ^G, 2 A, 2 | G, > E, F, 3 /2 C, /2 | D, > E, F, 3 /2 E, /2 | D, G, A, A, | D, 2 |
 
 M:8/16
 K:FMaj
@@ -38529,10 +38469,6 @@ c d | e d d c e d d c | =B c d 2 z 2 G 2 | A G G c =B /2 c /2 d /2 e /2 f e | d 
 M:2/4
 K:CMaj
 D A, /2 C /2 | B, z | E B, /2 D /2 | ^C z | ^F ^C /2 E /2 | ^D z | ^G ^D /2 ^F /2 | ^E z | _B F /2 _A /2 | G z | c G /2 _B /2 | A z | d A /2 c /2 | B z | e B /2 d /2 | ^c z | ^f ^c /2 e /2 | d z | e B /2 d /2 | ^c z | d A /2 c /2 | B z | c G /2 _B /2 | A z | _B F /2 _A /2 | G z | _A _E /2 _G /2 | F z | ^F ^C /2 E /2 | ^D z | E B, /2 D /2 | ^C z | D A, /2 C /2 | B, z |
-
-M:2/4
-K:Cclef=bass
-D, ^F, | G, G, | E, ^G, | A, A, | ^F, ^A, | B, B, | ^G, ^B, | ^C ^C, | _B, D | _E _E, | C E | F F, | D, ^F, | G, G, | E, ^G, | A, A, | ^F, ^A, | B, B, | ^G, E, | A, A, | ^F, D, | G, G, | E, C, | F, F, | D, _B, | _E, E, | C, _A, | _D, D, | ^A, ^F, | B, B, | E, ^G, | A, A, | D, ^F, | G, G, |
 
 M:2/4
 K:EbMaj
