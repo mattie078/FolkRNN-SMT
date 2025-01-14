@@ -1,0 +1,68 @@
+vocabulary size: 111
+n tunes: 400
+n train tunes: 368
+n validation tunes: 32
+min, max length 52 6464
+Building the model
+  number of parameters: 5548688
+  layer output shapes:               #params:   output shape:
+    InputLayer                       0          (32, None)
+    EmbeddingLayer                   12321      (32, None, 111)
+    InputLayer                       0          (32, None)
+    LSTMLayer                        1278976    (32, None, 512)
+    DropoutLayer                     0          (32, None, 512)
+    LSTMLayer                        2100224    (32, None, 512)
+    DropoutLayer                     0          (32, None, 512)
+    LSTMLayer                        2100224    (32, None, 512)
+    DropoutLayer                     0          (32, None, 512)
+    ReshapeLayer                     0          (None, 512)
+    DenseLayer                       56943      (None, 111)
+Train model
+1/44 (epoch 0.091) train_loss=1356.34365814 time/batch=10.91s
+2/44 (epoch 0.182) train_loss=1836.73745200 time/batch=22.96s
+3/44 (epoch 0.273) train_loss=586.18601574 time/batch=8.71s
+4/44 (epoch 0.364) train_loss=453.93011861 time/batch=23.63s
+5/44 (epoch 0.455) train_loss=339.62425161 time/batch=4.98s
+6/44 (epoch 0.545) train_loss=853.50022838 time/batch=11.16s
+7/44 (epoch 0.636) train_loss=882.04246858 time/batch=14.01s
+8/44 (epoch 0.727) train_loss=1080.28375467 time/batch=14.43s
+9/44 (epoch 0.818) train_loss=503.43567550 time/batch=7.29s
+10/44 (epoch 0.909) train_loss=354.83601961 time/batch=4.67s
+11/44 (epoch 1.000) train_loss=359.77117554 time/batch=8.36s
+  saved to metadata/configSample-processed_songs-20250114-003531.pkl
+12/44 (epoch 1.091) train_loss=411.37080375 time/batch=7.23s
+13/44 (epoch 1.182) train_loss=1501.25265624 time/batch=22.79s
+14/44 (epoch 1.273) train_loss=522.81948934 time/batch=8.01s
+15/44 (epoch 1.364) train_loss=645.93075452 time/batch=10.30s
+16/44 (epoch 1.455) train_loss=1046.38345771 time/batch=16.03s
+17/44 (epoch 1.545) train_loss=765.37894457 time/batch=11.76s
+18/44 (epoch 1.636) train_loss=882.37032612 time/batch=12.43s
+19/44 (epoch 1.727) train_loss=327.75783680 time/batch=4.21s
+20/44 (epoch 1.818) train_loss=284.82346600 time/batch=24.95s
+21/44 (epoch 1.909) train_loss=581.81930775 time/batch=13.09s
+22/44 (epoch 2.000) train_loss=342.81663712 time/batch=23.19s
+  saved to metadata/configSample-processed_songs-20250114-003531.pkl
+23/44 (epoch 2.091) train_loss=1279.88073431 time/batch=18.59s
+24/44 (epoch 2.182) train_loss=270.23687205 time/batch=3.71s
+25/44 (epoch 2.273) train_loss=1039.78308155 time/batch=15.53s
+26/44 (epoch 2.364) train_loss=791.93259309 time/batch=12.03s
+27/44 (epoch 2.455) train_loss=406.23385821 time/batch=6.08s
+28/44 (epoch 2.545) train_loss=931.56841527 time/batch=18.70s
+29/44 (epoch 2.636) train_loss=474.22839299 time/batch=7.52s
+30/44 (epoch 2.727) train_loss=290.13915706 time/batch=4.29s
+31/44 (epoch 2.818) train_loss=815.13697713 time/batch=20.01s
+32/44 (epoch 2.909) train_loss=554.60376957 time/batch=8.52s
+33/44 (epoch 3.000) train_loss=388.86482263 time/batch=23.57s
+  saved to metadata/configSample-processed_songs-20250114-003531.pkl
+34/44 (epoch 3.091) train_loss=799.67961390 time/batch=11.70s
+35/44 (epoch 3.182) train_loss=279.87092761 time/batch=4.33s
+36/44 (epoch 3.273) train_loss=1123.75749854 time/batch=15.81s
+37/44 (epoch 3.364) train_loss=338.11845162 time/batch=23.23s
+38/44 (epoch 3.455) train_loss=1250.11781065 time/batch=20.67s
+39/44 (epoch 3.545) train_loss=341.84099677 time/batch=5.14s
+40/44 (epoch 3.636) train_loss=433.61621116 time/batch=7.08s
+41/44 (epoch 3.727) train_loss=451.69094635 time/batch=7.96s
+42/44 (epoch 3.818) train_loss=400.10484542 time/batch=8.37s
+43/44 (epoch 3.909) train_loss=859.66666857 time/batch=12.24s
+44/44 (epoch 4.000) train_loss=685.86971417 time/batch=12.36s
+  saved to metadata/configSample-processed_songs-20250114-003531.pkl
