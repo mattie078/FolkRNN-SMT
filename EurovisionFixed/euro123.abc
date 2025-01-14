@@ -1,0 +1,17 @@
+X:28
+T:Title
+L:1/8
+Q:1/4=180
+M:4/4
+I:linebreak $
+K:C
+V:1
+ z4 z2 CC | D E2 E- E2 DC | D C2 C- C2 CC | D E2 E- E2 DC | D C2 C- C C2 C- |$ C8 | z2 z C DCDC | %7
+ E E3- E4 | z4 z2 G,G, | D E2 E- E2 DC | D C2 C- C2 CC |$ D E2 E- E2 DC | D C2 C- C C2 C- | C8 | %14
+ z C C2 ECCC- | C8 | z4 z CCA- | A2 G2 G2 CD- |$ D D2 E- EC C2 | z2 GG G C2 D- | D D2 E- EC C2 | %21
+ G2 G2 G2 CD- | D D2 E- EC C2 | G2 G2 G3 G- |$ G G2 G- GGGe- | e4 c2 G2 | B3 c- cGGe- | e4 c2 G2 | %28
+ B3 c- cGGe- | e4 c2 G2 | d3 c- c G2 e- | e4 c2 c2 |$ B3 c- c4 | z8 | G3 c- c B2 A- | A8 | %36
+ G3 E- E B2 A- | A8 | G3 c- c B2 A- | A8 | G3 E- E B2 A |$ G2 G2 G2 CD- | D D2 E- EC C2 | %43
+ G2 G2 G2 CD- | D E2 E- E4 | G2 G2 G2 CD- | D D2 E- EC C2 | G2 G2 G2 GB- |$ B B2 c- c4 | %49
+ c2 c2 c2 GB- | B B2 c- cG G2 | c2 c2 c2 GB- | B B2 c- c4 | c2 c2 c2 GB- | B B2 c- cG G2 | %55
+ c2 c2 c3 G |$ BBBB BB c2 |] %57

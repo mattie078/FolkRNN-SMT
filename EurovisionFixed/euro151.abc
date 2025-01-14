@@ -1,0 +1,17 @@
+X:59
+T:Title
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:C
+V:1
+ G,G,E,D, z E, z D, | G,G,E,D, z E, z2 | CCA,G, z A,2 G,- | G, A,2 E,/D,/ C,2 F,^F, | %4
+ G,G,E,D, z E, z D, |$ G,G,E,D, z E, z D, | C,4- C,A,E,G,- | G,3 A, z2 z F, | G,G,E,D, z E, z D, | %9
+ G,G,E,D, z E, z2 | CCA,G, z A,2 G,- |$ G, A,2 E,/D,/ C,2 F,^F, | G,G,E,D, z E, z D, | %13
+ G,G,E,D, z E, z D, | C,8 | z[K:treble] C2 A, C2 D2 | z E E2 G G3- |$ G3 E E D2 E- | E4 C D2 E | %19
+ E3 D C B,2 C- | C4 CDCE- | E C2 G,- G,3 F- |$ FFEE CA, z F- | FFEE C2 D2 | z E E2 G G3- | %25
+ G3 E E D2 E- | E4 C D2 E | E3 D C B,2 C- |$ C4 CDCE- | E C2 G,- G,3 F- | FFEE CA, z F- | %31
+ FFEE C D3 | z8 | z8 | z8 | z8 |$ z4 EFGG- | G3 F E D2 E | z4 CDEE- | E3 D C B,2 C | z4 CDCE- | %41
+ E C2 G,- G,2 G,F- |$ FFEE CA, z F- | FFEE C D2 F- | FFEE CA, z F- | FFEE C D2 F- | %46
+ FFEE CA, z F- |$ FFEE C D2 C- | C8 |] %49

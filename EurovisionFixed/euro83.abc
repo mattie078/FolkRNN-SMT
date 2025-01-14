@@ -1,0 +1,16 @@
+X:183
+T:Title
+L:1/8
+Q:1/4=180
+M:4/4
+I:linebreak $
+K:Eb
+V:1
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 z DEC | C4 C2 CG | _G2 DG z2 z E |$ z E2 D ED C2 | %12
+ C2 z2 z DEC | C4 C2 CG | _G2 ED z2 z E | z E2 C EG z G | z4 z DEC |$ C4 C2 CG | _G2 DG z2 z =G | %19
+ z G2 E GE D2 | D2 z2 z DED | D2 z2 z DED | C2 z2 z DED | C8- |$ C8 | z8 | =Bc z2 d e2 d- | d4 z4 | %28
+ d3 d- d2 ce- | e4 z4 | e2 dc z B2 B- | B4 z4 | AA z2 A3 G- | G4 z4 |$ =Bc z2 d e2 d- | d4 z4 | %36
+ d3 d- d2 ce- | e4 z4 | e2 dc z B2 B- | B4 z4 | AA z2 A3 G- | G4 z4 |$ C2 CC C B,2 C- | %43
+ C C2 B, C2 ED- | D4 z4 | z8 | C2 CC C B,2 C- | C C2[K:bass] B, C2 C=B,- |$ B,4 z4 | z8 | %50
+[K:treble] C2 C2 C C2 C- | C2 C2 C2 ED- | D4 z4 | z2 B2 c2 ee- | e8 | z2 B2 c2 de- | e8 | z8 |$ %58
+ z8 | =Bc z2 d e2 d |] %60

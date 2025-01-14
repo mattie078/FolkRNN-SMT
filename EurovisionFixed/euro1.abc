@@ -1,0 +1,13 @@
+X:1
+T:Title
+L:1/8
+Q:1/4=160
+M:4/4
+I:linebreak $
+K:C
+V:1
+ D8 | z DDE FEDF | E>A,- A,D- D4 | z4 z2 z C | D8 | z DDE FEDF | G>A- AA- A4 |$ z4 z2 B2 | c6 dd- | %9
+ d3 G cdef | e3 G- G2 A2- | A3 G cdef | e3 c- c2 d2- | d4- dGcd |$ c>c- cc- c<c c>d- | d c3- cCCD | %16
+ E8 | z2 z C GFEF | E2 CC- C4 | z4 z2 C2 | D2 ED- D4 |$ z2 z C GFEF | E2 CG- G4 | %23
+ A3- A/B/- Bc- c<c | c6 dd | z8 | z8 | z4 z2 cB | c6 dd |$ z4 z Gcd | c>c- cc- c<c c>d- | %31
+ d e3- e2 z2 |] %32

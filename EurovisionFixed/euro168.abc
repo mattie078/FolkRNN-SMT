@@ -1,0 +1,13 @@
+X:77
+T:Title
+L:1/8
+Q:1/4=160
+M:4/4
+I:linebreak $
+K:C
+V:1
+ z8 | z8 | z8 | z8 | E2 E2 E2 DC | DCCC z2 z D | EEEE EEDC | EDDD z4 |$ E2 E2 E2 DC | DCCC z4 | %10
+ z EDC E D2 D- | D C3 z4 | E2 E2 E2 DC | DCCC z2 z D |$ EEEE EEDC | EDDD z4 | E2 E2 E2 DC | %17
+ DCCC z4 | EEEE E D3 | DCB,C z4 |$ z GGG GGGG | E2 G2 E2 G2 | z FFF GG G2 | E2 G2 E2 G2 | %24
+ z FFF GG G2 | E2 G2 E2 G2 | z FFF E D2 D- |$ D C3 z4 | z GGG GGGG | E2 G2 E2 G2 | z FFF GG G2 | %31
+ E2 G2 E2 G2 | z FFF GG G2 | E2 G2 E2 G2 |$ z FFF E D2 D- | D C3 z4 |] %36

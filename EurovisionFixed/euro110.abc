@@ -1,0 +1,17 @@
+X:14
+T:Title
+L:1/8
+Q:1/4=200
+M:4/4
+I:linebreak $
+K:Eb
+V:1
+ z4 z C D2 | E2 z2 z C D2 | E2 z2 z C D2 | E2 z2 z[K:bass] G, G,2 | _G,2 z2 z4 | %5
+ z[K:treble] ECA, ECA,E |$ C[K:bass]A, E2 z A,B,A, | G,4 z4 | z4 z[K:treble] C D2 | E2 z2 z C D2 | %10
+ E2 z2 z C D2 | E2 z2 z[K:bass] G, G,2 |$ _G,2 z2 z4 | z[K:treble] ECA, EC[K:bass]A,B, | %14
+ G,G,G,G,[K:treble] D2 E2 | C4 z4 | z4 (3z2 C2 D2 | =E3 E E2 C2 |$ =E4 (3z2 G2 =A2 | B3 =A G2 F2 | %20
+ =E4 (3z2 F2 D2 | F4 (3z2 F2 D2 | F4 z2 FD | F3 D F2 G2 | A4 z2 GF | =E3 E E2 C2 |$ %26
+ =E4 (3z2 G2 =A2 | B3 c =A2 G2 | F =E3 (3z2 F2 D2 | F4 (3z2 F2 D2 | F4 z4 | D=EDE FGFG | %32
+ ABcd g4- |$ g f2 e- e3 c | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 z2 =A=B | c4 z2 c=A | %43
+ c4 z2 =A=B |$ c4 z2 =ED | D4 z cc=E- | E8 | z4 z ccE- | E8 | z4 z CC=E- | E4 z4 | FE z c- c4 |$ %52
+ edcd- d c3 | z4 z ccg- | g8 |] %55

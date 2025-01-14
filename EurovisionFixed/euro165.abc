@@ -1,0 +1,14 @@
+X:74
+T:Title
+L:1/8
+Q:1/4=160
+M:4/4
+I:linebreak $
+K:C
+V:1
+ z4 z2 A,G,- | G,3 E,/D,/ C,2 z2 | z C,D,C, E,2 D,C, | z8 | z8 | z8 | z4 z2 E,E, | z8 | %8
+ z D,D,C, E,E,D,C, |$ z8 | z4 z2 G,G, | z4 z2 z F, | F,F,F,F, A,2 G,G, | z8 | z4 z2 B,C | z8 | %16
+ z B,B,B, D2 CA, | z4 z F,G,^G, |$ z4 z2 A,G,- | G,E,/D,/ C,2 z4 | z C,D,C, E,2 D,C, | z8 | %22
+ z[K:treble] EEE EDCA, | z4 z A,A,C | DDDD D2 EF- |$ FE z2 z4 | z EEG EDCA, | z4 z A,A,C | %28
+ DDDD D2 EF- | FE z2 z4 | z GGG GAAA- | A/G/F z2 z4 |$ z GGG GAGG- | G/F/E z2 z2 DC | %34
+ z4 z2[K:bass] A,G,- | G,E,/D,/ C,2 z4 | z C,D,C, E,2 D,C, |] %37

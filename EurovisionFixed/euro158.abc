@@ -1,0 +1,17 @@
+X:66
+T:Title
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:A
+V:1
+ z8 | z8 | z8 | z8 | z4 C C2 D- | D C2 B,- B, A,3 | E8- | E6- EE | F2 GA- AGFE- |$ E4 D2 C2 | %10
+ C2 DB,- B,4 | z8 | z4 C C2 D- | D C2 A,- A, F3 | F3 E- E4- | E6- EE |$ F2 GA- AGFE- | E4 D2 C2 | %18
+ D2 C[K:bass]B,- B, A,2 E- | E8 | z4[K:treble] ^E E2 E- | E2 =E2 D2 =C2 |$ E2 EE- E D2 D- | D8 | %24
+ z4 ^E E2 E- | E2 =E2 D2 =C2 | A2 AA- A E2 =G- | G2 A2 z ^E=GA- |$ A2 =G2 G2 E2 | =G3 A- A3 E- | %30
+ E2 DD- D4 | ^E E2 =E- E D2 D- | D2 E=C- C4 | =C D2 E- E =G3 |$ ^E4 =E4 | =C4 D3 A- | %36
+ A2 =G2 G2 E2 | =G3 A- A3 E- | E2 DD- D4 | ^E E2 =E- E D2 D- | D2 E=C- C4 |$ =C D2 E- E =G3 | %42
+ ^E4 =E4 | =C4 D3 E- | E8 | z8 | z8 | z8 | z4 z2 =G2 | =G4 ^A2 G2- | G2 ^E6 |$ z4 z2 ^A,2 | %52
+ ^D3 D- D2 D2 | ^D3 D- D2 ^E2- | E2 D6- | D8 | z4 z2 =G2 | =G4 ^A2 G2- | G2 ^E6 |$ z2 D2- D ^E3 | %60
+ =G8- | G8 | A2 AA- A A2 =G- | G2 A2 z E=GA- | A2 =G2 G2 E2 | =G3 A- A3 B |] %66

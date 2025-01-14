@@ -1,0 +1,15 @@
+X:128
+T:Title
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:Bb
+V:1
+ z2 GG GFEF- | F G2 C- C C3 | z2 GG GFEF- | FE E2 z4 | z2 GG GFEF- |$ F G2 C- C C2 C | DDDD DEDC | %7
+ z8 | z GFE FE G2 | C2 cB- BcGF- | FECB, E2 CB, |$ z2 FF FFEF | FFFE GFEC | C2 cB- BcGF- | %14
+ FECB, E2 CB, | z2 FF FFEF |$ FFFE GFEC | C2 cB- BcGF- | FECB, E2 CB, | z2 FF FFFA- | AAAG ABAG |$ %21
+ C2 cB- BcGF- | FECB, E2 CB, | z2 FF FFEF | FFFE GFEC | z4 CCCC- |$ C[K:bass] B,2 G,- G, G,3 | %27
+ z2 z[K:treble] D DDDE | CC z2 z4 | z4 CCCC- | C[K:bass] B,2 G,- G, G,3 |$ z2 z[K:treble] D DDCE | %32
+ CC z2 z4 | z2 GG GFEF- | F G2 C- C C3 | z2 GG GFEF- | FE E2 z4 |$ z2 GG GFEF- | F G2 C- C C2 C | %39
+ DDDD DEDC | z8 | z GFE FE G2 |] %42

@@ -1,0 +1,16 @@
+X:99
+T:Title
+L:1/8
+Q:1/4=180
+M:4/4
+I:linebreak $
+K:Bb
+V:1
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z cce fgfe | f2 z2 z4 | z cce fgfe |$ fgfe c2 z2 | %12
+ z cce fgfe | f2 z2 z4 | z cce fgfe | fgfe c2 z2 | z cce fgfe |$ f2 z2 z4 | z cce fgfe | c2 z2 z4 | %20
+ z8 | z8 | z CCC CCDE | D2 z2 z4 |$ z[K:bass] B,B,B, B,B,DB, | C2 z2 z4 | z[K:treble] CCC CCDE | %27
+ D2 z2 z4 | z[K:bass] B,B,B, B,B,DB, |$ C2 z2 z4 | z[K:treble] CCC CCCC | C2[K:bass] B,B,- B,4 | %32
+ z DD[K:treble]D DDDE | D2 CC- C4 |$ z CCC CCCC | C2[K:bass] B,B,- B,4 | z DD[K:treble]D DDDE | %37
+ C2 z2 z4 | z cce fgfe | f2 z2 z4 |$ z cce fgfe | fgfe c2 z2 | z cce fgfe | f2 z2 z4 | z cce fgfe | %45
+ fgfe c2 z2 |$ z4 c2 B2 | c8- | c4 c2 d2 | e3 B B4- | B4 e2 e2 | f3 B B4- | B4 e2 f2 | g8- | %54
+ g4 c2 B2 | c8- | c4 c2 d2 |$ e3 G G4- | G4 c2 d2 | eeee- edcd- | dddd- dc=Bc- | c8 | z cce fgfe |] %63

@@ -1,0 +1,17 @@
+X:37
+T:Title
+L:1/16
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:C
+V:1
+ z2 z G c2Gc- c2ed- d2cG- | G4 z4 z8 | z2 z G c2cc- c4 (3c2d2e2 | A2GF- F4 z8 |$ %4
+ z4 d2Ad- d2Af- f2eA- | A4 z2 z A c2>c2 f2>e2 | A4 z2 z G d2>d2 f2>f2 | e2dc- c4 z8 |$ %8
+ z2 z G c2Gc- c2<e2 d2ee- | ed c6 z8 | z2 z G c2cc- c4 (3c2d2e2 | A2GF- F4 z8 | %12
+ z4 d2Ad- d2Af- f2eA- |$ A4 z2 z A c2>c2 f2>e2 | A4 z2 z G d2>d2 f2>f2 | e2dc- c4 z8 | %16
+ z2 z g g2gg- g2fe- e2dG- |$ G4 z2 z g g2fe- e2dG- | G4 z4 z2 z G efgg- | gf2e c4 z8 | %20
+ z4 f2ff- f2ed- d2cd- | d4 z2 z D d2cB- B2AG- |$ G4 z4 z4 GdGd | e6- ed c4- cA2G- | %24
+ G2>g2 g2gg- g2gg- g2<a2 | e4 z2 z e e2ga- a2>g2 |$ edc2 z2 z c d2Bc- c2<e2 | A8 z8 | %28
+ z2 z B c2Bc- c2Bc- c2eA- | AGF2 z4 c2Bc- c2eA- | A4 z4 z2 B2c2e2 |$ e2 d4 d2- d4 B2d2- | %32
+ d8 z2 d2e2f2 | e2c2 z4 A4 G2F2- | F4 z4 z2 d2e2f2 | edc2 z4 z2 A4 G2 | AG F6 z4 f2<g2 | c16 |] %38

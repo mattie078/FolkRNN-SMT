@@ -1,0 +1,15 @@
+X:112
+T:Title
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:Bb
+V:1
+ z2 B,/C/C z z/ B,/ B,/C/C | z2 z z/ G,/ CC/C/ G,G, | z2 B,/C/C z2 B,/C/C | z4 z2[K:bass] B,G, |$ %4
+ z z/ B,/ B,/D/[K:treble]C z z/ B,/ B,/D/C | z2 z/[K:bass] G,/G,/G,/ CC/C/ G,G, | %6
+ z z/ G,/ B,/[K:treble]C/C z2 B,/C/C | z8 |$ z C/D/ D/D/C/B,/ CCCG, | z C/D/ D/D/C/B,/ C2 z2 | %10
+ z/ G,/B,/D/ D/C/C/B,/ CCC[K:bass]G,- |$ G, B,2 C- C2[K:treble] DF | G>G z D F2 D/C/B, | %13
+ C2 z B, E/.EE/ ED | z2 z B, FD/F/- F/D/C |$ FD/F/- F/D/C G,2 DF | G>G z D F2 D/C/B, | %17
+ C2 z B, E/.EE/ ED | z2 z B, FD/F/- F/D/C |$ FD/F/- F/D/C z D G,2 | z8 | z4 z DG,B, | z4 z2 z B, | %23
+ FD/F/- F/D/C FD/F/- F/D/C | z8 |$ z4 z DG,B, |] %26

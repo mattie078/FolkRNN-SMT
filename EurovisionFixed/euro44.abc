@@ -1,0 +1,16 @@
+X:140
+T:Title
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:C
+V:1
+ CC C2 D/CC/- C2 | z2 z C/C/ D>E- EA,- | A,2 z2 z4 | z8 | z C C<C D/CC/- C2 |$ z2 CC/D/- D E2 D- | %6
+ D2 z2 z E2 A,- | A,2 z2 z2 z C/C/ | (3DEE ED/C/ D/EE/ z D/C/ |$ (3DEE ED/C/ D/EE/ z/ G3/2 | %10
+ F2 z2 GF EC/A,/- | A,2 z2 z2 z C/C/ | (3DEE ED/C/ D/EE/ z D/C/ |$ (3DEE ED/C/ D/EE/ z/ G3/2 | %14
+ F2 z2 GF ED/F/- | F2 z2 z4 | A,2 z2 CD z2 | E F2 E z DCD | z4 z DEC |$ z8 | A,2 z2 C2 D2 | %21
+ E2 FE z DCD | z4 z E2 D | z8 | A,2 z2 C2 D2 | E2 FE z DCD | z4 z DEC | z8 |$ A,2 z2 CD z2 | %29
+ E F2 E z DCD | z4 z E2 D | z8 | E2 E>D z/ C3/2 z2 | z z/ E/ z/ ED/ z/ C3/2 z2 |$ %34
+ F2 F>E z/ D3/2 z2 | z E/E/ z/ ED/- D<C z2 | E2 E>D z/ C3/2 z2 | z z/ E/ z/ ED/ z/ C3/2 z2 | %38
+ F2 F>E z/ D3/2 z2 |$ z E/E/ z/ ED/- D<C z2 |] %40

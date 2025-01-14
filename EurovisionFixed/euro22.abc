@@ -1,0 +1,18 @@
+X:116
+T:Title
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:Eb
+V:1
+ z2 E,/F,/F, z2 E,/F,/F, | z2 E,/F,G,/- G,E,/E,/ E,/E,/C, | z2 E,/F,G,/- G,E, E,<F, | z8 | %4
+ z2 E,/F,/F, z2 E,/F,/F, |$ z2 E,/F,G,/- G,E,/E,/ E,/E,/C, | z2 E,/F,G,/- G,E, E,<F, | z4 z2 z G, | %8
+ CCCG,- G,2 z E,/E,/ | B,B, B,2 G,/F,/E, z2 |$[K:treble] CCCG,- G,2 z[K:bass] E, | %11
+ CB,G,B,- B,G, z G,/G,/ |[K:treble] CCCG,- G,2 z[K:bass] E,/E,/ | B,B, B,2 G,/F,/E, z2 |$ %14
+ G,F,/G,/- G,/F,/G,- G,4 | z8 | z[K:treble] C/C/ B,C FEC[K:bass]B, | C,>C- CC[K:treble] C2 C2 |$ %18
+ z z/ C/- CC CD[K:bass]B,G, | C,>C- C[K:treble]C C2 C2 | z C/C/ B,C FEC[K:bass]B, |$ %21
+ C,>C- CC[K:treble] C2 C2 | z z/ C/- CC CD[K:bass]B,G, | C,>C- C[K:treble]C C2 C2 | %24
+ z C/C/ B,C FECB, |$ z4 z2 z z/[K:bass] G,/ | G,/G,/G,/G,/ G,F,/F,/- F,2 z2 | %27
+ A,/A,/A,/A,/ A,G,/G,/- G,2 z z/ G,/ | G,/G,/G,/G,/ G,F,/F,/- F,2 z2 |$ %29
+ z[K:treble] C/C/ B,C FECB, |] %30

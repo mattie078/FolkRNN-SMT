@@ -1,0 +1,20 @@
+X:19
+T:Title
+%%score ( 1 2 )
+L:1/8
+Q:1/4=150
+M:4/4
+I:linebreak $
+K:Bb
+V:2 treble 
+V:1
+ z8 | z8 | z8 | z8 | z8 | z4 D E2 F- | F4 z4 | z2 FF B B2 G- | G4 z4 | z2 GG G2 GG |$ %10
+ G2 FF- F2 (3z AB | c4 (3E2 E2 F2 | E2 DB- B4 | z4 D E2 F- | F4 z4 | z2 FF B B2 G- | G4 z4 | %17
+ z2 GG G2 GG |$ G2 FF- F2 (3z AB | c4 d c3 | B8 | z4 B c2 d- | d8 | z2 dd ddce- | e d3 z dce- | %25
+ e3 d (3d2 c2 B2 |$ G3 c c4 | z4 c d2 e- | e8 | z2 ee eedf- | f e3 z edf- | f3 e (3e2 d2 c2 | F8 | %33
+ z4 B c2 d- | d8 |$ z2 dd ddce- | e d3 z dce- | e3 d (3d2 c2 B2 | G3 c c4 | z4 c d2 e- | e8 | %41
+ z2 ee eedf- |$ f e3 z edf- | f4 (3z2 d2 c2 | B8 |] %45
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | %19
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | %38
+ x8 | x8 | x8 | x8 |$ x8 | z2 z e- e3/2 z/ z2 | x8 |] %45

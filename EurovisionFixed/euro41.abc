@@ -1,0 +1,18 @@
+X:137
+T:Title
+L:1/16
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:Bb
+V:1
+ z16 | z16 | z16 | z16 | E,2C,E, z .C,2E, z2 F,F,- F,2>C,2 | E,2C,E, z .C,2E, z2 E,E,- E,2>C,2 |$ %6
+ E,2C,E, z .C,2E, z2 F,E,- E,2C,C, | C,2C,B,, z B,,B,,B,,- B,,4 z4 | %8
+ E,2C,E, z .C,2E, z2 F,F,- F,2>C,2 | E,2C,E, z .C,2E, z2 E,E,- E,2>C,2 |$ %10
+ E,2C,E, z .C,2E, z2 F,E,- E,B,B,G, | F,2E,2 z C,C,C,- C,8 | E,4 G,2>C,2- C,4 z E,E,E, | %13
+ E,2D,2 G,2D,F,- F,E,2E,- E,D,2E, |$ z4 G,2>C,2- C,2>E,2- E,2<E,2 | D,D,D,D, z .D,2E,- E,4 z4 | %16
+ B,2G,2 F,2E,F,- F,2>C,2 z E,2E, | D,D,D,D, G,2D,F,- F,E,D,E,- E,E,E,E, |$ %18
+ E,2C,2 E,F,G,C,- C,2>E,2- E,2<E,2 | D,D,D,D,- D,D,2E, z8 | z2 C,E, z F,3 z2 C,E, z F,3 | %21
+ z2 C,E, z .F,2^F,- F,F,F,F, =F,2E,C, |$ z2 C,E, z F,3 F,4 E,4 | C,4 z4 z8 | %24
+ z2 C,E, z F,3 z2 C,E, z F,3 | z2 C,E, z .F,2^F,- F,F,F,F, =F,2E,C, |$ %26
+ z2 C,E, z F,3 z2 C2 B,G,2B, |] %27

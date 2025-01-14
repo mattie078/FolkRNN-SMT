@@ -1,0 +1,22 @@
+X:33
+T:Title
+L:1/16
+Q:1/4=160
+M:4/4
+I:linebreak $
+K:Eb
+V:1
+ z8 z4 z2 z C, | D,2E,D,- D,C,2D,- D,E,2D,- D,C,2C, | D,2E,D,- D,C,2D,- D,E,2D,- D,C,2C, |$ %3
+ D,2E,D,- D,C,2D,- D,E,2D,- D,2>C,2 | D,2E,D,- D,E,2D,- D,C,2C,- C,2>C,2 | %5
+ D,2E,D,- D,C,2D,- D,E,2D,- D,C,2C, |$ D,2E,D,- D,C,2D,- D,E,2D,- D,C,2C, | %7
+ D,2E,D,- D,C,2D,- D,E,2D,- D,2>C,2 | D,2E,D,- D,E,2D,- D,C,2C,- C,2>C,2 |$ %9
+ C2>G,2- G,2G,2 B,2G,2 G,G,2G, | C2>G,2- G,4 z2 G,2A,2B,2 | A,2>A,2- A,A,2A,- A,A,2A,- A,2<B,2 | %12
+ G,2>D,2- D,4 z8 | C2>G,2- G,2G,2 B,2G,2 G,G,2G, |$ C2>G,2- G,4 z2 G,2A,2B,2 | %15
+ A,2>A,2- A,A,2A,- A,A,2A,- A,2<B,2 | G,2>D,2- D,4 z =B,2B, =A,2B,2 | C4 G,2G,2 A,2A,2 C2A,G,- |$ %18
+ G,4 z D,D,2 E,F,2E,- E,D,E,2 | z4 z G,G,G, A,2A,2 C2A,G,- | G,4 z D,D,D, E,F,2E,- E,F,G,2 | %21
+ z4 z G,G,G, A,2A,2 C2A,G,- |$ G,4 z D,D,2 E,F,2E,- E,D,E,2 | z4 z G,G,G, A,2A,2B,2A,2 | %24
+ z2 D,D, z D,D,D, G,2F,E,- E,D,2E,- | E,2 C,6 z8 | z16 | z16 |$ z8 z4 z2 z C, | %29
+ D,2E,D,- D,C,2D,- D,E,2D,- D,C,2C, | D,2E,D,- D,C,2D,- D,E,2D,- D,2>C,2 | %31
+ D,2E,D,- D,C,2D,- D,E,2C,- C,2D,2- |$ D,2D,2 D,2D,E,- E,2D,C,- C,C,2C, | %33
+ D,2E,D,- D,C,2D,- D,E,2D,- D,C,2C, | D,2E,D,- D,C,2D,- D,E,2F,- F,2>E,2 |$ %35
+ F,2E,F,- F,E,2F,- F,G,2A,- A,2A,2- | A,2A,A,- A,A,2B,- B,A,G,2 G,4 |] %37

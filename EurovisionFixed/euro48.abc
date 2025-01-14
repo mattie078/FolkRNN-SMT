@@ -1,0 +1,16 @@
+X:144
+T:Title
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:Eb
+V:1
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z4 C,D,E,C, | G,>A,- A,F,- F,4 | z2 z B,- B,2 A,2 |$ %11
+ G,2 F,2 z E,2 D, | C,4 z D,2 E, | C,4 z D, E,2 | D,8 | G,8 | z4 C,D,E,C, | G,>A,- A,F,- F,4 | %18
+ z2 z B,- B,2 A,2 | G,2 F,2 z E,2 D, |$ C,4 z D,2 E, | C,4 z D, E,2 | D,8 | G,4- G,G,G,G, | %24
+ G,3 C, C,4 | G,/A,G,/- G,A, G,2 A,2 | F,4 B,,4 | G,/A,G,/- G,A, G,2 F,2 |$ E,3 A,, A,,4 | %29
+ F,G,/F,/- F,G, F,2 E,2 | G,A,/G,/- G,/A,G,/- G,/A,G,/- G,<A, | G,A,/G,/- G,/A,G,/- G,4 | %32
+ G,3 C, C,4 | G,/A,G,/- G,A, G,2 A,2 |$ F,4 B,,4 | G,/A,G,/- G,A, G,2 F,2 | E,3 A,, A,,4 | %37
+ F,G,/F,/- F,G, F,2 E,2 | G,A,/G,/- G,/A,G,/- G,/A,G,/- G,<A, | G,A,/G,/- G,/A,G,/- G,4 |$ G,8 | %41
+ A,2 G,2 F,2 E,2 | D,8 | G,2 F,2 E,2 D,2 | C,8 | F,2 E,2 D,2 C,2 | G,8 |] %47

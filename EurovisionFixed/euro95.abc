@@ -1,0 +1,16 @@
+X:196
+T:Title
+L:1/8
+Q:1/4=160
+M:4/4
+I:linebreak $
+K:C
+V:1
+ G G2 A A2 AB- | B B3 z4 | ^F F2 F- FFGA- | A4 z4 | E2 E2 z2 E^F | G2 G2 z4 | z2 c4 B2 |$ %7
+ AB A4- AG | c3 c d2 de- | e e3 z4 | z2 z B B2 B2 | B2 cd- d4 | z2 z A A2 A2 | BB c6 | z4 cccd |$ %15
+ e d3- d3 G | e3 e f2 fg- | g g3 z4 | z4 (3z2 d2 d2 | (3d2 d2 e2 f4 | z4 z2 cc | (3c2 c2 d2 e2 e2 | %22
+ z4 z ccc |$ _e2 d2 e4 | _e2 e2 d2 G2 | c4 c4 | z2 c2 B2 E2 | A4 z4 | z2 f2 e2 Ad- | d3 D d2 cB- | %30
+ B3 _E B3 A | G4 z4 |$ z2 g2 ^f2 Be- | e6 e2- | e4 d2 Ec- | c4 z4 | z2 a2 g2 Af- | f3 A f2 e_e- | %38
+ e3 G _e2 dc- | c8 | z4 z2 _e2 |$ _e2 ef- f2 fg- | g g3 z4 | d d2 d- dd_ef- | f4 z4 | c2 c2 z2 cd | %46
+ _e2 e2 z4 | z2 ^g4 =g2 | fg f6 |$ d d2 _e e2 ef- | f f3 z4 | d d2 _e e2 ef- | f8 | %53
+ _e e2 e f2 fg- | g g3 z4 | z2 _ee e f2 f | ^f2 f6 |] %57

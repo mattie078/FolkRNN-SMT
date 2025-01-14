@@ -1,0 +1,17 @@
+X:81
+T:Title
+L:1/16
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:C
+V:1
+ z8 z4 z A,A,A, | EE[K:treble]EE EEEE EA,2A, EFEC | DDDD DEFE z4 z[K:bass] A,A,A, |$ %3
+ EE[K:treble]EE EEEE EA,2A, EFEC | B,CDF EDCA, z4 z EEE |$ %5
+ FEDC[K:bass] B,A,G,^F, z E[K:treble]EE ^F2E2 | z EEE ^F^C2E z D3 z DDD |$ %7
+ _EDC[K:bass]_B, A,G,F,E, z[K:treble] DDD =E2D2 | z DDD E.B,2D z C3 z EEE | %9
+ E2B,E- EE2E- E2<D2 z DDD |$ D2A,D- DD2D- D2<C2 z CCC | CB,2D z DDD DC2E z2 z E | %12
+ FEDC D2ED CB,C2 z DDC |$ B,2DF E^G,2A, z8 | z16 | z8 z4 EGGE | E2DD- DCE2 z4 EGGE | %17
+ E2DD- DCD2 z4 DFFE |$ E2DD- DCD2 z2[K:bass] G,G, G,2G,G, |[K:treble] F2E2D2C2 z4 EGGE | %20
+ E2DD- DCE2 z4 EGGE |$ E2DD- DCD2 z4 A,FFE | E2DD- DCD2 z2[K:bass] G,G, G,2G,G, | %23
+[K:treble] F2E2D2C2 z8 |] %24

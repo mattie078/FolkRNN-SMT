@@ -1,0 +1,14 @@
+X:84
+T:Title
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:C
+V:1
+ (3A,B,C (3CB,A, (3G,E,F, G,2 | (3F,G,A, (3A,G,F, G, E,3 | (3D,E,F, (3F,E,D, (3C,E,A, CC | %3
+ B,B, (3A,B,C D G,3 |$ (3A,B,C (3CB,A, (3G,E,F, G,2 | (3F,G,A, (3A,G,F, E,4 | %6
+ (3D,E,F, (3B,B,A, (3G,A,B, CC | B,2 (3D,D,D, B,CB,A, | G,8 | E,6 F,G, |$ E,6 D,C, | D,8 | z8 | %13
+ F,6 G,A, | F,6 E,F, | E,8 | z8 | G,6 A,_B, | F,4 E,4 | z2 F,2 G,3 A, | E,4 D,4 | z2 C,2 D,2 E,2 |$ %22
+ ^F,6 G,2 | A,4 G,4 | z8 | E,6 F,G, | E,6 D,C, | D,8 | z8 | F,6 G,A, | F,6 E,D, | A,8 | z8 | %33
+ A,6 B,C |$ C2 B,4 A,2 | C4 G,4 | F,2 E,4- E,E, | A,8 | B,8 | C8 |] %40

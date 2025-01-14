@@ -1,0 +1,22 @@
+X:194
+T:Title
+%%score ( 1 2 )
+L:1/8
+Q:1/4=200
+M:4/4
+I:linebreak $
+K:C
+V:2 bass 
+V:1
+ D,2 B,,E, D,2 B,,2 | G,G, z G, G,2 z2 | D,2 B,,E, D,2 B,,2 | G,G, z G, G,2 z2 | z8 | z8 | z8 | %7
+ z8 | D,2 B,,E, D,2 B,,2 |$ z D,B,,E, D,2 B,,2 | G,G, z G, G,2 z2 | G,G, z G, G,2 z2 | %12
+ D,2 B,,E, D,2 B,,2 | z D,B,,E, D,2 B,,2 | G,G, z G, G,2 z2 |$ G,G, z G, .G,2 (3z G,G, | %16
+ G,2 z2 G,2 z2 | G,2 G,E, (3:2:2G, G,2 z2 | G,2 z2 G,2 z2 | G,2 G,E, (3:2:2G, G,2 z2 | z8 | z8 | %22
+ D,2 D,B,, (3:2:2E, D,2 z2 |$ D,2 D,B,, (3:2:2E, D,2 z2 | z8 | z8 | G,2 G,G, (3:2:2_B, G,2 z2 | %27
+ G,2 G,G, _B,2 G,2 | z8 | z8 | (3G,G,G,- G,2 (3G,G,G,- G,2 | (3G,G,F,- F,6 |$ %32
+ (3G,G,G,- G,2 G,G,G,G, | F,4 z4 | (3G,G,G,- G,2 (3G,G,G,- G,2 | (3G,G,F,- F,6 | %36
+ (3_B,B,B,- B,G, (3B,B,B,- B,G, | G,4 z4 |] %38
+V:2
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ z4 z .G,3 | x8 | x8 | %18
+ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | %37
+ x8 |] %38

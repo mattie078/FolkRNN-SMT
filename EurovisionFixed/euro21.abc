@@ -1,0 +1,14 @@
+X:115
+T:Title
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:Eb
+V:1
+ F,G,A,G, z4 | F,G,A,G, z4 |[K:treble] B,CCC C[K:bass]B,A,G, | F,G,A,G, z4 | F,G,A,G, z4 | %5
+ F,G,A,G, z4 |$[K:treble] B,CCC C[K:bass]B,A,G, | F,G,A,G, z4 |[K:treble] CDED z4 | CDED z4 | %10
+ CDDC D>C DD |$ FFDD z4 | CDED z4 | CDED z4 | B,CCC C[K:bass]B,A,G, | F,G,A,G, z4 |$ %16
+[K:treble] D>D- DD DC z B, | C>C- CC C2 z2 | E>E- EE E>E- EE | D2 C2 D2 z2 | D>D- DD DC z B, |$ %21
+ C>C- CC C2 z2 | C>C CC CCCD |[K:bass] B,2 =A,2 G,4 | F,G,A,G, z4 | F,G,A,G, z4 |$ %26
+[K:treble] B,CCC C[K:bass]B,A,G, | F,G,A,G, z4 |] %28

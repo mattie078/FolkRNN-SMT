@@ -1,0 +1,23 @@
+X:12
+T:Title
+%%score ( 1 2 )
+L:1/8
+Q:1/4=160
+M:4/4
+I:linebreak $
+K:C
+V:2 treble 
+V:1
+ z2 E/G/G- GEDE | F2 E2 D E2 C | z2 E/G/G- G E2 E | A2 G2 F G2 E | z2 E/G/G- GEDE |$ F2 E2 D E2 C | %6
+ z4 z2 EE | A2 G2 F G3 | z2 A,A, CCEE | FFED CC E2 | D/C/A, z2 z4 | z8 |$ z2 A,A, CCEE | %13
+ FF z E DCEC | DE z2 z C E2 | D/C/A, z2 z4 | z4 A,CA,D- |$ D C2 D- D C2[K:bass] A,- | %18
+ A,2 z2 z A,A,A, | C .D3 (3z B,A,- A,2 | z2 z[K:treble] A, A,CA,D- |$ DC z2 z E2 D- | %22
+ DE z2 z E2 D- | DE z2 z4 | z2 E/G/G- GEDE | F2 E2 D E2 C | z2 E/G/G- G E2 E |$ A2 G2 F G2 E | %28
+ z2 E/G/G- GEDE | F2 E2 D E2 C | z4 z2 EE | A2 G2 F G3 | E8 | F6- FE | E4 z2 EE |$ A2 G2 F G3 | %36
+ z4 z E- E/D/C/A,/ | z2 z D- D3 E/D/ | C4 z4 | z8 | A,A,CC DDEE | z DDD D2 DD |$ D2 C2 A,4 | %43
+ D2 C2[K:bass] A,4 | A,A,CC[K:treble] DDEE | z DDD D2 DD | D2 C2 A,4 | D2 C2 z4 |] %48
+V:2
+ x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 |$ %17
+ x7[K:bass] x | x8 | z2 z C- C/ z/ z z2 | x3[K:treble] x5 |$ x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | %28
+ x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x8 | x8 | x8 | x8 | x8 | x8 |$ x8 | x4[K:bass] x4 | %44
+ x4[K:treble] x4 | x8 | x8 | x8 |] %48

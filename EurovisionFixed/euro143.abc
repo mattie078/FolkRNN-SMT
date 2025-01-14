@@ -1,0 +1,15 @@
+X:50
+T:Title
+L:1/8
+Q:1/4=180
+M:4/4
+I:linebreak $
+K:Eb
+V:1
+ z2 G,2 G,2 G,2 | G,G,G,G, G,F,E,G, | F,2 z2 z2 z B,, | D,E,F,G,- G,F, E,2 | z2 G,2 G,2 G,2 | %5
+ G,F,E,C, E,F,G,E,- |$ E,2 z2 z2 z B,,/C,/ | E, E,2 C,/B,,/ E, F,2 G,- | G,2 G,2 G,2 A,2 | %9
+ B,A,G,E, E,F,G,G, | F,2 z2 z2 z B,, | D,E,F,G,- G,F, E,2 |$ z2 G,2 G,2 G,2 | G,F,E,C, E,F,G,E,- | %14
+ E,2 z2 z2 z B,,/C,/ | E, E,2 C,/B,,/ E,F,G,E,- | E,2 G,2 F,2 E,B,,- | B,,2 G,2 F,2 E,C, | %18
+ B,, C,3- C,4 |$ z2 z B,,/C,/ F,F,F,E,- | E,2 G,2 F,2 E,B,,- | B,,2 G,2 A,2 G,G,- | G, F,3- F,4 | %23
+ z8 | z2 B,G, G,F,F,E, | E,2 E,C, E,F,G,F,- |$ F,2 B,F, F,E,D,D, | D,2 D,2 D,E,F,E,- | %28
+ E,E,G,F, F,E,C,C, | E,2 E,C, E,F,G,E,- | E,B,,C,E,- E, E,3 |$ z B,,C,F,- F, E,3 |] %32

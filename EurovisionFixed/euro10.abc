@@ -1,0 +1,16 @@
+X:2
+T:Title
+L:1/8
+Q:1/4=160
+M:4/4
+I:linebreak $
+K:Eb
+V:1
+ z8 | z8 | z8 | z8 | z8 | z8 | z8 | z8 | z2 E,2 G,2 B,B, | C[K:treble]CDC- C2 z C |$ %10
+ E C2 E- E2 z C | F2 FF- F2 z2 |[K:bass] E,E, E,2 G,2 B,B, |[K:treble] CCDC- C2 z C | %14
+ E C2 E- E2 z C |$ F2 FF- F2 z E | D D2 C- C D3 | E2 FE- E4 | E2 CE- E2 z2 | (3G2 F2 E2 F2 FF | %20
+ E2 D2 C2 B,B, |$ CCD[K:bass]C- CG,E,F,- | F,2 z2 z CG,B,- | B,2 z2 z2[K:treble] CD | %24
+ EE D2 C2 B,B, | CCD[K:bass]C- CG,E,F, |$ z4 z CG,B,- | B,2 z2 z4 | F,F,F,G,- G,G,G,A, | %29
+ z2 E,E, F,F,_G,F,- | F,E, z2 z4 | z8 | z2 F,F, A,2 C2 | C3 B,- B,4 |$ z2 G,G, B,2 D2 | C4 z4 | %36
+ z2 F,F, A,2 C2 | C3 B,- B,4 | z2 G,G, B,2 D2 | C4 z4 |[K:treble] E2 CE- E G3 | E2 CE- E G3 |$ %42
+ (3_G2 F2 E2 (3G2 F2 E2 | (3_G2 F2 E2 (3G2 F2 E2 |] %44

@@ -1,0 +1,14 @@
+X:186
+T:Title
+L:1/8
+Q:1/4=160
+M:4/4
+I:linebreak $
+K:C
+V:1
+ G3 E- E4 | G3 E- EDDC | E3 D- D4 | E3 D- D4 | G3 E- E4 | G3 E- E D2 C |$ E3 D- D3 D | E2 FD- D4 | %8
+ G3 B- B c3 | G3 B- B2 c2 | E3 D- D3 D | E2 FD- D4 | G3 B- B c3 |$ G3 f- f e3 | A8- | A4 z2 AB | %16
+ c2 c2 c2 z c | cccd- dccB | c2 c2 c2 z c | cccd- decB |$ c2 c2 c2 z c | cccd- d e3 | e8 | g8 | %24
+ g8- | g4 g>f- fe | d3 e- e4 | cdef gfed | c3 g- g2 c2 |$ B3 g a>a- ag | a2 ge- e4 | g8 | g8- | %33
+ g4 g>f- fe | d3 e- e4 | cdef gfed | c3 g- g2 c2 |$ B3 g a>a- ag | a8 | g8 | z ccc cccc | %41
+ cccc c>B- BA | z ccc cccc |$ cccc c>d- de | z ccc cccc | cccc c>B- BA | z ddd dddd | dd z2 z4 |] %48

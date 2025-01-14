@@ -1,0 +1,13 @@
+X:175
+T:Title
+L:1/16
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:C
+V:1
+ z2 z C GFEF G4 z2 z C | GFEF GFEF E2 C6 | z2 z C CDEF E4 z2 z C |$ GFEF GFEF E2 C6 | %4
+ z2 z C CDEF E4 z2 z C | GFEF GFEF E2 C6 |$ z2 z C CDEE E4 z2 z C | GFEF GFEF E2C2 CDE2 | %8
+ G4[K:bass] C4 B,2 C4 A,2- | A,4 z4 z2 z[K:treble] C CDE2 |$ G4 C4 B,2 C4 C2- | C4 z4 z2 z C FEDC | %12
+ F2E2F2E2- E4 FEDC | F2E2F2E2 F2EF- F2<G2 | z2 E2 z4 z4 FEDC |$ F2E2 C4 z2 z C FEDC | %16
+ F2E2 F4 F2F2F2F2 | E8 z8 |] %18
