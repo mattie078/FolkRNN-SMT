@@ -6,7 +6,8 @@ import time
 import importlib
 import cPickle as pickle
 
-from folk_rnn import Folk_RNN
+from folk_rnn_lobotomized import Folk_RNN
+# from folk_rnn import Folk_RNN
 import argparse
 
 parser = argparse.ArgumentParser()
@@ -16,6 +17,7 @@ parser.add_argument('--temperature', type=float)
 parser.add_argument('--ntunes', type=int, default=1)
 parser.add_argument('--seed')
 parser.add_argument('--terminal', action="store_true")
+parser.add_argument('--nobars', action="store_true")
 
 args = parser.parse_args()
 
@@ -24,6 +26,7 @@ rng_seed = args.rng_seed
 temperature = args.temperature
 ntunes = args.ntunes
 seed = args.seed
+nobars = args.nobars
 
 print('seed', seed)
 
@@ -54,7 +57,7 @@ folk_rnn = Folk_RNN(
     )
 folk_rnn.seed_tune(seed)
 for i in xrange(ntunes):
-    tune = 'X:{}\n{}\n'.format(i, folk_rnn.compose_tune())
+    tune = 'X:{}\n{}\n'.format(i, folk_rnn.compose_tune(nobars))
     if args.terminal:
         print(tune)
     else:
