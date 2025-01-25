@@ -190,7 +190,7 @@ prev_time = time.clock()
 
 if hasattr(config, 'resume_path'):
     print 'Load metadata for resuming'
-    with open(config.resume_path) as f:
+    with open(config.resume_path, 'rb') as f:
         resume_metadata = pickle.load(f)
 
     nn.layers.set_all_param_values(l_out, resume_metadata['param_values'])
